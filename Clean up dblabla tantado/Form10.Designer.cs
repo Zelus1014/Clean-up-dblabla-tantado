@@ -447,7 +447,7 @@
             this.panel34.Controls.Add(this.label196);
             this.panel34.Controls.Add(this.label197);
             this.panel34.Controls.Add(this.panel60);
-            this.panel34.Location = new System.Drawing.Point(1212, 19);
+            this.panel34.Location = new System.Drawing.Point(1222, 6);
             this.panel34.Margin = new System.Windows.Forms.Padding(6);
             this.panel34.Name = "panel34";
             this.panel34.Size = new System.Drawing.Size(788, 1152);
@@ -2087,16 +2087,16 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.Control;
-            this.panel1.Controls.Add(this.panel26);
-            this.panel1.Controls.Add(this.panel15);
-            this.panel1.Controls.Add(this.panel18);
-            this.panel1.Controls.Add(this.panel8);
             this.panel1.Controls.Add(this.button6);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Controls.Add(this.label83);
             this.panel1.Controls.Add(this.label84);
             this.panel1.Controls.Add(this.panel7);
+            this.panel1.Controls.Add(this.panel26);
+            this.panel1.Controls.Add(this.panel15);
+            this.panel1.Controls.Add(this.panel18);
+            this.panel1.Controls.Add(this.panel8);
             this.panel1.Location = new System.Drawing.Point(412, 6);
             this.panel1.Margin = new System.Windows.Forms.Padding(6);
             this.panel1.Name = "panel1";
@@ -3310,6 +3310,7 @@
             this.button22.TabIndex = 4;
             this.button22.Text = "Overview";
             this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
             // button4
             // 
@@ -3935,7 +3936,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1714, 1076);
+            this.ClientSize = new System.Drawing.Size(1714, 1216);
             this.Controls.Add(this.panel11);
             this.Name = "Form10";
             this.Text = "Form10";

@@ -179,6 +179,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel1.Controls.Add(this.panel18);
             this.panel1.Controls.Add(this.button6);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.panel3);
@@ -186,20 +187,21 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.panel4);
             this.panel1.Location = new System.Drawing.Point(649, 35);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(777, 1067);
+            this.panel1.Size = new System.Drawing.Size(777, 1090);
             this.panel1.TabIndex = 1;
             // 
             // button6
             // 
             this.button6.Location = new System.Drawing.Point(671, 13);
-            this.button6.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button6.Margin = new System.Windows.Forms.Padding(6);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(95, 42);
             this.button6.TabIndex = 11;
             this.button6.Text = "Close";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // panel2
             // 
@@ -209,7 +211,7 @@
             this.panel2.Controls.Add(this.button2);
             this.panel2.Controls.Add(this.button1);
             this.panel2.Location = new System.Drawing.Point(72, 161);
-            this.panel2.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel2.Margin = new System.Windows.Forms.Padding(6);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(642, 50);
             this.panel2.TabIndex = 2;
@@ -217,45 +219,50 @@
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(473, 6);
-            this.button4.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button4.Margin = new System.Windows.Forms.Padding(6);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(138, 42);
             this.button4.TabIndex = 3;
             this.button4.Text = "Timeline";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(324, 6);
-            this.button3.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button3.Margin = new System.Windows.Forms.Padding(6);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(138, 42);
             this.button3.TabIndex = 2;
             this.button3.Text = "Tools";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(176, 6);
-            this.button2.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button2.Margin = new System.Windows.Forms.Padding(6);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(138, 42);
             this.button2.TabIndex = 1;
             this.button2.Text = "Team";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(28, 6);
-            this.button1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button1.Margin = new System.Windows.Forms.Padding(6);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(138, 42);
             this.button1.TabIndex = 0;
             this.button1.Text = "Waste Data";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.panel15);
             this.panel3.Controls.Add(this.button5);
             this.panel3.Controls.Add(this.label9);
             this.panel3.Controls.Add(this.label10);
@@ -268,7 +275,7 @@
             this.panel3.Controls.Add(this.label4);
             this.panel3.Controls.Add(this.label3);
             this.panel3.Location = new System.Drawing.Point(72, 257);
-            this.panel3.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel3.Margin = new System.Windows.Forms.Padding(6);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(642, 445);
             this.panel3.TabIndex = 3;
@@ -276,12 +283,13 @@
             // button5
             // 
             this.button5.Location = new System.Drawing.Point(468, 22);
-            this.button5.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button5.Margin = new System.Windows.Forms.Padding(6);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(169, 42);
             this.button5.TabIndex = 10;
             this.button5.Text = "Add Waste type";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // label9
             // 
@@ -417,7 +425,7 @@
             this.panel4.Controls.Add(this.panel5);
             this.panel4.Controls.Add(this.label13);
             this.panel4.Location = new System.Drawing.Point(66, 713);
-            this.panel4.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel4.Margin = new System.Windows.Forms.Padding(6);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(642, 349);
             this.panel4.TabIndex = 4;
@@ -428,7 +436,7 @@
             this.panel7.Controls.Add(this.label18);
             this.panel7.Controls.Add(this.label19);
             this.panel7.Location = new System.Drawing.Point(28, 258);
-            this.panel7.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel7.Margin = new System.Windows.Forms.Padding(6);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(583, 63);
             this.panel7.TabIndex = 12;
@@ -458,7 +466,7 @@
             this.panel6.Controls.Add(this.label16);
             this.panel6.Controls.Add(this.label17);
             this.panel6.Location = new System.Drawing.Point(28, 185);
-            this.panel6.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel6.Margin = new System.Windows.Forms.Padding(6);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(583, 63);
             this.panel6.TabIndex = 12;
@@ -488,7 +496,7 @@
             this.panel5.Controls.Add(this.label15);
             this.panel5.Controls.Add(this.label14);
             this.panel5.Location = new System.Drawing.Point(28, 111);
-            this.panel5.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel5.Margin = new System.Windows.Forms.Padding(6);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(583, 63);
             this.panel5.TabIndex = 4;
@@ -541,10 +549,10 @@
             this.panel15.Controls.Add(this.button12);
             this.panel15.Controls.Add(this.label60);
             this.panel15.Controls.Add(this.label61);
-            this.panel15.Location = new System.Drawing.Point(1507, 881);
-            this.panel15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel15.Location = new System.Drawing.Point(72, 349);
+            this.panel15.Margin = new System.Windows.Forms.Padding(4);
             this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(634, 803);
+            this.panel15.Size = new System.Drawing.Size(606, 850);
             this.panel15.TabIndex = 8;
             // 
             // label48
@@ -676,12 +684,13 @@
             // button12
             // 
             this.button12.Location = new System.Drawing.Point(420, 24);
-            this.button12.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button12.Margin = new System.Windows.Forms.Padding(6);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(192, 42);
             this.button12.TabIndex = 5;
             this.button12.Text = "Add Timeline";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // label60
             // 
@@ -713,18 +722,18 @@
             this.panel18.Controls.Add(this.panel21);
             this.panel18.Controls.Add(this.panel22);
             this.panel18.Controls.Add(this.label75);
-            this.panel18.Location = new System.Drawing.Point(126, 69);
-            this.panel18.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel18.Location = new System.Drawing.Point(116, 125);
+            this.panel18.Margin = new System.Windows.Forms.Padding(4);
             this.panel18.Name = "panel18";
-            this.panel18.Size = new System.Drawing.Size(491, 517);
+            this.panel18.Size = new System.Drawing.Size(419, 495);
             this.panel18.TabIndex = 20;
             // 
             // button15
             // 
-            this.button15.Location = new System.Drawing.Point(126, 463);
-            this.button15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button15.Location = new System.Drawing.Point(125, 410);
+            this.button15.Margin = new System.Windows.Forms.Padding(4);
             this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(273, 46);
+            this.button15.Size = new System.Drawing.Size(275, 46);
             this.button15.TabIndex = 5;
             this.button15.Text = "Add Tools And Equipment";
             this.button15.UseVisualStyleBackColor = true;
@@ -735,10 +744,10 @@
             this.panel19.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.panel19.Controls.Add(this.label62);
             this.panel19.Controls.Add(this.label67);
-            this.panel19.Location = new System.Drawing.Point(22, 349);
-            this.panel19.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel19.Location = new System.Drawing.Point(21, 296);
+            this.panel19.Margin = new System.Windows.Forms.Padding(4);
             this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(378, 55);
+            this.panel19.Size = new System.Drawing.Size(380, 55);
             this.panel19.TabIndex = 4;
             // 
             // label62
@@ -767,10 +776,10 @@
             this.panel20.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.panel20.Controls.Add(this.label68);
             this.panel20.Controls.Add(this.label69);
-            this.panel20.Location = new System.Drawing.Point(22, 279);
-            this.panel20.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel20.Location = new System.Drawing.Point(21, 226);
+            this.panel20.Margin = new System.Windows.Forms.Padding(4);
             this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(378, 55);
+            this.panel20.Size = new System.Drawing.Size(380, 55);
             this.panel20.TabIndex = 4;
             // 
             // label68
@@ -799,10 +808,10 @@
             this.panel21.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.panel21.Controls.Add(this.label70);
             this.panel21.Controls.Add(this.label71);
-            this.panel21.Location = new System.Drawing.Point(22, 210);
-            this.panel21.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel21.Location = new System.Drawing.Point(21, 157);
+            this.panel21.Margin = new System.Windows.Forms.Padding(4);
             this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(378, 55);
+            this.panel21.Size = new System.Drawing.Size(380, 55);
             this.panel21.TabIndex = 4;
             // 
             // label70
@@ -831,10 +840,10 @@
             this.panel22.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.panel22.Controls.Add(this.label72);
             this.panel22.Controls.Add(this.label73);
-            this.panel22.Location = new System.Drawing.Point(22, 151);
-            this.panel22.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel22.Location = new System.Drawing.Point(21, 98);
+            this.panel22.Margin = new System.Windows.Forms.Padding(4);
             this.panel22.Name = "panel22";
-            this.panel22.Size = new System.Drawing.Size(378, 55);
+            this.panel22.Size = new System.Drawing.Size(380, 55);
             this.panel22.TabIndex = 2;
             // 
             // label72
@@ -862,7 +871,7 @@
             // 
             this.label75.AutoSize = true;
             this.label75.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label75.Location = new System.Drawing.Point(38, 61);
+            this.label75.Location = new System.Drawing.Point(16, 45);
             this.label75.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label75.Name = "label75";
             this.label75.Size = new System.Drawing.Size(245, 29);
@@ -871,7 +880,6 @@
             // 
             // panel17
             // 
-            this.panel17.Controls.Add(this.panel18);
             this.panel17.Controls.Add(this.button16);
             this.panel17.Controls.Add(this.button17);
             this.panel17.Controls.Add(this.label76);
@@ -880,7 +888,7 @@
             this.panel17.Controls.Add(this.textBox10);
             this.panel17.Controls.Add(this.label79);
             this.panel17.Location = new System.Drawing.Point(20, 72);
-            this.panel17.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel17.Margin = new System.Windows.Forms.Padding(4);
             this.panel17.Name = "panel17";
             this.panel17.Size = new System.Drawing.Size(412, 401);
             this.panel17.TabIndex = 19;
@@ -888,17 +896,18 @@
             // button16
             // 
             this.button16.Location = new System.Drawing.Point(334, 9);
-            this.button16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button16.Margin = new System.Windows.Forms.Padding(4);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(75, 52);
             this.button16.TabIndex = 9;
             this.button16.Text = "Close";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // button17
             // 
             this.button17.Location = new System.Drawing.Point(147, 336);
-            this.button17.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button17.Margin = new System.Windows.Forms.Padding(4);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(112, 39);
             this.button17.TabIndex = 8;
@@ -919,7 +928,7 @@
             // textBox7
             // 
             this.textBox7.Location = new System.Drawing.Point(38, 279);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox7.Margin = new System.Windows.Forms.Padding(4);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(328, 29);
             this.textBox7.TabIndex = 4;
@@ -937,7 +946,7 @@
             // textBox10
             // 
             this.textBox10.Location = new System.Drawing.Point(38, 179);
-            this.textBox10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox10.Margin = new System.Windows.Forms.Padding(4);
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(328, 29);
             this.textBox10.TabIndex = 1;
@@ -963,7 +972,7 @@
             this.panel16.Controls.Add(this.textBox9);
             this.panel16.Controls.Add(this.label66);
             this.panel16.Location = new System.Drawing.Point(1476, 858);
-            this.panel16.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel16.Margin = new System.Windows.Forms.Padding(6);
             this.panel16.Name = "panel16";
             this.panel16.Size = new System.Drawing.Size(440, 380);
             this.panel16.TabIndex = 18;
@@ -971,22 +980,24 @@
             // button13
             // 
             this.button13.Location = new System.Drawing.Point(358, 2);
-            this.button13.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button13.Margin = new System.Windows.Forms.Padding(6);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(77, 42);
             this.button13.TabIndex = 9;
             this.button13.Text = "Close";
             this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // button14
             // 
             this.button14.Location = new System.Drawing.Point(275, 327);
-            this.button14.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button14.Margin = new System.Windows.Forms.Padding(6);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(138, 42);
             this.button14.TabIndex = 8;
             this.button14.Text = "Add";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // label63
             // 
@@ -1001,7 +1012,7 @@
             // textBox8
             // 
             this.textBox8.Location = new System.Drawing.Point(29, 210);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox8.Margin = new System.Windows.Forms.Padding(6);
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(380, 29);
             this.textBox8.TabIndex = 4;
@@ -1019,7 +1030,7 @@
             // textBox9
             // 
             this.textBox9.Location = new System.Drawing.Point(29, 140);
-            this.textBox9.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox9.Margin = new System.Windows.Forms.Padding(6);
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(380, 29);
             this.textBox9.TabIndex = 1;
@@ -1045,7 +1056,7 @@
             this.panel8.Controls.Add(this.label41);
             this.panel8.Controls.Add(this.label42);
             this.panel8.Location = new System.Drawing.Point(1584, 48);
-            this.panel8.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel8.Margin = new System.Windows.Forms.Padding(6);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(642, 816);
             this.panel8.TabIndex = 12;
@@ -1053,12 +1064,13 @@
             // button11
             // 
             this.button11.Location = new System.Drawing.Point(424, 22);
-            this.button11.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button11.Margin = new System.Windows.Forms.Padding(6);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(192, 42);
             this.button11.TabIndex = 5;
             this.button11.Text = "Add Team Member";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // panel12
             // 
@@ -1067,7 +1079,7 @@
             this.panel12.Controls.Add(this.label36);
             this.panel12.Controls.Add(this.label37);
             this.panel12.Location = new System.Drawing.Point(33, 517);
-            this.panel12.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel12.Margin = new System.Windows.Forms.Padding(6);
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(578, 100);
             this.panel12.TabIndex = 4;
@@ -1119,7 +1131,7 @@
             this.panel11.Controls.Add(this.label32);
             this.panel11.Controls.Add(this.label33);
             this.panel11.Location = new System.Drawing.Point(33, 390);
-            this.panel11.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel11.Margin = new System.Windows.Forms.Padding(6);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(578, 100);
             this.panel11.TabIndex = 4;
@@ -1171,7 +1183,7 @@
             this.panel10.Controls.Add(this.label28);
             this.panel10.Controls.Add(this.label29);
             this.panel10.Location = new System.Drawing.Point(33, 264);
-            this.panel10.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel10.Margin = new System.Windows.Forms.Padding(6);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(578, 100);
             this.panel10.TabIndex = 4;
@@ -1223,7 +1235,7 @@
             this.panel13.Controls.Add(this.label39);
             this.panel13.Controls.Add(this.label40);
             this.panel13.Location = new System.Drawing.Point(33, 153);
-            this.panel13.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel13.Margin = new System.Windows.Forms.Padding(6);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(578, 100);
             this.panel13.TabIndex = 2;
@@ -1301,7 +1313,7 @@
             this.panel9.Controls.Add(this.label23);
             this.panel9.Controls.Add(this.textBox6);
             this.panel9.Location = new System.Drawing.Point(1463, 124);
-            this.panel9.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel9.Margin = new System.Windows.Forms.Padding(6);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(440, 377);
             this.panel9.TabIndex = 6;
@@ -1309,22 +1321,24 @@
             // button7
             // 
             this.button7.Location = new System.Drawing.Point(358, 2);
-            this.button7.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button7.Margin = new System.Windows.Forms.Padding(6);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(77, 42);
             this.button7.TabIndex = 9;
             this.button7.Text = "Close";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
             this.button8.Location = new System.Drawing.Point(275, 327);
-            this.button8.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button8.Margin = new System.Windows.Forms.Padding(6);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(138, 42);
             this.button8.TabIndex = 0;
             this.button8.Text = "Add";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // label56
             // 
@@ -1339,7 +1353,7 @@
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(29, 279);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(6);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(380, 29);
             this.textBox4.TabIndex = 6;
@@ -1357,7 +1371,7 @@
             // textBox5
             // 
             this.textBox5.Location = new System.Drawing.Point(29, 210);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(6);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(380, 29);
             this.textBox5.TabIndex = 4;
@@ -1385,7 +1399,7 @@
             // textBox6
             // 
             this.textBox6.Location = new System.Drawing.Point(29, 140);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox6.Margin = new System.Windows.Forms.Padding(6);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(380, 29);
             this.textBox6.TabIndex = 1;
@@ -1403,7 +1417,7 @@
             this.panel14.Controls.Add(this.textBox1);
             this.panel14.Controls.Add(this.label50);
             this.panel14.Location = new System.Drawing.Point(161, 654);
-            this.panel14.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.panel14.Margin = new System.Windows.Forms.Padding(6);
             this.panel14.Name = "panel14";
             this.panel14.Size = new System.Drawing.Size(440, 377);
             this.panel14.TabIndex = 7;
@@ -1421,7 +1435,7 @@
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(29, 277);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(6);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(380, 29);
             this.textBox3.TabIndex = 10;
@@ -1429,22 +1443,24 @@
             // button10
             // 
             this.button10.Location = new System.Drawing.Point(358, 2);
-            this.button10.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button10.Margin = new System.Windows.Forms.Padding(6);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(77, 42);
             this.button10.TabIndex = 9;
             this.button10.Text = "Close";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button9
             // 
             this.button9.Location = new System.Drawing.Point(275, 327);
-            this.button9.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button9.Margin = new System.Windows.Forms.Padding(6);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(138, 42);
             this.button9.TabIndex = 0;
             this.button9.Text = "Add";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // label53
             // 
@@ -1459,7 +1475,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(29, 210);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(6);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(380, 29);
             this.textBox2.TabIndex = 4;
@@ -1487,7 +1503,7 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(29, 140);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(6);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(380, 29);
             this.textBox1.TabIndex = 1;
@@ -1506,15 +1522,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(2077, 1139);
-            this.Controls.Add(this.panel8);
-            this.Controls.Add(this.panel15);
+            this.ClientSize = new System.Drawing.Size(2077, 1302);
             this.Controls.Add(this.panel9);
+            this.Controls.Add(this.panel8);
             this.Controls.Add(this.panel17);
             this.Controls.Add(this.panel14);
             this.Controls.Add(this.panel16);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form9";
             this.Text = "Form9";
             this.panel1.ResumeLayout(false);

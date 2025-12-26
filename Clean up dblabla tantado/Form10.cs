@@ -16,5 +16,10 @@ namespace Clean_up_dblabla_tantado
         {
             InitializeComponent();
         }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
