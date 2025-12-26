@@ -1,6 +1,6 @@
 ﻿namespace Clean_up_dblabla_tantado
 {
-    partial class Form2
+    partial class help
     {
         /// <summary>
         /// Required designer variable.

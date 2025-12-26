@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Clean_up_dblabla_tantado
 {
-    public partial class Form6 : Form
+    public partial class volunteers : Form
     {
-        public Form6()
+        public volunteers()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

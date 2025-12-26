@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Clean_up_dblabla_tantado
 {
-    public partial class Form7 : Form
+    public partial class settings : Form
     {
-        public Form7()
+        public settings()
         {
             InitializeComponent();
+        }
+
+        private void label54_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

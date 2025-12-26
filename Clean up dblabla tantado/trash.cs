@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Clean_up_dblabla_tantado
 {
-    public partial class Form4 : Form
+    public partial class trash : Form
     {
-        public Form4()
+        public trash()
         {
             InitializeComponent();
         }

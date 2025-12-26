@@ -16,7 +16,7 @@ namespace Clean_up_dblabla_tantado
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new dashboard());
         }
     }
 }

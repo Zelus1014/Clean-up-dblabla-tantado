@@ -184,6 +184,49 @@
             this.label203 = new System.Windows.Forms.Label();
             this.label204 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button6 = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.button22 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel14 = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.button19 = new System.Windows.Forms.Button();
+            this.button20 = new System.Windows.Forms.Button();
+            this.label53 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label52 = new System.Windows.Forms.Label();
+            this.label51 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label50 = new System.Windows.Forms.Label();
+            this.button21 = new System.Windows.Forms.Button();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label80 = new System.Windows.Forms.Label();
+            this.label81 = new System.Windows.Forms.Label();
+            this.label82 = new System.Windows.Forms.Label();
+            this.label83 = new System.Windows.Forms.Label();
+            this.label84 = new System.Windows.Forms.Label();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel23 = new System.Windows.Forms.Panel();
+            this.label85 = new System.Windows.Forms.Label();
+            this.label86 = new System.Windows.Forms.Label();
+            this.panel24 = new System.Windows.Forms.Panel();
+            this.label87 = new System.Windows.Forms.Label();
+            this.label88 = new System.Windows.Forms.Label();
+            this.panel25 = new System.Windows.Forms.Panel();
+            this.label89 = new System.Windows.Forms.Label();
+            this.label90 = new System.Windows.Forms.Label();
+            this.label91 = new System.Windows.Forms.Label();
             this.panel26 = new System.Windows.Forms.Panel();
             this.panel33 = new System.Windows.Forms.Panel();
             this.label106 = new System.Windows.Forms.Label();
@@ -294,49 +337,6 @@
             this.label40 = new System.Windows.Forms.Label();
             this.label41 = new System.Windows.Forms.Label();
             this.label42 = new System.Windows.Forms.Label();
-            this.button6 = new System.Windows.Forms.Button();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.button22 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.panel14 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.button19 = new System.Windows.Forms.Button();
-            this.button20 = new System.Windows.Forms.Button();
-            this.label53 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label52 = new System.Windows.Forms.Label();
-            this.label51 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label50 = new System.Windows.Forms.Label();
-            this.button21 = new System.Windows.Forms.Button();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label80 = new System.Windows.Forms.Label();
-            this.label81 = new System.Windows.Forms.Label();
-            this.label82 = new System.Windows.Forms.Label();
-            this.label83 = new System.Windows.Forms.Label();
-            this.label84 = new System.Windows.Forms.Label();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.panel23 = new System.Windows.Forms.Panel();
-            this.label85 = new System.Windows.Forms.Label();
-            this.label86 = new System.Windows.Forms.Label();
-            this.panel24 = new System.Windows.Forms.Panel();
-            this.label87 = new System.Windows.Forms.Label();
-            this.label88 = new System.Windows.Forms.Label();
-            this.panel25 = new System.Windows.Forms.Panel();
-            this.label89 = new System.Windows.Forms.Label();
-            this.label90 = new System.Windows.Forms.Label();
-            this.label91 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.panel13 = new System.Windows.Forms.Panel();
@@ -387,6 +387,13 @@
             this.panel62.SuspendLayout();
             this.panel63.SuspendLayout();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel14.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.panel23.SuspendLayout();
+            this.panel24.SuspendLayout();
+            this.panel25.SuspendLayout();
             this.panel26.SuspendLayout();
             this.panel33.SuspendLayout();
             this.panel32.SuspendLayout();
@@ -409,13 +416,6 @@
             this.panel5.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel6.SuspendLayout();
-            this.panel2.SuspendLayout();
-            this.panel3.SuspendLayout();
-            this.panel14.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.panel23.SuspendLayout();
-            this.panel24.SuspendLayout();
-            this.panel25.SuspendLayout();
             this.panel13.SuspendLayout();
             this.panel12.SuspendLayout();
             this.SuspendLayout();
@@ -429,10 +429,10 @@
             this.panel11.Controls.Add(this.label11);
             this.panel11.Controls.Add(this.panel13);
             this.panel11.Controls.Add(this.panel12);
-            this.panel11.Location = new System.Drawing.Point(70, 15);
+            this.panel11.Location = new System.Drawing.Point(42, 2);
             this.panel11.Margin = new System.Windows.Forms.Padding(6);
             this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(1555, 1170);
+            this.panel11.Size = new System.Drawing.Size(1946, 1170);
             this.panel11.TabIndex = 7;
             // 
             // panel34
@@ -447,7 +447,7 @@
             this.panel34.Controls.Add(this.label196);
             this.panel34.Controls.Add(this.label197);
             this.panel34.Controls.Add(this.panel60);
-            this.panel34.Location = new System.Drawing.Point(1222, 6);
+            this.panel34.Location = new System.Drawing.Point(1129, 0);
             this.panel34.Margin = new System.Windows.Forms.Padding(6);
             this.panel34.Name = "panel34";
             this.panel34.Size = new System.Drawing.Size(788, 1152);
@@ -2097,11 +2097,467 @@
             this.panel1.Controls.Add(this.panel15);
             this.panel1.Controls.Add(this.panel18);
             this.panel1.Controls.Add(this.panel8);
-            this.panel1.Location = new System.Drawing.Point(412, 6);
+            this.panel1.Location = new System.Drawing.Point(115, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(6);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(788, 1152);
             this.panel1.TabIndex = 7;
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(671, 13);
+            this.button6.Margin = new System.Windows.Forms.Padding(6);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(95, 42);
+            this.button6.TabIndex = 11;
+            this.button6.Text = "Close";
+            this.button6.UseVisualStyleBackColor = true;
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.button22);
+            this.panel2.Controls.Add(this.button4);
+            this.panel2.Controls.Add(this.button5);
+            this.panel2.Controls.Add(this.button7);
+            this.panel2.Controls.Add(this.button8);
+            this.panel2.Location = new System.Drawing.Point(6, 161);
+            this.panel2.Margin = new System.Windows.Forms.Padding(6);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(761, 50);
+            this.panel2.TabIndex = 2;
+            // 
+            // button22
+            // 
+            this.button22.Location = new System.Drawing.Point(13, 7);
+            this.button22.Margin = new System.Windows.Forms.Padding(6);
+            this.button22.Name = "button22";
+            this.button22.Size = new System.Drawing.Size(138, 42);
+            this.button22.TabIndex = 4;
+            this.button22.Text = "Overview";
+            this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.button22_Click);
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(603, 7);
+            this.button4.Margin = new System.Windows.Forms.Padding(6);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(138, 42);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "Timeline";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(455, 7);
+            this.button5.Margin = new System.Windows.Forms.Padding(6);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(138, 42);
+            this.button5.TabIndex = 2;
+            this.button5.Text = "Tools";
+            this.button5.UseVisualStyleBackColor = true;
+            // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(306, 7);
+            this.button7.Margin = new System.Windows.Forms.Padding(6);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(138, 42);
+            this.button7.TabIndex = 1;
+            this.button7.Text = "Team";
+            this.button7.UseVisualStyleBackColor = true;
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(158, 7);
+            this.button8.Margin = new System.Windows.Forms.Padding(6);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(138, 42);
+            this.button8.TabIndex = 0;
+            this.button8.Text = "Waste Data";
+            this.button8.UseVisualStyleBackColor = true;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.panel14);
+            this.panel3.Controls.Add(this.button21);
+            this.panel3.Controls.Add(this.label9);
+            this.panel3.Controls.Add(this.label10);
+            this.panel3.Controls.Add(this.label4);
+            this.panel3.Controls.Add(this.label5);
+            this.panel3.Controls.Add(this.label8);
+            this.panel3.Controls.Add(this.label7);
+            this.panel3.Controls.Add(this.label6);
+            this.panel3.Controls.Add(this.label80);
+            this.panel3.Controls.Add(this.label81);
+            this.panel3.Controls.Add(this.label82);
+            this.panel3.Location = new System.Drawing.Point(72, 244);
+            this.panel3.Margin = new System.Windows.Forms.Padding(6);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(642, 445);
+            this.panel3.TabIndex = 3;
+            // 
+            // panel14
+            // 
+            this.panel14.Controls.Add(this.label3);
+            this.panel14.Controls.Add(this.textBox3);
+            this.panel14.Controls.Add(this.button19);
+            this.panel14.Controls.Add(this.button20);
+            this.panel14.Controls.Add(this.label53);
+            this.panel14.Controls.Add(this.textBox2);
+            this.panel14.Controls.Add(this.label52);
+            this.panel14.Controls.Add(this.label51);
+            this.panel14.Controls.Add(this.textBox1);
+            this.panel14.Controls.Add(this.label50);
+            this.panel14.Location = new System.Drawing.Point(98, 68);
+            this.panel14.Margin = new System.Windows.Forms.Padding(6);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(440, 377);
+            this.panel14.TabIndex = 7;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(24, 253);
+            this.label3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(71, 25);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "Others";
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(29, 277);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(380, 29);
+            this.textBox3.TabIndex = 10;
+            // 
+            // button19
+            // 
+            this.button19.Location = new System.Drawing.Point(358, 2);
+            this.button19.Margin = new System.Windows.Forms.Padding(6);
+            this.button19.Name = "button19";
+            this.button19.Size = new System.Drawing.Size(77, 42);
+            this.button19.TabIndex = 9;
+            this.button19.Text = "Close";
+            this.button19.UseVisualStyleBackColor = true;
+            // 
+            // button20
+            // 
+            this.button20.Location = new System.Drawing.Point(275, 327);
+            this.button20.Margin = new System.Windows.Forms.Padding(6);
+            this.button20.Name = "button20";
+            this.button20.Size = new System.Drawing.Size(138, 42);
+            this.button20.TabIndex = 0;
+            this.button20.Text = "Add";
+            this.button20.UseVisualStyleBackColor = true;
+            // 
+            // label53
+            // 
+            this.label53.AutoSize = true;
+            this.label53.Location = new System.Drawing.Point(24, 186);
+            this.label53.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label53.Name = "label53";
+            this.label53.Size = new System.Drawing.Size(157, 25);
+            this.label53.TabIndex = 5;
+            this.label53.Text = "Number Of Bags";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(29, 210);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(380, 29);
+            this.textBox2.TabIndex = 4;
+            // 
+            // label52
+            // 
+            this.label52.AutoSize = true;
+            this.label52.Location = new System.Drawing.Point(24, 116);
+            this.label52.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label52.Name = "label52";
+            this.label52.Size = new System.Drawing.Size(119, 25);
+            this.label52.TabIndex = 3;
+            this.label52.Text = "Waste Type";
+            // 
+            // label51
+            // 
+            this.label51.AutoSize = true;
+            this.label51.Location = new System.Drawing.Point(24, 70);
+            this.label51.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label51.Name = "label51";
+            this.label51.Size = new System.Drawing.Size(322, 25);
+            this.label51.TabIndex = 2;
+            this.label51.Text = "Add a new trash type to the cleanup";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(29, 140);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(380, 29);
+            this.textBox1.TabIndex = 1;
+            // 
+            // label50
+            // 
+            this.label50.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label50.Location = new System.Drawing.Point(24, 37);
+            this.label50.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label50.Name = "label50";
+            this.label50.Size = new System.Drawing.Size(75, 24);
+            this.label50.TabIndex = 0;
+            this.label50.Text = "Add Team Member";
+            // 
+            // button21
+            // 
+            this.button21.Location = new System.Drawing.Point(468, 22);
+            this.button21.Margin = new System.Windows.Forms.Padding(6);
+            this.button21.Name = "button21";
+            this.button21.Size = new System.Drawing.Size(169, 42);
+            this.button21.TabIndex = 10;
+            this.button21.Text = "Add Waste type";
+            this.button21.UseVisualStyleBackColor = true;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(468, 367);
+            this.label9.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(41, 25);
+            this.label9.TabIndex = 9;
+            this.label9.Text = "5%";
+            this.label9.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(468, 299);
+            this.label10.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(52, 25);
+            this.label10.TabIndex = 8;
+            this.label10.Text = "10%";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(468, 229);
+            this.label4.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(52, 25);
+            this.label4.TabIndex = 7;
+            this.label4.Text = "15%";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(468, 153);
+            this.label5.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(52, 25);
+            this.label5.TabIndex = 6;
+            this.label5.Text = "65%";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(38, 367);
+            this.label8.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(64, 25);
+            this.label8.TabIndex = 5;
+            this.label8.Text = "Paper";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(38, 299);
+            this.label7.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(62, 25);
+            this.label7.TabIndex = 4;
+            this.label7.Text = "Glass";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(38, 229);
+            this.label6.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(60, 25);
+            this.label6.TabIndex = 3;
+            this.label6.Text = "Metal";
+            // 
+            // label80
+            // 
+            this.label80.AutoSize = true;
+            this.label80.Location = new System.Drawing.Point(38, 153);
+            this.label80.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label80.Name = "label80";
+            this.label80.Size = new System.Drawing.Size(69, 25);
+            this.label80.TabIndex = 2;
+            this.label80.Text = "Plastic";
+            // 
+            // label81
+            // 
+            this.label81.AutoSize = true;
+            this.label81.Location = new System.Drawing.Point(38, 76);
+            this.label81.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label81.Name = "label81";
+            this.label81.Size = new System.Drawing.Size(369, 25);
+            this.label81.TabIndex = 1;
+            this.label81.Text = "Percentage distribution of waste collected";
+            // 
+            // label82
+            // 
+            this.label82.AutoSize = true;
+            this.label82.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label82.Location = new System.Drawing.Point(38, 31);
+            this.label82.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label82.Name = "label82";
+            this.label82.Size = new System.Drawing.Size(338, 31);
+            this.label82.TabIndex = 0;
+            this.label82.Text = "Waste Breakdown by Type";
+            // 
+            // label83
+            // 
+            this.label83.AutoSize = true;
+            this.label83.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label83.Location = new System.Drawing.Point(38, 76);
+            this.label83.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label83.Name = "label83";
+            this.label83.Size = new System.Drawing.Size(230, 25);
+            this.label83.TabIndex = 1;
+            this.label83.Text = "Street Cleanup Activity";
+            // 
+            // label84
+            // 
+            this.label84.AutoSize = true;
+            this.label84.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label84.Location = new System.Drawing.Point(37, 39);
+            this.label84.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label84.Name = "label84";
+            this.label84.Size = new System.Drawing.Size(273, 32);
+            this.label84.TabIndex = 0;
+            this.label84.Text = "Barangay 1 Cleanup";
+            // 
+            // panel7
+            // 
+            this.panel7.Controls.Add(this.panel23);
+            this.panel7.Controls.Add(this.panel24);
+            this.panel7.Controls.Add(this.panel25);
+            this.panel7.Controls.Add(this.label91);
+            this.panel7.Location = new System.Drawing.Point(72, 700);
+            this.panel7.Margin = new System.Windows.Forms.Padding(6);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(642, 373);
+            this.panel7.TabIndex = 4;
+            // 
+            // panel23
+            // 
+            this.panel23.Controls.Add(this.label85);
+            this.panel23.Controls.Add(this.label86);
+            this.panel23.Location = new System.Drawing.Point(28, 258);
+            this.panel23.Margin = new System.Windows.Forms.Padding(6);
+            this.panel23.Name = "panel23";
+            this.panel23.Size = new System.Drawing.Size(583, 63);
+            this.panel23.TabIndex = 12;
+            // 
+            // label85
+            // 
+            this.label85.AutoSize = true;
+            this.label85.Location = new System.Drawing.Point(477, 22);
+            this.label85.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label85.Name = "label85";
+            this.label85.Size = new System.Drawing.Size(52, 25);
+            this.label85.TabIndex = 11;
+            this.label85.Text = "75%";
+            // 
+            // label86
+            // 
+            this.label86.AutoSize = true;
+            this.label86.Location = new System.Drawing.Point(11, 22);
+            this.label86.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label86.Name = "label86";
+            this.label86.Size = new System.Drawing.Size(191, 25);
+            this.label86.TabIndex = 10;
+            this.label86.Text = "Recyclable Materials";
+            // 
+            // panel24
+            // 
+            this.panel24.Controls.Add(this.label87);
+            this.panel24.Controls.Add(this.label88);
+            this.panel24.Location = new System.Drawing.Point(28, 185);
+            this.panel24.Margin = new System.Windows.Forms.Padding(6);
+            this.panel24.Name = "panel24";
+            this.panel24.Size = new System.Drawing.Size(583, 63);
+            this.panel24.TabIndex = 12;
+            // 
+            // label87
+            // 
+            this.label87.AutoSize = true;
+            this.label87.Location = new System.Drawing.Point(477, 22);
+            this.label87.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label87.Name = "label87";
+            this.label87.Size = new System.Drawing.Size(69, 25);
+            this.label87.TabIndex = 11;
+            this.label87.Text = "Plastic";
+            // 
+            // label88
+            // 
+            this.label88.AutoSize = true;
+            this.label88.Location = new System.Drawing.Point(11, 22);
+            this.label88.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label88.Name = "label88";
+            this.label88.Size = new System.Drawing.Size(167, 25);
+            this.label88.TabIndex = 10;
+            this.label88.Text = "Main Waste Type";
+            // 
+            // panel25
+            // 
+            this.panel25.Controls.Add(this.label89);
+            this.panel25.Controls.Add(this.label90);
+            this.panel25.Location = new System.Drawing.Point(28, 111);
+            this.panel25.Margin = new System.Windows.Forms.Padding(6);
+            this.panel25.Name = "panel25";
+            this.panel25.Size = new System.Drawing.Size(583, 63);
+            this.panel25.TabIndex = 4;
+            // 
+            // label89
+            // 
+            this.label89.AutoSize = true;
+            this.label89.Location = new System.Drawing.Point(477, 22);
+            this.label89.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label89.Name = "label89";
+            this.label89.Size = new System.Drawing.Size(60, 25);
+            this.label89.TabIndex = 11;
+            this.label89.Text = "3.2 m";
+            // 
+            // label90
+            // 
+            this.label90.AutoSize = true;
+            this.label90.Location = new System.Drawing.Point(11, 22);
+            this.label90.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label90.Name = "label90";
+            this.label90.Size = new System.Drawing.Size(128, 25);
+            this.label90.TabIndex = 10;
+            this.label90.Text = "Total Volume";
+            // 
+            // label91
+            // 
+            this.label91.AutoSize = true;
+            this.label91.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label91.Location = new System.Drawing.Point(38, 35);
+            this.label91.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label91.Name = "label91";
+            this.label91.Size = new System.Drawing.Size(338, 31);
+            this.label91.TabIndex = 10;
+            this.label91.Text = "Waste Breakdown by Type";
             // 
             // panel26
             // 
@@ -3278,462 +3734,6 @@
             this.label42.TabIndex = 0;
             this.label42.Text = "Volunteers (4)";
             // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(671, 13);
-            this.button6.Margin = new System.Windows.Forms.Padding(6);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(95, 42);
-            this.button6.TabIndex = 11;
-            this.button6.Text = "Close";
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.button22);
-            this.panel2.Controls.Add(this.button4);
-            this.panel2.Controls.Add(this.button5);
-            this.panel2.Controls.Add(this.button7);
-            this.panel2.Controls.Add(this.button8);
-            this.panel2.Location = new System.Drawing.Point(6, 161);
-            this.panel2.Margin = new System.Windows.Forms.Padding(6);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(761, 50);
-            this.panel2.TabIndex = 2;
-            // 
-            // button22
-            // 
-            this.button22.Location = new System.Drawing.Point(13, 7);
-            this.button22.Margin = new System.Windows.Forms.Padding(6);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(138, 42);
-            this.button22.TabIndex = 4;
-            this.button22.Text = "Overview";
-            this.button22.UseVisualStyleBackColor = true;
-            this.button22.Click += new System.EventHandler(this.button22_Click);
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(603, 7);
-            this.button4.Margin = new System.Windows.Forms.Padding(6);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(138, 42);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Timeline";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(455, 7);
-            this.button5.Margin = new System.Windows.Forms.Padding(6);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(138, 42);
-            this.button5.TabIndex = 2;
-            this.button5.Text = "Tools";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            this.button7.Location = new System.Drawing.Point(306, 7);
-            this.button7.Margin = new System.Windows.Forms.Padding(6);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(138, 42);
-            this.button7.TabIndex = 1;
-            this.button7.Text = "Team";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // button8
-            // 
-            this.button8.Location = new System.Drawing.Point(158, 7);
-            this.button8.Margin = new System.Windows.Forms.Padding(6);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(138, 42);
-            this.button8.TabIndex = 0;
-            this.button8.Text = "Waste Data";
-            this.button8.UseVisualStyleBackColor = true;
-            // 
-            // panel3
-            // 
-            this.panel3.Controls.Add(this.panel14);
-            this.panel3.Controls.Add(this.button21);
-            this.panel3.Controls.Add(this.label9);
-            this.panel3.Controls.Add(this.label10);
-            this.panel3.Controls.Add(this.label4);
-            this.panel3.Controls.Add(this.label5);
-            this.panel3.Controls.Add(this.label8);
-            this.panel3.Controls.Add(this.label7);
-            this.panel3.Controls.Add(this.label6);
-            this.panel3.Controls.Add(this.label80);
-            this.panel3.Controls.Add(this.label81);
-            this.panel3.Controls.Add(this.label82);
-            this.panel3.Location = new System.Drawing.Point(72, 244);
-            this.panel3.Margin = new System.Windows.Forms.Padding(6);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(642, 445);
-            this.panel3.TabIndex = 3;
-            // 
-            // panel14
-            // 
-            this.panel14.Controls.Add(this.label3);
-            this.panel14.Controls.Add(this.textBox3);
-            this.panel14.Controls.Add(this.button19);
-            this.panel14.Controls.Add(this.button20);
-            this.panel14.Controls.Add(this.label53);
-            this.panel14.Controls.Add(this.textBox2);
-            this.panel14.Controls.Add(this.label52);
-            this.panel14.Controls.Add(this.label51);
-            this.panel14.Controls.Add(this.textBox1);
-            this.panel14.Controls.Add(this.label50);
-            this.panel14.Location = new System.Drawing.Point(98, 68);
-            this.panel14.Margin = new System.Windows.Forms.Padding(6);
-            this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(440, 377);
-            this.panel14.TabIndex = 7;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(24, 253);
-            this.label3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(71, 25);
-            this.label3.TabIndex = 11;
-            this.label3.Text = "Others";
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(29, 277);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(380, 29);
-            this.textBox3.TabIndex = 10;
-            // 
-            // button19
-            // 
-            this.button19.Location = new System.Drawing.Point(358, 2);
-            this.button19.Margin = new System.Windows.Forms.Padding(6);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(77, 42);
-            this.button19.TabIndex = 9;
-            this.button19.Text = "Close";
-            this.button19.UseVisualStyleBackColor = true;
-            // 
-            // button20
-            // 
-            this.button20.Location = new System.Drawing.Point(275, 327);
-            this.button20.Margin = new System.Windows.Forms.Padding(6);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(138, 42);
-            this.button20.TabIndex = 0;
-            this.button20.Text = "Add";
-            this.button20.UseVisualStyleBackColor = true;
-            // 
-            // label53
-            // 
-            this.label53.AutoSize = true;
-            this.label53.Location = new System.Drawing.Point(24, 186);
-            this.label53.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(157, 25);
-            this.label53.TabIndex = 5;
-            this.label53.Text = "Number Of Bags";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(29, 210);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(380, 29);
-            this.textBox2.TabIndex = 4;
-            // 
-            // label52
-            // 
-            this.label52.AutoSize = true;
-            this.label52.Location = new System.Drawing.Point(24, 116);
-            this.label52.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(119, 25);
-            this.label52.TabIndex = 3;
-            this.label52.Text = "Waste Type";
-            // 
-            // label51
-            // 
-            this.label51.AutoSize = true;
-            this.label51.Location = new System.Drawing.Point(24, 70);
-            this.label51.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(322, 25);
-            this.label51.TabIndex = 2;
-            this.label51.Text = "Add a new trash type to the cleanup";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(29, 140);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(380, 29);
-            this.textBox1.TabIndex = 1;
-            // 
-            // label50
-            // 
-            this.label50.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label50.Location = new System.Drawing.Point(24, 37);
-            this.label50.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(75, 24);
-            this.label50.TabIndex = 0;
-            this.label50.Text = "Add Team Member";
-            // 
-            // button21
-            // 
-            this.button21.Location = new System.Drawing.Point(468, 22);
-            this.button21.Margin = new System.Windows.Forms.Padding(6);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(169, 42);
-            this.button21.TabIndex = 10;
-            this.button21.Text = "Add Waste type";
-            this.button21.UseVisualStyleBackColor = true;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(468, 367);
-            this.label9.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(41, 25);
-            this.label9.TabIndex = 9;
-            this.label9.Text = "5%";
-            this.label9.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(468, 299);
-            this.label10.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(52, 25);
-            this.label10.TabIndex = 8;
-            this.label10.Text = "10%";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(468, 229);
-            this.label4.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(52, 25);
-            this.label4.TabIndex = 7;
-            this.label4.Text = "15%";
-            this.label4.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(468, 153);
-            this.label5.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(52, 25);
-            this.label5.TabIndex = 6;
-            this.label5.Text = "65%";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(38, 367);
-            this.label8.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(64, 25);
-            this.label8.TabIndex = 5;
-            this.label8.Text = "Paper";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(38, 299);
-            this.label7.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(62, 25);
-            this.label7.TabIndex = 4;
-            this.label7.Text = "Glass";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(38, 229);
-            this.label6.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(60, 25);
-            this.label6.TabIndex = 3;
-            this.label6.Text = "Metal";
-            // 
-            // label80
-            // 
-            this.label80.AutoSize = true;
-            this.label80.Location = new System.Drawing.Point(38, 153);
-            this.label80.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(69, 25);
-            this.label80.TabIndex = 2;
-            this.label80.Text = "Plastic";
-            // 
-            // label81
-            // 
-            this.label81.AutoSize = true;
-            this.label81.Location = new System.Drawing.Point(38, 76);
-            this.label81.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(369, 25);
-            this.label81.TabIndex = 1;
-            this.label81.Text = "Percentage distribution of waste collected";
-            // 
-            // label82
-            // 
-            this.label82.AutoSize = true;
-            this.label82.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label82.Location = new System.Drawing.Point(38, 31);
-            this.label82.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(338, 31);
-            this.label82.TabIndex = 0;
-            this.label82.Text = "Waste Breakdown by Type";
-            // 
-            // label83
-            // 
-            this.label83.AutoSize = true;
-            this.label83.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label83.Location = new System.Drawing.Point(38, 76);
-            this.label83.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(230, 25);
-            this.label83.TabIndex = 1;
-            this.label83.Text = "Street Cleanup Activity";
-            // 
-            // label84
-            // 
-            this.label84.AutoSize = true;
-            this.label84.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label84.Location = new System.Drawing.Point(37, 39);
-            this.label84.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label84.Name = "label84";
-            this.label84.Size = new System.Drawing.Size(273, 32);
-            this.label84.TabIndex = 0;
-            this.label84.Text = "Barangay 1 Cleanup";
-            // 
-            // panel7
-            // 
-            this.panel7.Controls.Add(this.panel23);
-            this.panel7.Controls.Add(this.panel24);
-            this.panel7.Controls.Add(this.panel25);
-            this.panel7.Controls.Add(this.label91);
-            this.panel7.Location = new System.Drawing.Point(72, 700);
-            this.panel7.Margin = new System.Windows.Forms.Padding(6);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(642, 373);
-            this.panel7.TabIndex = 4;
-            // 
-            // panel23
-            // 
-            this.panel23.Controls.Add(this.label85);
-            this.panel23.Controls.Add(this.label86);
-            this.panel23.Location = new System.Drawing.Point(28, 258);
-            this.panel23.Margin = new System.Windows.Forms.Padding(6);
-            this.panel23.Name = "panel23";
-            this.panel23.Size = new System.Drawing.Size(583, 63);
-            this.panel23.TabIndex = 12;
-            // 
-            // label85
-            // 
-            this.label85.AutoSize = true;
-            this.label85.Location = new System.Drawing.Point(477, 22);
-            this.label85.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(52, 25);
-            this.label85.TabIndex = 11;
-            this.label85.Text = "75%";
-            // 
-            // label86
-            // 
-            this.label86.AutoSize = true;
-            this.label86.Location = new System.Drawing.Point(11, 22);
-            this.label86.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label86.Name = "label86";
-            this.label86.Size = new System.Drawing.Size(191, 25);
-            this.label86.TabIndex = 10;
-            this.label86.Text = "Recyclable Materials";
-            // 
-            // panel24
-            // 
-            this.panel24.Controls.Add(this.label87);
-            this.panel24.Controls.Add(this.label88);
-            this.panel24.Location = new System.Drawing.Point(28, 185);
-            this.panel24.Margin = new System.Windows.Forms.Padding(6);
-            this.panel24.Name = "panel24";
-            this.panel24.Size = new System.Drawing.Size(583, 63);
-            this.panel24.TabIndex = 12;
-            // 
-            // label87
-            // 
-            this.label87.AutoSize = true;
-            this.label87.Location = new System.Drawing.Point(477, 22);
-            this.label87.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label87.Name = "label87";
-            this.label87.Size = new System.Drawing.Size(69, 25);
-            this.label87.TabIndex = 11;
-            this.label87.Text = "Plastic";
-            // 
-            // label88
-            // 
-            this.label88.AutoSize = true;
-            this.label88.Location = new System.Drawing.Point(11, 22);
-            this.label88.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(167, 25);
-            this.label88.TabIndex = 10;
-            this.label88.Text = "Main Waste Type";
-            // 
-            // panel25
-            // 
-            this.panel25.Controls.Add(this.label89);
-            this.panel25.Controls.Add(this.label90);
-            this.panel25.Location = new System.Drawing.Point(28, 111);
-            this.panel25.Margin = new System.Windows.Forms.Padding(6);
-            this.panel25.Name = "panel25";
-            this.panel25.Size = new System.Drawing.Size(583, 63);
-            this.panel25.TabIndex = 4;
-            // 
-            // label89
-            // 
-            this.label89.AutoSize = true;
-            this.label89.Location = new System.Drawing.Point(477, 22);
-            this.label89.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label89.Name = "label89";
-            this.label89.Size = new System.Drawing.Size(60, 25);
-            this.label89.TabIndex = 11;
-            this.label89.Text = "3.2 m";
-            // 
-            // label90
-            // 
-            this.label90.AutoSize = true;
-            this.label90.Location = new System.Drawing.Point(11, 22);
-            this.label90.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label90.Name = "label90";
-            this.label90.Size = new System.Drawing.Size(128, 25);
-            this.label90.TabIndex = 10;
-            this.label90.Text = "Total Volume";
-            // 
-            // label91
-            // 
-            this.label91.AutoSize = true;
-            this.label91.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label91.Location = new System.Drawing.Point(38, 35);
-            this.label91.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label91.Name = "label91";
-            this.label91.Size = new System.Drawing.Size(338, 31);
-            this.label91.TabIndex = 10;
-            this.label91.Text = "Waste Breakdown by Type";
-            // 
             // label12
             // 
             this.label12.AutoSize = true;
@@ -3936,7 +3936,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1714, 1216);
+            this.ClientSize = new System.Drawing.Size(2031, 1216);
             this.Controls.Add(this.panel11);
             this.Name = "Form10";
             this.Text = "Form10";
@@ -4002,6 +4002,19 @@
             this.panel63.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            this.panel14.ResumeLayout(false);
+            this.panel14.PerformLayout();
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            this.panel23.ResumeLayout(false);
+            this.panel23.PerformLayout();
+            this.panel24.ResumeLayout(false);
+            this.panel24.PerformLayout();
+            this.panel25.ResumeLayout(false);
+            this.panel25.PerformLayout();
             this.panel26.ResumeLayout(false);
             this.panel33.ResumeLayout(false);
             this.panel33.PerformLayout();
@@ -4045,19 +4058,6 @@
             this.panel10.PerformLayout();
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
-            this.panel2.ResumeLayout(false);
-            this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
-            this.panel14.ResumeLayout(false);
-            this.panel14.PerformLayout();
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
-            this.panel23.ResumeLayout(false);
-            this.panel23.PerformLayout();
-            this.panel24.ResumeLayout(false);
-            this.panel24.PerformLayout();
-            this.panel25.ResumeLayout(false);
-            this.panel25.PerformLayout();
             this.panel13.ResumeLayout(false);
             this.panel13.PerformLayout();
             this.panel12.ResumeLayout(false);
