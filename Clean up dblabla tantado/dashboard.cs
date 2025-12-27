@@ -12,13 +12,6 @@ namespace Clean_up_dblabla_tantado
 {
     public partial class dashboard : Form
     {
-        cleanupdata cdata = new cleanupdata();
-        mycleanups mc = new mycleanups();
-        trash trash = new trash();
-        volunteers vol = new volunteers();
-        admin admin = new admin();
-        settings settings = new settings();
-        help help = new help();
         public dashboard()
         {
             InitializeComponent();
@@ -27,91 +20,113 @@ namespace Clean_up_dblabla_tantado
 
         private void button6_Click(object sender, EventArgs e)
         {
-            panel19.Visible = true;
-            cdata.Hide();
-            mc.Hide();
-            trash.Hide();
-            vol.Hide();
-            admin.Hide();
-            settings.Hide();
-            help.Hide();
+            dash.Visible = true;
+            cleanupd.Visible = false;
+            myCleanups.Visible = false;
+            trashtypes.Visible = false;
+            volun.Visible = false;
+            adminm.Visible = false;
+            sett.Visible = false;
+            helpsupport.Visible = false;
         }
 
         private void button17_Click(object sender, EventArgs e)
         {
-            cdata.Show();
-            mc.Hide();
-            trash.Hide();
-            vol.Hide();
-            admin.Hide();
-            settings.Hide();
-            help.Hide();
+            dash.Visible = false;
+            cleanupd.Visible = true;
+            myCleanups.Visible = false;
+            trashtypes.Visible = false;
+            volun.Visible = false;
+            adminm.Visible = false;
+            sett.Visible = false;
+            helpsupport.Visible = false;
         }
 
         private void button18_Click(object sender, EventArgs e)
         {
-            mc.Show();
-            cdata.Hide();
-            trash.Hide();
-            vol.Hide();
-            admin.Hide();
-            settings.Hide();
-            help.Hide();
+            dash.Visible = false;
+            cleanupd.Visible = false;
+            myCleanups.Visible = true;
+            trashtypes.Visible = false;
+            volun.Visible = false;
+            adminm.Visible = false;
+            sett.Visible = false;
+            helpsupport.Visible = false;
         }
 
         private void button19_Click(object sender, EventArgs e)
         {
-            trash.Show();
-            cdata.Hide();
-            mc.Hide();
-            vol.Hide();
-            admin.Hide();
-            settings.Hide();
-            help.Hide();
+            dash.Visible = false;
+            cleanupd.Visible = false;
+            myCleanups.Visible = false;
+            trashtypes.Visible = true;
+            volun.Visible = false;
+            adminm.Visible = false;
+            sett.Visible = false;
+            helpsupport.Visible = false;
         }
 
         private void button20_Click(object sender, EventArgs e)
         {
-            vol.Show();
-            cdata.Hide();
-            mc.Hide();
-            trash.Hide();
-            admin.Hide();
-            settings.Hide();
-            help.Hide();
+            dash.Visible = false;
+            cleanupd.Visible = false;
+            myCleanups.Visible = false;
+            trashtypes.Visible = false;
+            volun.Visible = true;
+            adminm.Visible = false;
+            sett.Visible = false;
+            helpsupport.Visible = false;
         }
 
         private void button21_Click(object sender, EventArgs e)
         {
-            admin.Show();
-            cdata.Hide();
-            mc.Hide();
-            trash.Hide();
-            vol.Hide();
-            settings.Hide();
-            help.Hide();
+            dash.Visible = false;
+            cleanupd.Visible = false;
+            myCleanups.Visible = false;
+            trashtypes.Visible = false;
+            volun.Visible = false;
+            adminm.Visible = true;
+            sett.Visible = false;
+            helpsupport.Visible = false;
         }
 
         private void button22_Click(object sender, EventArgs e)
         {
-            settings.Show();
-            cdata.Hide();
-            mc.Hide();
-            trash.Hide();
-            vol.Hide();
-            admin.Hide();
-            help.Hide();
+            dash.Visible = false;
+            cleanupd.Visible = false;
+            myCleanups.Visible = false;
+            trashtypes.Visible = false;
+            volun.Visible = false;
+            adminm.Visible = false;
+            sett.Visible = true;
+            helpsupport.Visible = false;
         }
 
         private void button30_Click(object sender, EventArgs e)
         {
-            help.Show();
-            cdata.Hide();
-            mc.Hide();
-            trash.Hide();
-            vol.Hide();
-            admin.Hide();
-            settings.Hide();
+            dash.Visible = false;
+            cleanupd.Visible = false;
+            myCleanups.Visible = false;
+            trashtypes.Visible = false;
+            volun.Visible = false;
+            adminm.Visible = false;
+            sett.Visible = false;
+            helpsupport.Visible = true;
+        }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void claenupd_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
