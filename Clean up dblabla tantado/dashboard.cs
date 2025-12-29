@@ -16,6 +16,14 @@ namespace Clean_up_dblabla_tantado
         {
             InitializeComponent();
             panel19.Visible = false;
+            panel81.Visible = false;
+            panel68.Visible = false;
+            panel75.Visible = false;
+            panel69.Visible = false;
+            panel70.Visible = false;
+            panel65.Visible = false;
+            panel66.Visible = false;
+            panel64.Visible = false;
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -283,6 +291,133 @@ namespace Clean_up_dblabla_tantado
         private void panel36_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void panel69_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button55_Click(object sender, EventArgs e)
+        {
+            panel80.Visible = true;
+            panel82.Visible = true;
+            panel81.Visible = false;
+            panel68.Visible = false;
+            panel75.Visible = false;
+            panel69.Visible = false;
+            panel70.Visible = false;
+            panel65.Visible = false;
+            panel66.Visible = false;
+        }
+
+        private void button54_Click(object sender, EventArgs e)
+        {
+            panel80.Visible = false;
+            panel82.Visible = false;
+            panel81.Visible = false;
+            panel68.Visible = true;
+            panel75.Visible = false;
+            panel69.Visible = false;
+            panel70.Visible = false;
+            panel65.Visible = false;
+            panel66.Visible = false;
+        }
+
+        private void button53_Click(object sender, EventArgs e)
+        {
+            panel80.Visible = false;
+            panel82.Visible = false;
+            panel81.Visible = false;
+            panel68.Visible = false;
+            panel75.Visible = false;
+            panel69.Visible = true;
+            panel70.Visible = false;
+            panel65.Visible = false;
+            panel66.Visible = false;
+        }
+
+        private void button52_Click(object sender, EventArgs e)
+        {
+            panel80.Visible = false;
+            panel82.Visible = false;
+            panel81.Visible = false;
+            panel68.Visible = false;
+            panel75.Visible = false;
+            panel69.Visible = false;
+            panel70.Visible = false;
+            panel65.Visible = true;
+            panel66.Visible = false;
+        }
+
+        private void button62_Click(object sender, EventArgs e)
+        {
+            panel81.Visible = true;
+        }
+
+        private void button63_Click(object sender, EventArgs e)
+        {
+            panel81.Visible = false;
+        }
+
+        private void button64_Click(object sender, EventArgs e)
+        {
+            panel81.Visible = false;
+        }
+
+        private void button50_Click(object sender, EventArgs e)
+        {
+            panel66.Visible = true;
+        }
+
+        private void button48_Click(object sender, EventArgs e)
+        {
+            panel66.Visible = false;
+        }
+
+        private void button49_Click(object sender, EventArgs e)
+        {
+            panel66.Visible = false;
+        }
+
+        private void button59_Click(object sender, EventArgs e)
+        {
+            panel75.Visible = true;
+        }
+
+        private void button60_Click(object sender, EventArgs e)
+        {
+            panel75.Visible = false;
+        }
+
+        private void button61_Click(object sender, EventArgs e)
+        {
+            panel75.Visible = false;
+        }
+
+        private void button56_Click(object sender, EventArgs e)
+        {
+            panel70.Visible = true;
+        }
+
+        private void button57_Click(object sender, EventArgs e)
+        {
+            panel70.Visible = false;
+        }
+
+        private void button58_Click(object sender, EventArgs e)
+        {
+            panel70.Visible = false;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            panel64.Visible = true;
+        }
+
+        private void button51_Click(object sender, EventArgs e)
+        {
+            panel64.Visible=false;
         }
     }
 }
