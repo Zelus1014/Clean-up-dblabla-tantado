@@ -76,7 +76,7 @@
             this.panel3.Controls.Add(this.label4);
             this.panel3.Controls.Add(this.label8);
             this.panel3.Controls.Add(this.button3);
-            this.panel3.Location = new System.Drawing.Point(1, 0);
+            this.panel3.Location = new System.Drawing.Point(583, 2);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(762, 925);
             this.panel3.TabIndex = 13;
@@ -166,9 +166,9 @@
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.label6);
             this.panel2.Controls.Add(this.button2);
-            this.panel2.Location = new System.Drawing.Point(769, 0);
+            this.panel2.Location = new System.Drawing.Point(577, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(765, 925);
+            this.panel2.Size = new System.Drawing.Size(768, 931);
             this.panel2.TabIndex = 14;
             // 
             // textBox3
@@ -322,7 +322,7 @@
             this.panel1.Controls.Add(this.linkLabel1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.button1);
-            this.panel1.Location = new System.Drawing.Point(1540, 0);
+            this.panel1.Location = new System.Drawing.Point(580, 2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(765, 925);
             this.panel1.TabIndex = 15;
@@ -434,9 +434,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(2081, 1148);
-            this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel3);
+            this.Controls.Add(this.panel1);
             this.Name = "login";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
