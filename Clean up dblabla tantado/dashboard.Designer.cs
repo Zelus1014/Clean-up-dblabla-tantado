@@ -222,6 +222,130 @@
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.myCleanups = new System.Windows.Forms.Panel();
+            this.panel64 = new System.Windows.Forms.Panel();
+            this.button51 = new System.Windows.Forms.Button();
+            this.panel67 = new System.Windows.Forms.Panel();
+            this.button52 = new System.Windows.Forms.Button();
+            this.button53 = new System.Windows.Forms.Button();
+            this.button54 = new System.Windows.Forms.Button();
+            this.button55 = new System.Windows.Forms.Button();
+            this.label210 = new System.Windows.Forms.Label();
+            this.label211 = new System.Windows.Forms.Label();
+            this.panel80 = new System.Windows.Forms.Panel();
+            this.panel81 = new System.Windows.Forms.Panel();
+            this.label248 = new System.Windows.Forms.Label();
+            this.textBox18 = new System.Windows.Forms.TextBox();
+            this.button63 = new System.Windows.Forms.Button();
+            this.button64 = new System.Windows.Forms.Button();
+            this.label249 = new System.Windows.Forms.Label();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.label250 = new System.Windows.Forms.Label();
+            this.label251 = new System.Windows.Forms.Label();
+            this.textBox20 = new System.Windows.Forms.TextBox();
+            this.label252 = new System.Windows.Forms.Label();
+            this.button62 = new System.Windows.Forms.Button();
+            this.label246 = new System.Windows.Forms.Label();
+            this.label247 = new System.Windows.Forms.Label();
+            this.label253 = new System.Windows.Forms.Label();
+            this.label254 = new System.Windows.Forms.Label();
+            this.label255 = new System.Windows.Forms.Label();
+            this.label256 = new System.Windows.Forms.Label();
+            this.label257 = new System.Windows.Forms.Label();
+            this.label258 = new System.Windows.Forms.Label();
+            this.label259 = new System.Windows.Forms.Label();
+            this.label260 = new System.Windows.Forms.Label();
+            this.panel82 = new System.Windows.Forms.Panel();
+            this.panel83 = new System.Windows.Forms.Panel();
+            this.label261 = new System.Windows.Forms.Label();
+            this.label262 = new System.Windows.Forms.Label();
+            this.panel84 = new System.Windows.Forms.Panel();
+            this.label263 = new System.Windows.Forms.Label();
+            this.label264 = new System.Windows.Forms.Label();
+            this.panel85 = new System.Windows.Forms.Panel();
+            this.label265 = new System.Windows.Forms.Label();
+            this.label266 = new System.Windows.Forms.Label();
+            this.label267 = new System.Windows.Forms.Label();
+            this.panel65 = new System.Windows.Forms.Panel();
+            this.label193 = new System.Windows.Forms.Label();
+            this.label194 = new System.Windows.Forms.Label();
+            this.label195 = new System.Windows.Forms.Label();
+            this.label196 = new System.Windows.Forms.Label();
+            this.panel66 = new System.Windows.Forms.Panel();
+            this.button48 = new System.Windows.Forms.Button();
+            this.button49 = new System.Windows.Forms.Button();
+            this.label197 = new System.Windows.Forms.Label();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.label198 = new System.Windows.Forms.Label();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.label199 = new System.Windows.Forms.Label();
+            this.label200 = new System.Windows.Forms.Label();
+            this.label201 = new System.Windows.Forms.Label();
+            this.label202 = new System.Windows.Forms.Label();
+            this.label203 = new System.Windows.Forms.Label();
+            this.label204 = new System.Windows.Forms.Label();
+            this.label205 = new System.Windows.Forms.Label();
+            this.label206 = new System.Windows.Forms.Label();
+            this.label207 = new System.Windows.Forms.Label();
+            this.button50 = new System.Windows.Forms.Button();
+            this.label208 = new System.Windows.Forms.Label();
+            this.label209 = new System.Windows.Forms.Label();
+            this.panel68 = new System.Windows.Forms.Panel();
+            this.button59 = new System.Windows.Forms.Button();
+            this.panel75 = new System.Windows.Forms.Panel();
+            this.button60 = new System.Windows.Forms.Button();
+            this.button61 = new System.Windows.Forms.Button();
+            this.label224 = new System.Windows.Forms.Label();
+            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.label225 = new System.Windows.Forms.Label();
+            this.textBox16 = new System.Windows.Forms.TextBox();
+            this.label226 = new System.Windows.Forms.Label();
+            this.label227 = new System.Windows.Forms.Label();
+            this.textBox17 = new System.Windows.Forms.TextBox();
+            this.panel76 = new System.Windows.Forms.Panel();
+            this.label228 = new System.Windows.Forms.Label();
+            this.label229 = new System.Windows.Forms.Label();
+            this.label230 = new System.Windows.Forms.Label();
+            this.label231 = new System.Windows.Forms.Label();
+            this.panel77 = new System.Windows.Forms.Panel();
+            this.label232 = new System.Windows.Forms.Label();
+            this.label233 = new System.Windows.Forms.Label();
+            this.label234 = new System.Windows.Forms.Label();
+            this.label235 = new System.Windows.Forms.Label();
+            this.panel78 = new System.Windows.Forms.Panel();
+            this.label236 = new System.Windows.Forms.Label();
+            this.label237 = new System.Windows.Forms.Label();
+            this.label238 = new System.Windows.Forms.Label();
+            this.label239 = new System.Windows.Forms.Label();
+            this.panel79 = new System.Windows.Forms.Panel();
+            this.label240 = new System.Windows.Forms.Label();
+            this.label241 = new System.Windows.Forms.Label();
+            this.label242 = new System.Windows.Forms.Label();
+            this.label243 = new System.Windows.Forms.Label();
+            this.label244 = new System.Windows.Forms.Label();
+            this.label245 = new System.Windows.Forms.Label();
+            this.panel69 = new System.Windows.Forms.Panel();
+            this.panel70 = new System.Windows.Forms.Panel();
+            this.button57 = new System.Windows.Forms.Button();
+            this.button58 = new System.Windows.Forms.Button();
+            this.label212 = new System.Windows.Forms.Label();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.label213 = new System.Windows.Forms.Label();
+            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.label214 = new System.Windows.Forms.Label();
+            this.button56 = new System.Windows.Forms.Button();
+            this.panel71 = new System.Windows.Forms.Panel();
+            this.label215 = new System.Windows.Forms.Label();
+            this.label216 = new System.Windows.Forms.Label();
+            this.panel72 = new System.Windows.Forms.Panel();
+            this.label217 = new System.Windows.Forms.Label();
+            this.label218 = new System.Windows.Forms.Label();
+            this.panel73 = new System.Windows.Forms.Panel();
+            this.label219 = new System.Windows.Forms.Label();
+            this.label220 = new System.Windows.Forms.Label();
+            this.panel74 = new System.Windows.Forms.Panel();
+            this.label221 = new System.Windows.Forms.Label();
+            this.label222 = new System.Windows.Forms.Label();
+            this.label223 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.button3 = new System.Windows.Forms.Button();
@@ -245,6 +369,8 @@
             this.label30 = new System.Windows.Forms.Label();
             this.label31 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
+            this.label42 = new System.Windows.Forms.Label();
+            this.label43 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
             this.button7 = new System.Windows.Forms.Button();
             this.label33 = new System.Windows.Forms.Label();
@@ -256,8 +382,6 @@
             this.label39 = new System.Windows.Forms.Label();
             this.label40 = new System.Windows.Forms.Label();
             this.label41 = new System.Windows.Forms.Label();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
             this.trashtypes = new System.Windows.Forms.Panel();
             this.panel7 = new System.Windows.Forms.Panel();
             this.label44 = new System.Windows.Forms.Label();
@@ -348,130 +472,6 @@
             this.button28 = new System.Windows.Forms.Button();
             this.label95 = new System.Windows.Forms.Label();
             this.label96 = new System.Windows.Forms.Label();
-            this.panel64 = new System.Windows.Forms.Panel();
-            this.panel65 = new System.Windows.Forms.Panel();
-            this.label193 = new System.Windows.Forms.Label();
-            this.label194 = new System.Windows.Forms.Label();
-            this.label195 = new System.Windows.Forms.Label();
-            this.label196 = new System.Windows.Forms.Label();
-            this.panel66 = new System.Windows.Forms.Panel();
-            this.button48 = new System.Windows.Forms.Button();
-            this.button49 = new System.Windows.Forms.Button();
-            this.label197 = new System.Windows.Forms.Label();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.label198 = new System.Windows.Forms.Label();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.label199 = new System.Windows.Forms.Label();
-            this.label200 = new System.Windows.Forms.Label();
-            this.label201 = new System.Windows.Forms.Label();
-            this.label202 = new System.Windows.Forms.Label();
-            this.label203 = new System.Windows.Forms.Label();
-            this.label204 = new System.Windows.Forms.Label();
-            this.label205 = new System.Windows.Forms.Label();
-            this.label206 = new System.Windows.Forms.Label();
-            this.label207 = new System.Windows.Forms.Label();
-            this.button50 = new System.Windows.Forms.Button();
-            this.label208 = new System.Windows.Forms.Label();
-            this.label209 = new System.Windows.Forms.Label();
-            this.button51 = new System.Windows.Forms.Button();
-            this.panel67 = new System.Windows.Forms.Panel();
-            this.button52 = new System.Windows.Forms.Button();
-            this.button53 = new System.Windows.Forms.Button();
-            this.button54 = new System.Windows.Forms.Button();
-            this.button55 = new System.Windows.Forms.Button();
-            this.label210 = new System.Windows.Forms.Label();
-            this.label211 = new System.Windows.Forms.Label();
-            this.panel68 = new System.Windows.Forms.Panel();
-            this.panel69 = new System.Windows.Forms.Panel();
-            this.button56 = new System.Windows.Forms.Button();
-            this.panel70 = new System.Windows.Forms.Panel();
-            this.button57 = new System.Windows.Forms.Button();
-            this.button58 = new System.Windows.Forms.Button();
-            this.label212 = new System.Windows.Forms.Label();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.label213 = new System.Windows.Forms.Label();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.label214 = new System.Windows.Forms.Label();
-            this.panel71 = new System.Windows.Forms.Panel();
-            this.label215 = new System.Windows.Forms.Label();
-            this.label216 = new System.Windows.Forms.Label();
-            this.panel72 = new System.Windows.Forms.Panel();
-            this.label217 = new System.Windows.Forms.Label();
-            this.label218 = new System.Windows.Forms.Label();
-            this.panel73 = new System.Windows.Forms.Panel();
-            this.label219 = new System.Windows.Forms.Label();
-            this.label220 = new System.Windows.Forms.Label();
-            this.panel74 = new System.Windows.Forms.Panel();
-            this.label221 = new System.Windows.Forms.Label();
-            this.label222 = new System.Windows.Forms.Label();
-            this.label223 = new System.Windows.Forms.Label();
-            this.button59 = new System.Windows.Forms.Button();
-            this.panel75 = new System.Windows.Forms.Panel();
-            this.button60 = new System.Windows.Forms.Button();
-            this.button61 = new System.Windows.Forms.Button();
-            this.label224 = new System.Windows.Forms.Label();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.label225 = new System.Windows.Forms.Label();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.label226 = new System.Windows.Forms.Label();
-            this.label227 = new System.Windows.Forms.Label();
-            this.textBox17 = new System.Windows.Forms.TextBox();
-            this.panel76 = new System.Windows.Forms.Panel();
-            this.label228 = new System.Windows.Forms.Label();
-            this.label229 = new System.Windows.Forms.Label();
-            this.label230 = new System.Windows.Forms.Label();
-            this.label231 = new System.Windows.Forms.Label();
-            this.panel77 = new System.Windows.Forms.Panel();
-            this.label232 = new System.Windows.Forms.Label();
-            this.label233 = new System.Windows.Forms.Label();
-            this.label234 = new System.Windows.Forms.Label();
-            this.label235 = new System.Windows.Forms.Label();
-            this.panel78 = new System.Windows.Forms.Panel();
-            this.label236 = new System.Windows.Forms.Label();
-            this.label237 = new System.Windows.Forms.Label();
-            this.label238 = new System.Windows.Forms.Label();
-            this.label239 = new System.Windows.Forms.Label();
-            this.panel79 = new System.Windows.Forms.Panel();
-            this.label240 = new System.Windows.Forms.Label();
-            this.label241 = new System.Windows.Forms.Label();
-            this.label242 = new System.Windows.Forms.Label();
-            this.label243 = new System.Windows.Forms.Label();
-            this.label244 = new System.Windows.Forms.Label();
-            this.label245 = new System.Windows.Forms.Label();
-            this.panel80 = new System.Windows.Forms.Panel();
-            this.button62 = new System.Windows.Forms.Button();
-            this.label246 = new System.Windows.Forms.Label();
-            this.label247 = new System.Windows.Forms.Label();
-            this.panel81 = new System.Windows.Forms.Panel();
-            this.label248 = new System.Windows.Forms.Label();
-            this.textBox18 = new System.Windows.Forms.TextBox();
-            this.button63 = new System.Windows.Forms.Button();
-            this.button64 = new System.Windows.Forms.Button();
-            this.label249 = new System.Windows.Forms.Label();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.label250 = new System.Windows.Forms.Label();
-            this.label251 = new System.Windows.Forms.Label();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.label252 = new System.Windows.Forms.Label();
-            this.label253 = new System.Windows.Forms.Label();
-            this.label254 = new System.Windows.Forms.Label();
-            this.label255 = new System.Windows.Forms.Label();
-            this.label256 = new System.Windows.Forms.Label();
-            this.label257 = new System.Windows.Forms.Label();
-            this.label258 = new System.Windows.Forms.Label();
-            this.label259 = new System.Windows.Forms.Label();
-            this.label260 = new System.Windows.Forms.Label();
-            this.panel82 = new System.Windows.Forms.Panel();
-            this.panel83 = new System.Windows.Forms.Panel();
-            this.label261 = new System.Windows.Forms.Label();
-            this.label262 = new System.Windows.Forms.Label();
-            this.panel84 = new System.Windows.Forms.Panel();
-            this.label263 = new System.Windows.Forms.Label();
-            this.label264 = new System.Windows.Forms.Label();
-            this.panel85 = new System.Windows.Forms.Panel();
-            this.label265 = new System.Windows.Forms.Label();
-            this.label266 = new System.Windows.Forms.Label();
-            this.label267 = new System.Windows.Forms.Label();
             this.dash.SuspendLayout();
             this.panel18.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -509,6 +509,28 @@
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
             this.myCleanups.SuspendLayout();
+            this.panel64.SuspendLayout();
+            this.panel67.SuspendLayout();
+            this.panel80.SuspendLayout();
+            this.panel81.SuspendLayout();
+            this.panel82.SuspendLayout();
+            this.panel83.SuspendLayout();
+            this.panel84.SuspendLayout();
+            this.panel85.SuspendLayout();
+            this.panel65.SuspendLayout();
+            this.panel66.SuspendLayout();
+            this.panel68.SuspendLayout();
+            this.panel75.SuspendLayout();
+            this.panel76.SuspendLayout();
+            this.panel77.SuspendLayout();
+            this.panel78.SuspendLayout();
+            this.panel79.SuspendLayout();
+            this.panel69.SuspendLayout();
+            this.panel70.SuspendLayout();
+            this.panel71.SuspendLayout();
+            this.panel72.SuspendLayout();
+            this.panel73.SuspendLayout();
+            this.panel74.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel5.SuspendLayout();
             this.panel6.SuspendLayout();
@@ -532,28 +554,6 @@
             this.panel29.SuspendLayout();
             this.panel32.SuspendLayout();
             this.panel34.SuspendLayout();
-            this.panel64.SuspendLayout();
-            this.panel65.SuspendLayout();
-            this.panel66.SuspendLayout();
-            this.panel67.SuspendLayout();
-            this.panel68.SuspendLayout();
-            this.panel69.SuspendLayout();
-            this.panel70.SuspendLayout();
-            this.panel71.SuspendLayout();
-            this.panel72.SuspendLayout();
-            this.panel73.SuspendLayout();
-            this.panel74.SuspendLayout();
-            this.panel75.SuspendLayout();
-            this.panel76.SuspendLayout();
-            this.panel77.SuspendLayout();
-            this.panel78.SuspendLayout();
-            this.panel79.SuspendLayout();
-            this.panel80.SuspendLayout();
-            this.panel81.SuspendLayout();
-            this.panel82.SuspendLayout();
-            this.panel83.SuspendLayout();
-            this.panel84.SuspendLayout();
-            this.panel85.SuspendLayout();
             this.SuspendLayout();
             // 
             // dash
@@ -2675,6 +2675,1353 @@
             this.myCleanups.Size = new System.Drawing.Size(1632, 1139);
             this.myCleanups.TabIndex = 7;
             // 
+            // panel64
+            // 
+            this.panel64.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel64.Controls.Add(this.button51);
+            this.panel64.Controls.Add(this.panel67);
+            this.panel64.Controls.Add(this.label210);
+            this.panel64.Controls.Add(this.label211);
+            this.panel64.Controls.Add(this.panel80);
+            this.panel64.Controls.Add(this.panel82);
+            this.panel64.Controls.Add(this.panel65);
+            this.panel64.Controls.Add(this.panel68);
+            this.panel64.Controls.Add(this.panel69);
+            this.panel64.Location = new System.Drawing.Point(428, 24);
+            this.panel64.Margin = new System.Windows.Forms.Padding(4);
+            this.panel64.Name = "panel64";
+            this.panel64.Size = new System.Drawing.Size(777, 1092);
+            this.panel64.TabIndex = 12;
+            // 
+            // button51
+            // 
+            this.button51.Location = new System.Drawing.Point(671, 13);
+            this.button51.Margin = new System.Windows.Forms.Padding(6);
+            this.button51.Name = "button51";
+            this.button51.Size = new System.Drawing.Size(95, 42);
+            this.button51.TabIndex = 11;
+            this.button51.Text = "Close";
+            this.button51.UseVisualStyleBackColor = true;
+            this.button51.Click += new System.EventHandler(this.button51_Click);
+            // 
+            // panel67
+            // 
+            this.panel67.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.panel67.Controls.Add(this.button52);
+            this.panel67.Controls.Add(this.button53);
+            this.panel67.Controls.Add(this.button54);
+            this.panel67.Controls.Add(this.button55);
+            this.panel67.Location = new System.Drawing.Point(72, 161);
+            this.panel67.Margin = new System.Windows.Forms.Padding(6);
+            this.panel67.Name = "panel67";
+            this.panel67.Size = new System.Drawing.Size(642, 50);
+            this.panel67.TabIndex = 2;
+            // 
+            // button52
+            // 
+            this.button52.Location = new System.Drawing.Point(473, 6);
+            this.button52.Margin = new System.Windows.Forms.Padding(6);
+            this.button52.Name = "button52";
+            this.button52.Size = new System.Drawing.Size(138, 42);
+            this.button52.TabIndex = 3;
+            this.button52.Text = "Timeline";
+            this.button52.UseVisualStyleBackColor = true;
+            this.button52.Click += new System.EventHandler(this.button52_Click);
+            // 
+            // button53
+            // 
+            this.button53.Location = new System.Drawing.Point(324, 6);
+            this.button53.Margin = new System.Windows.Forms.Padding(6);
+            this.button53.Name = "button53";
+            this.button53.Size = new System.Drawing.Size(138, 42);
+            this.button53.TabIndex = 2;
+            this.button53.Text = "Tools";
+            this.button53.UseVisualStyleBackColor = true;
+            this.button53.Click += new System.EventHandler(this.button53_Click);
+            // 
+            // button54
+            // 
+            this.button54.Location = new System.Drawing.Point(176, 6);
+            this.button54.Margin = new System.Windows.Forms.Padding(6);
+            this.button54.Name = "button54";
+            this.button54.Size = new System.Drawing.Size(138, 42);
+            this.button54.TabIndex = 1;
+            this.button54.Text = "Team";
+            this.button54.UseVisualStyleBackColor = true;
+            this.button54.Click += new System.EventHandler(this.button54_Click);
+            // 
+            // button55
+            // 
+            this.button55.Location = new System.Drawing.Point(28, 6);
+            this.button55.Margin = new System.Windows.Forms.Padding(6);
+            this.button55.Name = "button55";
+            this.button55.Size = new System.Drawing.Size(138, 42);
+            this.button55.TabIndex = 0;
+            this.button55.Text = "Waste Data";
+            this.button55.UseVisualStyleBackColor = true;
+            this.button55.Click += new System.EventHandler(this.button55_Click);
+            // 
+            // label210
+            // 
+            this.label210.AutoSize = true;
+            this.label210.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label210.Location = new System.Drawing.Point(38, 76);
+            this.label210.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label210.Name = "label210";
+            this.label210.Size = new System.Drawing.Size(230, 25);
+            this.label210.TabIndex = 1;
+            this.label210.Text = "Street Cleanup Activity";
+            // 
+            // label211
+            // 
+            this.label211.AutoSize = true;
+            this.label211.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label211.Location = new System.Drawing.Point(37, 39);
+            this.label211.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label211.Name = "label211";
+            this.label211.Size = new System.Drawing.Size(273, 32);
+            this.label211.TabIndex = 0;
+            this.label211.Text = "Barangay 1 Cleanup";
+            // 
+            // panel80
+            // 
+            this.panel80.Controls.Add(this.panel81);
+            this.panel80.Controls.Add(this.button62);
+            this.panel80.Controls.Add(this.label246);
+            this.panel80.Controls.Add(this.label247);
+            this.panel80.Controls.Add(this.label253);
+            this.panel80.Controls.Add(this.label254);
+            this.panel80.Controls.Add(this.label255);
+            this.panel80.Controls.Add(this.label256);
+            this.panel80.Controls.Add(this.label257);
+            this.panel80.Controls.Add(this.label258);
+            this.panel80.Controls.Add(this.label259);
+            this.panel80.Controls.Add(this.label260);
+            this.panel80.Location = new System.Drawing.Point(72, 257);
+            this.panel80.Margin = new System.Windows.Forms.Padding(6);
+            this.panel80.Name = "panel80";
+            this.panel80.Size = new System.Drawing.Size(642, 445);
+            this.panel80.TabIndex = 3;
+            // 
+            // panel81
+            // 
+            this.panel81.Controls.Add(this.label248);
+            this.panel81.Controls.Add(this.textBox18);
+            this.panel81.Controls.Add(this.button63);
+            this.panel81.Controls.Add(this.button64);
+            this.panel81.Controls.Add(this.label249);
+            this.panel81.Controls.Add(this.textBox19);
+            this.panel81.Controls.Add(this.label250);
+            this.panel81.Controls.Add(this.label251);
+            this.panel81.Controls.Add(this.textBox20);
+            this.panel81.Controls.Add(this.label252);
+            this.panel81.Location = new System.Drawing.Point(106, 66);
+            this.panel81.Margin = new System.Windows.Forms.Padding(6);
+            this.panel81.Name = "panel81";
+            this.panel81.Size = new System.Drawing.Size(440, 377);
+            this.panel81.TabIndex = 7;
+            // 
+            // label248
+            // 
+            this.label248.AutoSize = true;
+            this.label248.Location = new System.Drawing.Point(24, 253);
+            this.label248.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label248.Name = "label248";
+            this.label248.Size = new System.Drawing.Size(71, 25);
+            this.label248.TabIndex = 11;
+            this.label248.Text = "Others";
+            // 
+            // textBox18
+            // 
+            this.textBox18.Location = new System.Drawing.Point(29, 277);
+            this.textBox18.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox18.Name = "textBox18";
+            this.textBox18.Size = new System.Drawing.Size(380, 29);
+            this.textBox18.TabIndex = 10;
+            // 
+            // button63
+            // 
+            this.button63.Location = new System.Drawing.Point(358, 2);
+            this.button63.Margin = new System.Windows.Forms.Padding(6);
+            this.button63.Name = "button63";
+            this.button63.Size = new System.Drawing.Size(77, 42);
+            this.button63.TabIndex = 9;
+            this.button63.Text = "Close";
+            this.button63.UseVisualStyleBackColor = true;
+            this.button63.Click += new System.EventHandler(this.button63_Click);
+            // 
+            // button64
+            // 
+            this.button64.Location = new System.Drawing.Point(275, 327);
+            this.button64.Margin = new System.Windows.Forms.Padding(6);
+            this.button64.Name = "button64";
+            this.button64.Size = new System.Drawing.Size(138, 42);
+            this.button64.TabIndex = 0;
+            this.button64.Text = "Add";
+            this.button64.UseVisualStyleBackColor = true;
+            this.button64.Click += new System.EventHandler(this.button64_Click);
+            // 
+            // label249
+            // 
+            this.label249.AutoSize = true;
+            this.label249.Location = new System.Drawing.Point(24, 186);
+            this.label249.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label249.Name = "label249";
+            this.label249.Size = new System.Drawing.Size(157, 25);
+            this.label249.TabIndex = 5;
+            this.label249.Text = "Number Of Bags";
+            // 
+            // textBox19
+            // 
+            this.textBox19.Location = new System.Drawing.Point(29, 210);
+            this.textBox19.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox19.Name = "textBox19";
+            this.textBox19.Size = new System.Drawing.Size(380, 29);
+            this.textBox19.TabIndex = 4;
+            // 
+            // label250
+            // 
+            this.label250.AutoSize = true;
+            this.label250.Location = new System.Drawing.Point(24, 116);
+            this.label250.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label250.Name = "label250";
+            this.label250.Size = new System.Drawing.Size(119, 25);
+            this.label250.TabIndex = 3;
+            this.label250.Text = "Waste Type";
+            // 
+            // label251
+            // 
+            this.label251.AutoSize = true;
+            this.label251.Location = new System.Drawing.Point(24, 70);
+            this.label251.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label251.Name = "label251";
+            this.label251.Size = new System.Drawing.Size(162, 50);
+            this.label251.TabIndex = 2;
+            this.label251.Text = "Add a waste type\r\n\r\n";
+            // 
+            // textBox20
+            // 
+            this.textBox20.Location = new System.Drawing.Point(29, 140);
+            this.textBox20.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox20.Name = "textBox20";
+            this.textBox20.Size = new System.Drawing.Size(380, 29);
+            this.textBox20.TabIndex = 1;
+            // 
+            // label252
+            // 
+            this.label252.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label252.Location = new System.Drawing.Point(24, 37);
+            this.label252.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label252.Name = "label252";
+            this.label252.Size = new System.Drawing.Size(75, 24);
+            this.label252.TabIndex = 0;
+            this.label252.Text = "Add Team Member";
+            // 
+            // button62
+            // 
+            this.button62.Location = new System.Drawing.Point(456, 19);
+            this.button62.Margin = new System.Windows.Forms.Padding(6);
+            this.button62.Name = "button62";
+            this.button62.Size = new System.Drawing.Size(169, 42);
+            this.button62.TabIndex = 10;
+            this.button62.Text = "Add Waste type";
+            this.button62.UseVisualStyleBackColor = true;
+            this.button62.Click += new System.EventHandler(this.button62_Click);
+            // 
+            // label246
+            // 
+            this.label246.AutoSize = true;
+            this.label246.Location = new System.Drawing.Point(468, 367);
+            this.label246.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label246.Name = "label246";
+            this.label246.Size = new System.Drawing.Size(41, 25);
+            this.label246.TabIndex = 9;
+            this.label246.Text = "5%";
+            this.label246.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label247
+            // 
+            this.label247.AutoSize = true;
+            this.label247.Location = new System.Drawing.Point(468, 299);
+            this.label247.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label247.Name = "label247";
+            this.label247.Size = new System.Drawing.Size(52, 25);
+            this.label247.TabIndex = 8;
+            this.label247.Text = "10%";
+            this.label247.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label253
+            // 
+            this.label253.AutoSize = true;
+            this.label253.Location = new System.Drawing.Point(468, 229);
+            this.label253.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label253.Name = "label253";
+            this.label253.Size = new System.Drawing.Size(52, 25);
+            this.label253.TabIndex = 7;
+            this.label253.Text = "15%";
+            this.label253.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label254
+            // 
+            this.label254.AutoSize = true;
+            this.label254.Location = new System.Drawing.Point(468, 153);
+            this.label254.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label254.Name = "label254";
+            this.label254.Size = new System.Drawing.Size(52, 25);
+            this.label254.TabIndex = 6;
+            this.label254.Text = "65%";
+            this.label254.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label255
+            // 
+            this.label255.AutoSize = true;
+            this.label255.Location = new System.Drawing.Point(38, 367);
+            this.label255.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label255.Name = "label255";
+            this.label255.Size = new System.Drawing.Size(64, 25);
+            this.label255.TabIndex = 5;
+            this.label255.Text = "Paper";
+            // 
+            // label256
+            // 
+            this.label256.AutoSize = true;
+            this.label256.Location = new System.Drawing.Point(38, 299);
+            this.label256.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label256.Name = "label256";
+            this.label256.Size = new System.Drawing.Size(62, 25);
+            this.label256.TabIndex = 4;
+            this.label256.Text = "Glass";
+            // 
+            // label257
+            // 
+            this.label257.AutoSize = true;
+            this.label257.Location = new System.Drawing.Point(38, 229);
+            this.label257.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label257.Name = "label257";
+            this.label257.Size = new System.Drawing.Size(60, 25);
+            this.label257.TabIndex = 3;
+            this.label257.Text = "Metal";
+            // 
+            // label258
+            // 
+            this.label258.AutoSize = true;
+            this.label258.Location = new System.Drawing.Point(38, 153);
+            this.label258.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label258.Name = "label258";
+            this.label258.Size = new System.Drawing.Size(69, 25);
+            this.label258.TabIndex = 2;
+            this.label258.Text = "Plastic";
+            // 
+            // label259
+            // 
+            this.label259.AutoSize = true;
+            this.label259.Location = new System.Drawing.Point(38, 76);
+            this.label259.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label259.Name = "label259";
+            this.label259.Size = new System.Drawing.Size(369, 25);
+            this.label259.TabIndex = 1;
+            this.label259.Text = "Percentage distribution of waste collected";
+            // 
+            // label260
+            // 
+            this.label260.AutoSize = true;
+            this.label260.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label260.Location = new System.Drawing.Point(38, 31);
+            this.label260.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label260.Name = "label260";
+            this.label260.Size = new System.Drawing.Size(338, 31);
+            this.label260.TabIndex = 0;
+            this.label260.Text = "Waste Breakdown by Type";
+            // 
+            // panel82
+            // 
+            this.panel82.Controls.Add(this.panel83);
+            this.panel82.Controls.Add(this.panel84);
+            this.panel82.Controls.Add(this.panel85);
+            this.panel82.Controls.Add(this.label267);
+            this.panel82.Location = new System.Drawing.Point(72, 713);
+            this.panel82.Margin = new System.Windows.Forms.Padding(6);
+            this.panel82.Name = "panel82";
+            this.panel82.Size = new System.Drawing.Size(642, 349);
+            this.panel82.TabIndex = 4;
+            // 
+            // panel83
+            // 
+            this.panel83.Controls.Add(this.label261);
+            this.panel83.Controls.Add(this.label262);
+            this.panel83.Location = new System.Drawing.Point(28, 258);
+            this.panel83.Margin = new System.Windows.Forms.Padding(6);
+            this.panel83.Name = "panel83";
+            this.panel83.Size = new System.Drawing.Size(583, 63);
+            this.panel83.TabIndex = 12;
+            // 
+            // label261
+            // 
+            this.label261.AutoSize = true;
+            this.label261.Location = new System.Drawing.Point(477, 22);
+            this.label261.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label261.Name = "label261";
+            this.label261.Size = new System.Drawing.Size(52, 25);
+            this.label261.TabIndex = 11;
+            this.label261.Text = "75%";
+            // 
+            // label262
+            // 
+            this.label262.AutoSize = true;
+            this.label262.Location = new System.Drawing.Point(11, 22);
+            this.label262.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label262.Name = "label262";
+            this.label262.Size = new System.Drawing.Size(191, 25);
+            this.label262.TabIndex = 10;
+            this.label262.Text = "Recyclable Materials";
+            // 
+            // panel84
+            // 
+            this.panel84.Controls.Add(this.label263);
+            this.panel84.Controls.Add(this.label264);
+            this.panel84.Location = new System.Drawing.Point(28, 185);
+            this.panel84.Margin = new System.Windows.Forms.Padding(6);
+            this.panel84.Name = "panel84";
+            this.panel84.Size = new System.Drawing.Size(583, 63);
+            this.panel84.TabIndex = 12;
+            // 
+            // label263
+            // 
+            this.label263.AutoSize = true;
+            this.label263.Location = new System.Drawing.Point(477, 22);
+            this.label263.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label263.Name = "label263";
+            this.label263.Size = new System.Drawing.Size(69, 25);
+            this.label263.TabIndex = 11;
+            this.label263.Text = "Plastic";
+            // 
+            // label264
+            // 
+            this.label264.AutoSize = true;
+            this.label264.Location = new System.Drawing.Point(11, 22);
+            this.label264.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label264.Name = "label264";
+            this.label264.Size = new System.Drawing.Size(167, 25);
+            this.label264.TabIndex = 10;
+            this.label264.Text = "Main Waste Type";
+            // 
+            // panel85
+            // 
+            this.panel85.Controls.Add(this.label265);
+            this.panel85.Controls.Add(this.label266);
+            this.panel85.Location = new System.Drawing.Point(28, 111);
+            this.panel85.Margin = new System.Windows.Forms.Padding(6);
+            this.panel85.Name = "panel85";
+            this.panel85.Size = new System.Drawing.Size(583, 63);
+            this.panel85.TabIndex = 4;
+            // 
+            // label265
+            // 
+            this.label265.AutoSize = true;
+            this.label265.Location = new System.Drawing.Point(477, 22);
+            this.label265.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label265.Name = "label265";
+            this.label265.Size = new System.Drawing.Size(60, 25);
+            this.label265.TabIndex = 11;
+            this.label265.Text = "3.2 m";
+            // 
+            // label266
+            // 
+            this.label266.AutoSize = true;
+            this.label266.Location = new System.Drawing.Point(11, 22);
+            this.label266.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label266.Name = "label266";
+            this.label266.Size = new System.Drawing.Size(128, 25);
+            this.label266.TabIndex = 10;
+            this.label266.Text = "Total Volume";
+            // 
+            // label267
+            // 
+            this.label267.AutoSize = true;
+            this.label267.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label267.Location = new System.Drawing.Point(38, 35);
+            this.label267.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label267.Name = "label267";
+            this.label267.Size = new System.Drawing.Size(338, 31);
+            this.label267.TabIndex = 10;
+            this.label267.Text = "Waste Breakdown by Type";
+            // 
+            // panel65
+            // 
+            this.panel65.Controls.Add(this.label193);
+            this.panel65.Controls.Add(this.label194);
+            this.panel65.Controls.Add(this.label195);
+            this.panel65.Controls.Add(this.label196);
+            this.panel65.Controls.Add(this.panel66);
+            this.panel65.Controls.Add(this.label200);
+            this.panel65.Controls.Add(this.label201);
+            this.panel65.Controls.Add(this.label202);
+            this.panel65.Controls.Add(this.label203);
+            this.panel65.Controls.Add(this.label204);
+            this.panel65.Controls.Add(this.label205);
+            this.panel65.Controls.Add(this.label206);
+            this.panel65.Controls.Add(this.label207);
+            this.panel65.Controls.Add(this.button50);
+            this.panel65.Controls.Add(this.label208);
+            this.panel65.Controls.Add(this.label209);
+            this.panel65.Location = new System.Drawing.Point(72, 257);
+            this.panel65.Margin = new System.Windows.Forms.Padding(4);
+            this.panel65.Name = "panel65";
+            this.panel65.Size = new System.Drawing.Size(642, 816);
+            this.panel65.TabIndex = 8;
+            // 
+            // label193
+            // 
+            this.label193.AutoSize = true;
+            this.label193.Location = new System.Drawing.Point(28, 593);
+            this.label193.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label193.Name = "label193";
+            this.label193.Size = new System.Drawing.Size(98, 25);
+            this.label193.TabIndex = 17;
+            this.label193.Text = "10:00 AM";
+            // 
+            // label194
+            // 
+            this.label194.AutoSize = true;
+            this.label194.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label194.Location = new System.Drawing.Point(28, 617);
+            this.label194.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label194.Name = "label194";
+            this.label194.Size = new System.Drawing.Size(319, 25);
+            this.label194.TabIndex = 16;
+            this.label194.Text = "Final documentation and photos";
+            // 
+            // label195
+            // 
+            this.label195.AutoSize = true;
+            this.label195.Location = new System.Drawing.Point(28, 502);
+            this.label195.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label195.Name = "label195";
+            this.label195.Size = new System.Drawing.Size(98, 25);
+            this.label195.TabIndex = 15;
+            this.label195.Text = "09:00 AM";
+            // 
+            // label196
+            // 
+            this.label196.AutoSize = true;
+            this.label196.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label196.Location = new System.Drawing.Point(28, 526);
+            this.label196.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label196.Name = "label196";
+            this.label196.Size = new System.Drawing.Size(402, 25);
+            this.label196.TabIndex = 14;
+            this.label196.Text = "Cleanup completed, waste sorting began";
+            // 
+            // panel66
+            // 
+            this.panel66.Controls.Add(this.button48);
+            this.panel66.Controls.Add(this.button49);
+            this.panel66.Controls.Add(this.label197);
+            this.panel66.Controls.Add(this.textBox11);
+            this.panel66.Controls.Add(this.label198);
+            this.panel66.Controls.Add(this.textBox12);
+            this.panel66.Controls.Add(this.label199);
+            this.panel66.Location = new System.Drawing.Point(110, 72);
+            this.panel66.Margin = new System.Windows.Forms.Padding(6);
+            this.panel66.Name = "panel66";
+            this.panel66.Size = new System.Drawing.Size(440, 380);
+            this.panel66.TabIndex = 18;
+            // 
+            // button48
+            // 
+            this.button48.Location = new System.Drawing.Point(358, 2);
+            this.button48.Margin = new System.Windows.Forms.Padding(6);
+            this.button48.Name = "button48";
+            this.button48.Size = new System.Drawing.Size(77, 42);
+            this.button48.TabIndex = 9;
+            this.button48.Text = "Close";
+            this.button48.UseVisualStyleBackColor = true;
+            this.button48.Click += new System.EventHandler(this.button48_Click);
+            // 
+            // button49
+            // 
+            this.button49.Location = new System.Drawing.Point(275, 327);
+            this.button49.Margin = new System.Windows.Forms.Padding(6);
+            this.button49.Name = "button49";
+            this.button49.Size = new System.Drawing.Size(138, 42);
+            this.button49.TabIndex = 8;
+            this.button49.Text = "Add";
+            this.button49.UseVisualStyleBackColor = true;
+            this.button49.Click += new System.EventHandler(this.button49_Click);
+            // 
+            // label197
+            // 
+            this.label197.AutoSize = true;
+            this.label197.Location = new System.Drawing.Point(24, 186);
+            this.label197.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label197.Name = "label197";
+            this.label197.Size = new System.Drawing.Size(130, 25);
+            this.label197.TabIndex = 5;
+            this.label197.Text = "Thing you did";
+            // 
+            // textBox11
+            // 
+            this.textBox11.Location = new System.Drawing.Point(29, 210);
+            this.textBox11.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox11.Name = "textBox11";
+            this.textBox11.Size = new System.Drawing.Size(380, 29);
+            this.textBox11.TabIndex = 4;
+            // 
+            // label198
+            // 
+            this.label198.AutoSize = true;
+            this.label198.Location = new System.Drawing.Point(24, 116);
+            this.label198.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label198.Name = "label198";
+            this.label198.Size = new System.Drawing.Size(56, 25);
+            this.label198.TabIndex = 3;
+            this.label198.Text = "Time";
+            // 
+            // textBox12
+            // 
+            this.textBox12.Location = new System.Drawing.Point(29, 140);
+            this.textBox12.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.Size = new System.Drawing.Size(380, 29);
+            this.textBox12.TabIndex = 1;
+            // 
+            // label199
+            // 
+            this.label199.AutoSize = true;
+            this.label199.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label199.Location = new System.Drawing.Point(24, 37);
+            this.label199.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label199.Name = "label199";
+            this.label199.Size = new System.Drawing.Size(137, 25);
+            this.label199.TabIndex = 0;
+            this.label199.Text = "Add Timeline";
+            // 
+            // label200
+            // 
+            this.label200.AutoSize = true;
+            this.label200.Location = new System.Drawing.Point(28, 421);
+            this.label200.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label200.Name = "label200";
+            this.label200.Size = new System.Drawing.Size(98, 25);
+            this.label200.TabIndex = 13;
+            this.label200.Text = "08:30 AM";
+            // 
+            // label201
+            // 
+            this.label201.AutoSize = true;
+            this.label201.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label201.Location = new System.Drawing.Point(28, 445);
+            this.label201.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label201.Name = "label201";
+            this.label201.Size = new System.Drawing.Size(114, 25);
+            this.label201.TabIndex = 12;
+            this.label201.Text = "Break time";
+            // 
+            // label202
+            // 
+            this.label202.AutoSize = true;
+            this.label202.Location = new System.Drawing.Point(28, 340);
+            this.label202.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label202.Name = "label202";
+            this.label202.Size = new System.Drawing.Size(98, 25);
+            this.label202.TabIndex = 11;
+            this.label202.Text = "08:00 AM";
+            // 
+            // label203
+            // 
+            this.label203.AutoSize = true;
+            this.label203.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label203.Location = new System.Drawing.Point(28, 364);
+            this.label203.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label203.Name = "label203";
+            this.label203.Size = new System.Drawing.Size(309, 25);
+            this.label203.TabIndex = 10;
+            this.label203.Text = "First collection point completed";
+            // 
+            // label204
+            // 
+            this.label204.AutoSize = true;
+            this.label204.Location = new System.Drawing.Point(28, 253);
+            this.label204.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label204.Name = "label204";
+            this.label204.Size = new System.Drawing.Size(98, 25);
+            this.label204.TabIndex = 9;
+            this.label204.Text = "07:30 AM";
+            // 
+            // label205
+            // 
+            this.label205.AutoSize = true;
+            this.label205.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label205.Location = new System.Drawing.Point(28, 277);
+            this.label205.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label205.Name = "label205";
+            this.label205.Size = new System.Drawing.Size(237, 25);
+            this.label205.TabIndex = 8;
+            this.label205.Text = "Cleanup activity started";
+            // 
+            // label206
+            // 
+            this.label206.AutoSize = true;
+            this.label206.Location = new System.Drawing.Point(28, 153);
+            this.label206.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label206.Name = "label206";
+            this.label206.Size = new System.Drawing.Size(98, 25);
+            this.label206.TabIndex = 7;
+            this.label206.Text = "07:00 AM";
+            // 
+            // label207
+            // 
+            this.label207.AutoSize = true;
+            this.label207.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label207.Location = new System.Drawing.Point(28, 177);
+            this.label207.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label207.Name = "label207";
+            this.label207.Size = new System.Drawing.Size(335, 25);
+            this.label207.TabIndex = 6;
+            this.label207.Text = "Team assembled at meeting point";
+            // 
+            // button50
+            // 
+            this.button50.Location = new System.Drawing.Point(420, 24);
+            this.button50.Margin = new System.Windows.Forms.Padding(6);
+            this.button50.Name = "button50";
+            this.button50.Size = new System.Drawing.Size(192, 42);
+            this.button50.TabIndex = 5;
+            this.button50.Text = "Add Timeline";
+            this.button50.UseVisualStyleBackColor = true;
+            this.button50.Click += new System.EventHandler(this.button50_Click);
+            // 
+            // label208
+            // 
+            this.label208.AutoSize = true;
+            this.label208.Location = new System.Drawing.Point(28, 76);
+            this.label208.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label208.Name = "label208";
+            this.label208.Size = new System.Drawing.Size(366, 25);
+            this.label208.TabIndex = 1;
+            this.label208.Text = "Chronological record of cleanup activities";
+            // 
+            // label209
+            // 
+            this.label209.AutoSize = true;
+            this.label209.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label209.Location = new System.Drawing.Point(28, 46);
+            this.label209.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label209.Name = "label209";
+            this.label209.Size = new System.Drawing.Size(187, 29);
+            this.label209.TabIndex = 0;
+            this.label209.Text = "Activity Timeline";
+            // 
+            // panel68
+            // 
+            this.panel68.Controls.Add(this.button59);
+            this.panel68.Controls.Add(this.panel75);
+            this.panel68.Controls.Add(this.panel76);
+            this.panel68.Controls.Add(this.panel77);
+            this.panel68.Controls.Add(this.panel78);
+            this.panel68.Controls.Add(this.panel79);
+            this.panel68.Controls.Add(this.label244);
+            this.panel68.Controls.Add(this.label245);
+            this.panel68.Location = new System.Drawing.Point(72, 257);
+            this.panel68.Margin = new System.Windows.Forms.Padding(6);
+            this.panel68.Name = "panel68";
+            this.panel68.Size = new System.Drawing.Size(642, 816);
+            this.panel68.TabIndex = 12;
+            // 
+            // button59
+            // 
+            this.button59.Location = new System.Drawing.Point(424, 22);
+            this.button59.Margin = new System.Windows.Forms.Padding(6);
+            this.button59.Name = "button59";
+            this.button59.Size = new System.Drawing.Size(192, 42);
+            this.button59.TabIndex = 5;
+            this.button59.Text = "Add Team Member";
+            this.button59.UseVisualStyleBackColor = true;
+            this.button59.Click += new System.EventHandler(this.button59_Click);
+            // 
+            // panel75
+            // 
+            this.panel75.Controls.Add(this.button60);
+            this.panel75.Controls.Add(this.button61);
+            this.panel75.Controls.Add(this.label224);
+            this.panel75.Controls.Add(this.textBox15);
+            this.panel75.Controls.Add(this.label225);
+            this.panel75.Controls.Add(this.textBox16);
+            this.panel75.Controls.Add(this.label226);
+            this.panel75.Controls.Add(this.label227);
+            this.panel75.Controls.Add(this.textBox17);
+            this.panel75.Location = new System.Drawing.Point(106, 66);
+            this.panel75.Margin = new System.Windows.Forms.Padding(6);
+            this.panel75.Name = "panel75";
+            this.panel75.Size = new System.Drawing.Size(440, 377);
+            this.panel75.TabIndex = 6;
+            // 
+            // button60
+            // 
+            this.button60.Location = new System.Drawing.Point(358, 2);
+            this.button60.Margin = new System.Windows.Forms.Padding(6);
+            this.button60.Name = "button60";
+            this.button60.Size = new System.Drawing.Size(77, 42);
+            this.button60.TabIndex = 9;
+            this.button60.Text = "Close";
+            this.button60.UseVisualStyleBackColor = true;
+            this.button60.Click += new System.EventHandler(this.button60_Click);
+            // 
+            // button61
+            // 
+            this.button61.Location = new System.Drawing.Point(275, 327);
+            this.button61.Margin = new System.Windows.Forms.Padding(6);
+            this.button61.Name = "button61";
+            this.button61.Size = new System.Drawing.Size(138, 42);
+            this.button61.TabIndex = 0;
+            this.button61.Text = "Add";
+            this.button61.UseVisualStyleBackColor = true;
+            this.button61.Click += new System.EventHandler(this.button61_Click);
+            // 
+            // label224
+            // 
+            this.label224.AutoSize = true;
+            this.label224.Location = new System.Drawing.Point(24, 255);
+            this.label224.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label224.Name = "label224";
+            this.label224.Size = new System.Drawing.Size(160, 25);
+            this.label224.TabIndex = 7;
+            this.label224.Text = "Hour Contributed";
+            // 
+            // textBox15
+            // 
+            this.textBox15.Location = new System.Drawing.Point(29, 279);
+            this.textBox15.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox15.Name = "textBox15";
+            this.textBox15.Size = new System.Drawing.Size(380, 29);
+            this.textBox15.TabIndex = 6;
+            // 
+            // label225
+            // 
+            this.label225.AutoSize = true;
+            this.label225.Location = new System.Drawing.Point(24, 186);
+            this.label225.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label225.Name = "label225";
+            this.label225.Size = new System.Drawing.Size(51, 25);
+            this.label225.TabIndex = 5;
+            this.label225.Text = "Role";
+            // 
+            // textBox16
+            // 
+            this.textBox16.Location = new System.Drawing.Point(29, 210);
+            this.textBox16.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox16.Name = "textBox16";
+            this.textBox16.Size = new System.Drawing.Size(380, 29);
+            this.textBox16.TabIndex = 4;
+            // 
+            // label226
+            // 
+            this.label226.AutoSize = true;
+            this.label226.Location = new System.Drawing.Point(24, 116);
+            this.label226.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label226.Name = "label226";
+            this.label226.Size = new System.Drawing.Size(64, 25);
+            this.label226.TabIndex = 3;
+            this.label226.Text = "Name";
+            // 
+            // label227
+            // 
+            this.label227.AutoSize = true;
+            this.label227.Location = new System.Drawing.Point(24, 70);
+            this.label227.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label227.Name = "label227";
+            this.label227.Size = new System.Drawing.Size(356, 25);
+            this.label227.TabIndex = 2;
+            this.label227.Text = "Add a new team member to the cleanup";
+            // 
+            // textBox17
+            // 
+            this.textBox17.Location = new System.Drawing.Point(29, 140);
+            this.textBox17.Margin = new System.Windows.Forms.Padding(6);
+            this.textBox17.Name = "textBox17";
+            this.textBox17.Size = new System.Drawing.Size(380, 29);
+            this.textBox17.TabIndex = 1;
+            // 
+            // panel76
+            // 
+            this.panel76.Controls.Add(this.label228);
+            this.panel76.Controls.Add(this.label229);
+            this.panel76.Controls.Add(this.label230);
+            this.panel76.Controls.Add(this.label231);
+            this.panel76.Location = new System.Drawing.Point(33, 517);
+            this.panel76.Margin = new System.Windows.Forms.Padding(6);
+            this.panel76.Name = "panel76";
+            this.panel76.Size = new System.Drawing.Size(578, 100);
+            this.panel76.TabIndex = 4;
+            // 
+            // label228
+            // 
+            this.label228.AutoSize = true;
+            this.label228.Location = new System.Drawing.Point(440, 52);
+            this.label228.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label228.Name = "label228";
+            this.label228.Size = new System.Drawing.Size(108, 25);
+            this.label228.TabIndex = 3;
+            this.label228.Text = "contributed";
+            // 
+            // label229
+            // 
+            this.label229.AutoSize = true;
+            this.label229.Location = new System.Drawing.Point(495, 24);
+            this.label229.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label229.Name = "label229";
+            this.label229.Size = new System.Drawing.Size(55, 25);
+            this.label229.TabIndex = 2;
+            this.label229.Text = "4 hrs";
+            // 
+            // label230
+            // 
+            this.label230.AutoSize = true;
+            this.label230.Location = new System.Drawing.Point(57, 52);
+            this.label230.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label230.Name = "label230";
+            this.label230.Size = new System.Drawing.Size(96, 25);
+            this.label230.TabIndex = 1;
+            this.label230.Text = "Volunteer";
+            // 
+            // label231
+            // 
+            this.label231.AutoSize = true;
+            this.label231.Location = new System.Drawing.Point(57, 24);
+            this.label231.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label231.Name = "label231";
+            this.label231.Size = new System.Drawing.Size(108, 25);
+            this.label231.TabIndex = 0;
+            this.label231.Text = "Ana Reyes";
+            // 
+            // panel77
+            // 
+            this.panel77.Controls.Add(this.label232);
+            this.panel77.Controls.Add(this.label233);
+            this.panel77.Controls.Add(this.label234);
+            this.panel77.Controls.Add(this.label235);
+            this.panel77.Location = new System.Drawing.Point(33, 390);
+            this.panel77.Margin = new System.Windows.Forms.Padding(6);
+            this.panel77.Name = "panel77";
+            this.panel77.Size = new System.Drawing.Size(578, 100);
+            this.panel77.TabIndex = 4;
+            // 
+            // label232
+            // 
+            this.label232.AutoSize = true;
+            this.label232.Location = new System.Drawing.Point(440, 52);
+            this.label232.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label232.Name = "label232";
+            this.label232.Size = new System.Drawing.Size(108, 25);
+            this.label232.TabIndex = 3;
+            this.label232.Text = "contributed";
+            // 
+            // label233
+            // 
+            this.label233.AutoSize = true;
+            this.label233.Location = new System.Drawing.Point(495, 24);
+            this.label233.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label233.Name = "label233";
+            this.label233.Size = new System.Drawing.Size(55, 25);
+            this.label233.TabIndex = 2;
+            this.label233.Text = "4 hrs";
+            // 
+            // label234
+            // 
+            this.label234.AutoSize = true;
+            this.label234.Location = new System.Drawing.Point(57, 52);
+            this.label234.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label234.Name = "label234";
+            this.label234.Size = new System.Drawing.Size(96, 25);
+            this.label234.TabIndex = 1;
+            this.label234.Text = "Volunteer";
+            // 
+            // label235
+            // 
+            this.label235.AutoSize = true;
+            this.label235.Location = new System.Drawing.Point(57, 24);
+            this.label235.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label235.Name = "label235";
+            this.label235.Size = new System.Drawing.Size(126, 25);
+            this.label235.TabIndex = 0;
+            this.label235.Text = "Pedro Garcia";
+            // 
+            // panel78
+            // 
+            this.panel78.Controls.Add(this.label236);
+            this.panel78.Controls.Add(this.label237);
+            this.panel78.Controls.Add(this.label238);
+            this.panel78.Controls.Add(this.label239);
+            this.panel78.Location = new System.Drawing.Point(33, 264);
+            this.panel78.Margin = new System.Windows.Forms.Padding(6);
+            this.panel78.Name = "panel78";
+            this.panel78.Size = new System.Drawing.Size(578, 100);
+            this.panel78.TabIndex = 4;
+            // 
+            // label236
+            // 
+            this.label236.AutoSize = true;
+            this.label236.Location = new System.Drawing.Point(440, 52);
+            this.label236.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label236.Name = "label236";
+            this.label236.Size = new System.Drawing.Size(108, 25);
+            this.label236.TabIndex = 3;
+            this.label236.Text = "contributed";
+            // 
+            // label237
+            // 
+            this.label237.AutoSize = true;
+            this.label237.Location = new System.Drawing.Point(495, 24);
+            this.label237.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label237.Name = "label237";
+            this.label237.Size = new System.Drawing.Size(55, 25);
+            this.label237.TabIndex = 2;
+            this.label237.Text = "4 hrs";
+            // 
+            // label238
+            // 
+            this.label238.AutoSize = true;
+            this.label238.Location = new System.Drawing.Point(57, 52);
+            this.label238.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label238.Name = "label238";
+            this.label238.Size = new System.Drawing.Size(96, 25);
+            this.label238.TabIndex = 1;
+            this.label238.Text = "Volunteer";
+            // 
+            // label239
+            // 
+            this.label239.AutoSize = true;
+            this.label239.Location = new System.Drawing.Point(57, 24);
+            this.label239.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label239.Name = "label239";
+            this.label239.Size = new System.Drawing.Size(128, 25);
+            this.label239.TabIndex = 0;
+            this.label239.Text = "Maria Santos";
+            // 
+            // panel79
+            // 
+            this.panel79.Controls.Add(this.label240);
+            this.panel79.Controls.Add(this.label241);
+            this.panel79.Controls.Add(this.label242);
+            this.panel79.Controls.Add(this.label243);
+            this.panel79.Location = new System.Drawing.Point(33, 153);
+            this.panel79.Margin = new System.Windows.Forms.Padding(6);
+            this.panel79.Name = "panel79";
+            this.panel79.Size = new System.Drawing.Size(578, 100);
+            this.panel79.TabIndex = 2;
+            // 
+            // label240
+            // 
+            this.label240.AutoSize = true;
+            this.label240.Location = new System.Drawing.Point(440, 52);
+            this.label240.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label240.Name = "label240";
+            this.label240.Size = new System.Drawing.Size(108, 25);
+            this.label240.TabIndex = 3;
+            this.label240.Text = "contributed";
+            // 
+            // label241
+            // 
+            this.label241.AutoSize = true;
+            this.label241.Location = new System.Drawing.Point(495, 24);
+            this.label241.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label241.Name = "label241";
+            this.label241.Size = new System.Drawing.Size(55, 25);
+            this.label241.TabIndex = 2;
+            this.label241.Text = "4 hrs";
+            // 
+            // label242
+            // 
+            this.label242.AutoSize = true;
+            this.label242.Location = new System.Drawing.Point(57, 52);
+            this.label242.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label242.Name = "label242";
+            this.label242.Size = new System.Drawing.Size(129, 25);
+            this.label242.TabIndex = 1;
+            this.label242.Text = "Team Leader";
+            // 
+            // label243
+            // 
+            this.label243.AutoSize = true;
+            this.label243.Location = new System.Drawing.Point(57, 24);
+            this.label243.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label243.Name = "label243";
+            this.label243.Size = new System.Drawing.Size(148, 25);
+            this.label243.TabIndex = 0;
+            this.label243.Text = "Juan Dela Cruz";
+            // 
+            // label244
+            // 
+            this.label244.AutoSize = true;
+            this.label244.Location = new System.Drawing.Point(28, 76);
+            this.label244.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label244.Name = "label244";
+            this.label244.Size = new System.Drawing.Size(424, 25);
+            this.label244.TabIndex = 1;
+            this.label244.Text = "Team members who participated in this cleanup";
+            // 
+            // label245
+            // 
+            this.label245.AutoSize = true;
+            this.label245.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label245.Location = new System.Drawing.Point(28, 46);
+            this.label245.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label245.Name = "label245";
+            this.label245.Size = new System.Drawing.Size(163, 29);
+            this.label245.TabIndex = 0;
+            this.label245.Text = "Volunteers (4)";
+            // 
+            // panel69
+            // 
+            this.panel69.BackColor = System.Drawing.SystemColors.Control;
+            this.panel69.Controls.Add(this.panel70);
+            this.panel69.Controls.Add(this.button56);
+            this.panel69.Controls.Add(this.panel71);
+            this.panel69.Controls.Add(this.panel72);
+            this.panel69.Controls.Add(this.panel73);
+            this.panel69.Controls.Add(this.panel74);
+            this.panel69.Controls.Add(this.label223);
+            this.panel69.Location = new System.Drawing.Point(72, 253);
+            this.panel69.Margin = new System.Windows.Forms.Padding(4);
+            this.panel69.Name = "panel69";
+            this.panel69.Size = new System.Drawing.Size(642, 522);
+            this.panel69.TabIndex = 20;
+            this.panel69.Paint += new System.Windows.Forms.PaintEventHandler(this.panel69_Paint);
+            // 
+            // panel70
+            // 
+            this.panel70.Controls.Add(this.button57);
+            this.panel70.Controls.Add(this.button58);
+            this.panel70.Controls.Add(this.label212);
+            this.panel70.Controls.Add(this.textBox13);
+            this.panel70.Controls.Add(this.label213);
+            this.panel70.Controls.Add(this.textBox14);
+            this.panel70.Controls.Add(this.label214);
+            this.panel70.Location = new System.Drawing.Point(112, 70);
+            this.panel70.Margin = new System.Windows.Forms.Padding(4);
+            this.panel70.Name = "panel70";
+            this.panel70.Size = new System.Drawing.Size(414, 401);
+            this.panel70.TabIndex = 19;
+            // 
+            // button57
+            // 
+            this.button57.Location = new System.Drawing.Point(334, 9);
+            this.button57.Margin = new System.Windows.Forms.Padding(4);
+            this.button57.Name = "button57";
+            this.button57.Size = new System.Drawing.Size(75, 52);
+            this.button57.TabIndex = 9;
+            this.button57.Text = "Close";
+            this.button57.UseVisualStyleBackColor = true;
+            this.button57.Click += new System.EventHandler(this.button57_Click);
+            // 
+            // button58
+            // 
+            this.button58.Location = new System.Drawing.Point(147, 336);
+            this.button58.Margin = new System.Windows.Forms.Padding(4);
+            this.button58.Name = "button58";
+            this.button58.Size = new System.Drawing.Size(112, 39);
+            this.button58.TabIndex = 8;
+            this.button58.Text = "Add";
+            this.button58.UseVisualStyleBackColor = true;
+            this.button58.Click += new System.EventHandler(this.button58_Click);
+            // 
+            // label212
+            // 
+            this.label212.AutoSize = true;
+            this.label212.Location = new System.Drawing.Point(33, 242);
+            this.label212.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label212.Name = "label212";
+            this.label212.Size = new System.Drawing.Size(85, 25);
+            this.label212.TabIndex = 5;
+            this.label212.Text = "Quantity";
+            // 
+            // textBox13
+            // 
+            this.textBox13.Location = new System.Drawing.Point(38, 279);
+            this.textBox13.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox13.Name = "textBox13";
+            this.textBox13.Size = new System.Drawing.Size(328, 29);
+            this.textBox13.TabIndex = 4;
+            // 
+            // label213
+            // 
+            this.label213.AutoSize = true;
+            this.label213.Location = new System.Drawing.Point(33, 137);
+            this.label213.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label213.Name = "label213";
+            this.label213.Size = new System.Drawing.Size(108, 25);
+            this.label213.TabIndex = 3;
+            this.label213.Text = "Tool Name";
+            // 
+            // textBox14
+            // 
+            this.textBox14.Location = new System.Drawing.Point(38, 179);
+            this.textBox14.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox14.Name = "textBox14";
+            this.textBox14.Size = new System.Drawing.Size(328, 29);
+            this.textBox14.TabIndex = 1;
+            // 
+            // label214
+            // 
+            this.label214.AutoSize = true;
+            this.label214.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label214.Location = new System.Drawing.Point(13, 20);
+            this.label214.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label214.Name = "label214";
+            this.label214.Size = new System.Drawing.Size(261, 25);
+            this.label214.TabIndex = 0;
+            this.label214.Text = "Add Tools And Equipment";
+            // 
+            // button56
+            // 
+            this.button56.Location = new System.Drawing.Point(341, 20);
+            this.button56.Margin = new System.Windows.Forms.Padding(4);
+            this.button56.Name = "button56";
+            this.button56.Size = new System.Drawing.Size(275, 46);
+            this.button56.TabIndex = 5;
+            this.button56.Text = "Add Tools And Equipment";
+            this.button56.UseVisualStyleBackColor = true;
+            this.button56.Click += new System.EventHandler(this.button56_Click);
+            // 
+            // panel71
+            // 
+            this.panel71.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel71.Controls.Add(this.label215);
+            this.panel71.Controls.Add(this.label216);
+            this.panel71.Location = new System.Drawing.Point(21, 296);
+            this.panel71.Margin = new System.Windows.Forms.Padding(4);
+            this.panel71.Name = "panel71";
+            this.panel71.Size = new System.Drawing.Size(595, 55);
+            this.panel71.TabIndex = 4;
+            // 
+            // label215
+            // 
+            this.label215.AutoSize = true;
+            this.label215.Location = new System.Drawing.Point(507, 20);
+            this.label215.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label215.Name = "label215";
+            this.label215.Size = new System.Drawing.Size(76, 25);
+            this.label215.TabIndex = 2;
+            this.label215.Text = "Qty: 20";
+            // 
+            // label216
+            // 
+            this.label216.AutoSize = true;
+            this.label216.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label216.Location = new System.Drawing.Point(24, 13);
+            this.label216.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label216.Name = "label216";
+            this.label216.Size = new System.Drawing.Size(160, 29);
+            this.label216.TabIndex = 0;
+            this.label216.Text = "Garbage Bins";
+            // 
+            // panel72
+            // 
+            this.panel72.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel72.Controls.Add(this.label217);
+            this.panel72.Controls.Add(this.label218);
+            this.panel72.Location = new System.Drawing.Point(21, 226);
+            this.panel72.Margin = new System.Windows.Forms.Padding(4);
+            this.panel72.Name = "panel72";
+            this.panel72.Size = new System.Drawing.Size(595, 55);
+            this.panel72.TabIndex = 4;
+            // 
+            // label217
+            // 
+            this.label217.AutoSize = true;
+            this.label217.Location = new System.Drawing.Point(507, 21);
+            this.label217.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label217.Name = "label217";
+            this.label217.Size = new System.Drawing.Size(76, 25);
+            this.label217.TabIndex = 2;
+            this.label217.Text = "Qty: 20";
+            // 
+            // label218
+            // 
+            this.label218.AutoSize = true;
+            this.label218.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label218.Location = new System.Drawing.Point(24, 17);
+            this.label218.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label218.Name = "label218";
+            this.label218.Size = new System.Drawing.Size(97, 29);
+            this.label218.TabIndex = 0;
+            this.label218.Text = "Brooms";
+            // 
+            // panel73
+            // 
+            this.panel73.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel73.Controls.Add(this.label219);
+            this.panel73.Controls.Add(this.label220);
+            this.panel73.Location = new System.Drawing.Point(21, 157);
+            this.panel73.Margin = new System.Windows.Forms.Padding(4);
+            this.panel73.Name = "panel73";
+            this.panel73.Size = new System.Drawing.Size(595, 55);
+            this.panel73.TabIndex = 4;
+            // 
+            // label219
+            // 
+            this.label219.AutoSize = true;
+            this.label219.Location = new System.Drawing.Point(507, 20);
+            this.label219.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label219.Name = "label219";
+            this.label219.Size = new System.Drawing.Size(76, 25);
+            this.label219.TabIndex = 2;
+            this.label219.Text = "Qty: 20";
+            // 
+            // label220
+            // 
+            this.label220.AutoSize = true;
+            this.label220.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label220.Location = new System.Drawing.Point(24, 17);
+            this.label220.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label220.Name = "label220";
+            this.label220.Size = new System.Drawing.Size(88, 29);
+            this.label220.TabIndex = 0;
+            this.label220.Text = "Gloves";
+            // 
+            // panel74
+            // 
+            this.panel74.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel74.Controls.Add(this.label221);
+            this.panel74.Controls.Add(this.label222);
+            this.panel74.Location = new System.Drawing.Point(21, 98);
+            this.panel74.Margin = new System.Windows.Forms.Padding(4);
+            this.panel74.Name = "panel74";
+            this.panel74.Size = new System.Drawing.Size(595, 55);
+            this.panel74.TabIndex = 2;
+            // 
+            // label221
+            // 
+            this.label221.AutoSize = true;
+            this.label221.Location = new System.Drawing.Point(507, 20);
+            this.label221.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label221.Name = "label221";
+            this.label221.Size = new System.Drawing.Size(76, 25);
+            this.label221.TabIndex = 4;
+            this.label221.Text = "Qty: 25";
+            // 
+            // label222
+            // 
+            this.label222.AutoSize = true;
+            this.label222.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label222.Location = new System.Drawing.Point(24, 24);
+            this.label222.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label222.Name = "label222";
+            this.label222.Size = new System.Drawing.Size(136, 29);
+            this.label222.TabIndex = 0;
+            this.label222.Text = "Trash Bags";
+            // 
+            // label223
+            // 
+            this.label223.AutoSize = true;
+            this.label223.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label223.Location = new System.Drawing.Point(16, 45);
+            this.label223.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label223.Name = "label223";
+            this.label223.Size = new System.Drawing.Size(245, 29);
+            this.label223.TabIndex = 0;
+            this.label223.Text = "Tools And Equipment";
+            // 
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -2926,6 +4273,28 @@
             this.label32.TabIndex = 0;
             this.label32.Text = "Barangay 2";
             // 
+            // label42
+            // 
+            this.label42.AutoSize = true;
+            this.label42.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label42.Location = new System.Drawing.Point(106, 120);
+            this.label42.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(363, 25);
+            this.label42.TabIndex = 1;
+            this.label42.Text = "Track and manage cleanup activities";
+            // 
+            // label43
+            // 
+            this.label43.AutoSize = true;
+            this.label43.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label43.Location = new System.Drawing.Point(103, 72);
+            this.label43.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(263, 48);
+            this.label43.TabIndex = 0;
+            this.label43.Text = "My Cleanups";
+            // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.SystemColors.ButtonFace;
@@ -3046,28 +4415,6 @@
             this.label41.Size = new System.Drawing.Size(152, 31);
             this.label41.TabIndex = 0;
             this.label41.Text = "Barangay 1";
-            // 
-            // label42
-            // 
-            this.label42.AutoSize = true;
-            this.label42.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label42.Location = new System.Drawing.Point(106, 120);
-            this.label42.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(363, 25);
-            this.label42.TabIndex = 1;
-            this.label42.Text = "Track and manage cleanup activities";
-            // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label43.Location = new System.Drawing.Point(103, 72);
-            this.label43.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(263, 48);
-            this.label43.TabIndex = 0;
-            this.label43.Text = "My Cleanups";
             // 
             // trashtypes
             // 
@@ -4049,1353 +5396,6 @@
             this.label96.TabIndex = 0;
             this.label96.Text = "Help & Support";
             // 
-            // panel64
-            // 
-            this.panel64.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panel64.Controls.Add(this.button51);
-            this.panel64.Controls.Add(this.panel67);
-            this.panel64.Controls.Add(this.label210);
-            this.panel64.Controls.Add(this.label211);
-            this.panel64.Controls.Add(this.panel80);
-            this.panel64.Controls.Add(this.panel82);
-            this.panel64.Controls.Add(this.panel65);
-            this.panel64.Controls.Add(this.panel68);
-            this.panel64.Controls.Add(this.panel69);
-            this.panel64.Location = new System.Drawing.Point(428, 24);
-            this.panel64.Margin = new System.Windows.Forms.Padding(4);
-            this.panel64.Name = "panel64";
-            this.panel64.Size = new System.Drawing.Size(777, 1092);
-            this.panel64.TabIndex = 12;
-            // 
-            // panel65
-            // 
-            this.panel65.Controls.Add(this.label193);
-            this.panel65.Controls.Add(this.label194);
-            this.panel65.Controls.Add(this.label195);
-            this.panel65.Controls.Add(this.label196);
-            this.panel65.Controls.Add(this.panel66);
-            this.panel65.Controls.Add(this.label200);
-            this.panel65.Controls.Add(this.label201);
-            this.panel65.Controls.Add(this.label202);
-            this.panel65.Controls.Add(this.label203);
-            this.panel65.Controls.Add(this.label204);
-            this.panel65.Controls.Add(this.label205);
-            this.panel65.Controls.Add(this.label206);
-            this.panel65.Controls.Add(this.label207);
-            this.panel65.Controls.Add(this.button50);
-            this.panel65.Controls.Add(this.label208);
-            this.panel65.Controls.Add(this.label209);
-            this.panel65.Location = new System.Drawing.Point(72, 257);
-            this.panel65.Margin = new System.Windows.Forms.Padding(4);
-            this.panel65.Name = "panel65";
-            this.panel65.Size = new System.Drawing.Size(642, 816);
-            this.panel65.TabIndex = 8;
-            // 
-            // label193
-            // 
-            this.label193.AutoSize = true;
-            this.label193.Location = new System.Drawing.Point(28, 593);
-            this.label193.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label193.Name = "label193";
-            this.label193.Size = new System.Drawing.Size(98, 25);
-            this.label193.TabIndex = 17;
-            this.label193.Text = "10:00 AM";
-            // 
-            // label194
-            // 
-            this.label194.AutoSize = true;
-            this.label194.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label194.Location = new System.Drawing.Point(28, 617);
-            this.label194.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label194.Name = "label194";
-            this.label194.Size = new System.Drawing.Size(319, 25);
-            this.label194.TabIndex = 16;
-            this.label194.Text = "Final documentation and photos";
-            // 
-            // label195
-            // 
-            this.label195.AutoSize = true;
-            this.label195.Location = new System.Drawing.Point(28, 502);
-            this.label195.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label195.Name = "label195";
-            this.label195.Size = new System.Drawing.Size(98, 25);
-            this.label195.TabIndex = 15;
-            this.label195.Text = "09:00 AM";
-            // 
-            // label196
-            // 
-            this.label196.AutoSize = true;
-            this.label196.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label196.Location = new System.Drawing.Point(28, 526);
-            this.label196.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label196.Name = "label196";
-            this.label196.Size = new System.Drawing.Size(402, 25);
-            this.label196.TabIndex = 14;
-            this.label196.Text = "Cleanup completed, waste sorting began";
-            // 
-            // panel66
-            // 
-            this.panel66.Controls.Add(this.button48);
-            this.panel66.Controls.Add(this.button49);
-            this.panel66.Controls.Add(this.label197);
-            this.panel66.Controls.Add(this.textBox11);
-            this.panel66.Controls.Add(this.label198);
-            this.panel66.Controls.Add(this.textBox12);
-            this.panel66.Controls.Add(this.label199);
-            this.panel66.Location = new System.Drawing.Point(110, 72);
-            this.panel66.Margin = new System.Windows.Forms.Padding(6);
-            this.panel66.Name = "panel66";
-            this.panel66.Size = new System.Drawing.Size(440, 380);
-            this.panel66.TabIndex = 18;
-            // 
-            // button48
-            // 
-            this.button48.Location = new System.Drawing.Point(358, 2);
-            this.button48.Margin = new System.Windows.Forms.Padding(6);
-            this.button48.Name = "button48";
-            this.button48.Size = new System.Drawing.Size(77, 42);
-            this.button48.TabIndex = 9;
-            this.button48.Text = "Close";
-            this.button48.UseVisualStyleBackColor = true;
-            this.button48.Click += new System.EventHandler(this.button48_Click);
-            // 
-            // button49
-            // 
-            this.button49.Location = new System.Drawing.Point(275, 327);
-            this.button49.Margin = new System.Windows.Forms.Padding(6);
-            this.button49.Name = "button49";
-            this.button49.Size = new System.Drawing.Size(138, 42);
-            this.button49.TabIndex = 8;
-            this.button49.Text = "Add";
-            this.button49.UseVisualStyleBackColor = true;
-            this.button49.Click += new System.EventHandler(this.button49_Click);
-            // 
-            // label197
-            // 
-            this.label197.AutoSize = true;
-            this.label197.Location = new System.Drawing.Point(24, 186);
-            this.label197.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label197.Name = "label197";
-            this.label197.Size = new System.Drawing.Size(130, 25);
-            this.label197.TabIndex = 5;
-            this.label197.Text = "Thing you did";
-            // 
-            // textBox11
-            // 
-            this.textBox11.Location = new System.Drawing.Point(29, 210);
-            this.textBox11.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(380, 29);
-            this.textBox11.TabIndex = 4;
-            // 
-            // label198
-            // 
-            this.label198.AutoSize = true;
-            this.label198.Location = new System.Drawing.Point(24, 116);
-            this.label198.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label198.Name = "label198";
-            this.label198.Size = new System.Drawing.Size(56, 25);
-            this.label198.TabIndex = 3;
-            this.label198.Text = "Time";
-            // 
-            // textBox12
-            // 
-            this.textBox12.Location = new System.Drawing.Point(29, 140);
-            this.textBox12.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(380, 29);
-            this.textBox12.TabIndex = 1;
-            // 
-            // label199
-            // 
-            this.label199.AutoSize = true;
-            this.label199.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label199.Location = new System.Drawing.Point(24, 37);
-            this.label199.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label199.Name = "label199";
-            this.label199.Size = new System.Drawing.Size(137, 25);
-            this.label199.TabIndex = 0;
-            this.label199.Text = "Add Timeline";
-            // 
-            // label200
-            // 
-            this.label200.AutoSize = true;
-            this.label200.Location = new System.Drawing.Point(28, 421);
-            this.label200.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label200.Name = "label200";
-            this.label200.Size = new System.Drawing.Size(98, 25);
-            this.label200.TabIndex = 13;
-            this.label200.Text = "08:30 AM";
-            // 
-            // label201
-            // 
-            this.label201.AutoSize = true;
-            this.label201.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label201.Location = new System.Drawing.Point(28, 445);
-            this.label201.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label201.Name = "label201";
-            this.label201.Size = new System.Drawing.Size(114, 25);
-            this.label201.TabIndex = 12;
-            this.label201.Text = "Break time";
-            // 
-            // label202
-            // 
-            this.label202.AutoSize = true;
-            this.label202.Location = new System.Drawing.Point(28, 340);
-            this.label202.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label202.Name = "label202";
-            this.label202.Size = new System.Drawing.Size(98, 25);
-            this.label202.TabIndex = 11;
-            this.label202.Text = "08:00 AM";
-            // 
-            // label203
-            // 
-            this.label203.AutoSize = true;
-            this.label203.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label203.Location = new System.Drawing.Point(28, 364);
-            this.label203.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label203.Name = "label203";
-            this.label203.Size = new System.Drawing.Size(309, 25);
-            this.label203.TabIndex = 10;
-            this.label203.Text = "First collection point completed";
-            // 
-            // label204
-            // 
-            this.label204.AutoSize = true;
-            this.label204.Location = new System.Drawing.Point(28, 253);
-            this.label204.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label204.Name = "label204";
-            this.label204.Size = new System.Drawing.Size(98, 25);
-            this.label204.TabIndex = 9;
-            this.label204.Text = "07:30 AM";
-            // 
-            // label205
-            // 
-            this.label205.AutoSize = true;
-            this.label205.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label205.Location = new System.Drawing.Point(28, 277);
-            this.label205.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label205.Name = "label205";
-            this.label205.Size = new System.Drawing.Size(237, 25);
-            this.label205.TabIndex = 8;
-            this.label205.Text = "Cleanup activity started";
-            // 
-            // label206
-            // 
-            this.label206.AutoSize = true;
-            this.label206.Location = new System.Drawing.Point(28, 153);
-            this.label206.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label206.Name = "label206";
-            this.label206.Size = new System.Drawing.Size(98, 25);
-            this.label206.TabIndex = 7;
-            this.label206.Text = "07:00 AM";
-            // 
-            // label207
-            // 
-            this.label207.AutoSize = true;
-            this.label207.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label207.Location = new System.Drawing.Point(28, 177);
-            this.label207.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label207.Name = "label207";
-            this.label207.Size = new System.Drawing.Size(335, 25);
-            this.label207.TabIndex = 6;
-            this.label207.Text = "Team assembled at meeting point";
-            // 
-            // button50
-            // 
-            this.button50.Location = new System.Drawing.Point(420, 24);
-            this.button50.Margin = new System.Windows.Forms.Padding(6);
-            this.button50.Name = "button50";
-            this.button50.Size = new System.Drawing.Size(192, 42);
-            this.button50.TabIndex = 5;
-            this.button50.Text = "Add Timeline";
-            this.button50.UseVisualStyleBackColor = true;
-            this.button50.Click += new System.EventHandler(this.button50_Click);
-            // 
-            // label208
-            // 
-            this.label208.AutoSize = true;
-            this.label208.Location = new System.Drawing.Point(28, 76);
-            this.label208.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label208.Name = "label208";
-            this.label208.Size = new System.Drawing.Size(366, 25);
-            this.label208.TabIndex = 1;
-            this.label208.Text = "Chronological record of cleanup activities";
-            // 
-            // label209
-            // 
-            this.label209.AutoSize = true;
-            this.label209.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label209.Location = new System.Drawing.Point(28, 46);
-            this.label209.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label209.Name = "label209";
-            this.label209.Size = new System.Drawing.Size(187, 29);
-            this.label209.TabIndex = 0;
-            this.label209.Text = "Activity Timeline";
-            // 
-            // button51
-            // 
-            this.button51.Location = new System.Drawing.Point(671, 13);
-            this.button51.Margin = new System.Windows.Forms.Padding(6);
-            this.button51.Name = "button51";
-            this.button51.Size = new System.Drawing.Size(95, 42);
-            this.button51.TabIndex = 11;
-            this.button51.Text = "Close";
-            this.button51.UseVisualStyleBackColor = true;
-            this.button51.Click += new System.EventHandler(this.button51_Click);
-            // 
-            // panel67
-            // 
-            this.panel67.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.panel67.Controls.Add(this.button52);
-            this.panel67.Controls.Add(this.button53);
-            this.panel67.Controls.Add(this.button54);
-            this.panel67.Controls.Add(this.button55);
-            this.panel67.Location = new System.Drawing.Point(72, 161);
-            this.panel67.Margin = new System.Windows.Forms.Padding(6);
-            this.panel67.Name = "panel67";
-            this.panel67.Size = new System.Drawing.Size(642, 50);
-            this.panel67.TabIndex = 2;
-            // 
-            // button52
-            // 
-            this.button52.Location = new System.Drawing.Point(473, 6);
-            this.button52.Margin = new System.Windows.Forms.Padding(6);
-            this.button52.Name = "button52";
-            this.button52.Size = new System.Drawing.Size(138, 42);
-            this.button52.TabIndex = 3;
-            this.button52.Text = "Timeline";
-            this.button52.UseVisualStyleBackColor = true;
-            this.button52.Click += new System.EventHandler(this.button52_Click);
-            // 
-            // button53
-            // 
-            this.button53.Location = new System.Drawing.Point(324, 6);
-            this.button53.Margin = new System.Windows.Forms.Padding(6);
-            this.button53.Name = "button53";
-            this.button53.Size = new System.Drawing.Size(138, 42);
-            this.button53.TabIndex = 2;
-            this.button53.Text = "Tools";
-            this.button53.UseVisualStyleBackColor = true;
-            this.button53.Click += new System.EventHandler(this.button53_Click);
-            // 
-            // button54
-            // 
-            this.button54.Location = new System.Drawing.Point(176, 6);
-            this.button54.Margin = new System.Windows.Forms.Padding(6);
-            this.button54.Name = "button54";
-            this.button54.Size = new System.Drawing.Size(138, 42);
-            this.button54.TabIndex = 1;
-            this.button54.Text = "Team";
-            this.button54.UseVisualStyleBackColor = true;
-            this.button54.Click += new System.EventHandler(this.button54_Click);
-            // 
-            // button55
-            // 
-            this.button55.Location = new System.Drawing.Point(28, 6);
-            this.button55.Margin = new System.Windows.Forms.Padding(6);
-            this.button55.Name = "button55";
-            this.button55.Size = new System.Drawing.Size(138, 42);
-            this.button55.TabIndex = 0;
-            this.button55.Text = "Waste Data";
-            this.button55.UseVisualStyleBackColor = true;
-            this.button55.Click += new System.EventHandler(this.button55_Click);
-            // 
-            // label210
-            // 
-            this.label210.AutoSize = true;
-            this.label210.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label210.Location = new System.Drawing.Point(38, 76);
-            this.label210.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label210.Name = "label210";
-            this.label210.Size = new System.Drawing.Size(230, 25);
-            this.label210.TabIndex = 1;
-            this.label210.Text = "Street Cleanup Activity";
-            // 
-            // label211
-            // 
-            this.label211.AutoSize = true;
-            this.label211.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label211.Location = new System.Drawing.Point(37, 39);
-            this.label211.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label211.Name = "label211";
-            this.label211.Size = new System.Drawing.Size(273, 32);
-            this.label211.TabIndex = 0;
-            this.label211.Text = "Barangay 1 Cleanup";
-            // 
-            // panel68
-            // 
-            this.panel68.Controls.Add(this.button59);
-            this.panel68.Controls.Add(this.panel75);
-            this.panel68.Controls.Add(this.panel76);
-            this.panel68.Controls.Add(this.panel77);
-            this.panel68.Controls.Add(this.panel78);
-            this.panel68.Controls.Add(this.panel79);
-            this.panel68.Controls.Add(this.label244);
-            this.panel68.Controls.Add(this.label245);
-            this.panel68.Location = new System.Drawing.Point(72, 257);
-            this.panel68.Margin = new System.Windows.Forms.Padding(6);
-            this.panel68.Name = "panel68";
-            this.panel68.Size = new System.Drawing.Size(642, 816);
-            this.panel68.TabIndex = 12;
-            // 
-            // panel69
-            // 
-            this.panel69.BackColor = System.Drawing.SystemColors.Control;
-            this.panel69.Controls.Add(this.panel70);
-            this.panel69.Controls.Add(this.button56);
-            this.panel69.Controls.Add(this.panel71);
-            this.panel69.Controls.Add(this.panel72);
-            this.panel69.Controls.Add(this.panel73);
-            this.panel69.Controls.Add(this.panel74);
-            this.panel69.Controls.Add(this.label223);
-            this.panel69.Location = new System.Drawing.Point(72, 253);
-            this.panel69.Margin = new System.Windows.Forms.Padding(4);
-            this.panel69.Name = "panel69";
-            this.panel69.Size = new System.Drawing.Size(642, 522);
-            this.panel69.TabIndex = 20;
-            this.panel69.Paint += new System.Windows.Forms.PaintEventHandler(this.panel69_Paint);
-            // 
-            // button56
-            // 
-            this.button56.Location = new System.Drawing.Point(341, 20);
-            this.button56.Margin = new System.Windows.Forms.Padding(4);
-            this.button56.Name = "button56";
-            this.button56.Size = new System.Drawing.Size(275, 46);
-            this.button56.TabIndex = 5;
-            this.button56.Text = "Add Tools And Equipment";
-            this.button56.UseVisualStyleBackColor = true;
-            this.button56.Click += new System.EventHandler(this.button56_Click);
-            // 
-            // panel70
-            // 
-            this.panel70.Controls.Add(this.button57);
-            this.panel70.Controls.Add(this.button58);
-            this.panel70.Controls.Add(this.label212);
-            this.panel70.Controls.Add(this.textBox13);
-            this.panel70.Controls.Add(this.label213);
-            this.panel70.Controls.Add(this.textBox14);
-            this.panel70.Controls.Add(this.label214);
-            this.panel70.Location = new System.Drawing.Point(112, 70);
-            this.panel70.Margin = new System.Windows.Forms.Padding(4);
-            this.panel70.Name = "panel70";
-            this.panel70.Size = new System.Drawing.Size(414, 401);
-            this.panel70.TabIndex = 19;
-            // 
-            // button57
-            // 
-            this.button57.Location = new System.Drawing.Point(334, 9);
-            this.button57.Margin = new System.Windows.Forms.Padding(4);
-            this.button57.Name = "button57";
-            this.button57.Size = new System.Drawing.Size(75, 52);
-            this.button57.TabIndex = 9;
-            this.button57.Text = "Close";
-            this.button57.UseVisualStyleBackColor = true;
-            this.button57.Click += new System.EventHandler(this.button57_Click);
-            // 
-            // button58
-            // 
-            this.button58.Location = new System.Drawing.Point(147, 336);
-            this.button58.Margin = new System.Windows.Forms.Padding(4);
-            this.button58.Name = "button58";
-            this.button58.Size = new System.Drawing.Size(112, 39);
-            this.button58.TabIndex = 8;
-            this.button58.Text = "Add";
-            this.button58.UseVisualStyleBackColor = true;
-            this.button58.Click += new System.EventHandler(this.button58_Click);
-            // 
-            // label212
-            // 
-            this.label212.AutoSize = true;
-            this.label212.Location = new System.Drawing.Point(33, 242);
-            this.label212.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label212.Name = "label212";
-            this.label212.Size = new System.Drawing.Size(85, 25);
-            this.label212.TabIndex = 5;
-            this.label212.Text = "Quantity";
-            // 
-            // textBox13
-            // 
-            this.textBox13.Location = new System.Drawing.Point(38, 279);
-            this.textBox13.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(328, 29);
-            this.textBox13.TabIndex = 4;
-            // 
-            // label213
-            // 
-            this.label213.AutoSize = true;
-            this.label213.Location = new System.Drawing.Point(33, 137);
-            this.label213.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label213.Name = "label213";
-            this.label213.Size = new System.Drawing.Size(108, 25);
-            this.label213.TabIndex = 3;
-            this.label213.Text = "Tool Name";
-            // 
-            // textBox14
-            // 
-            this.textBox14.Location = new System.Drawing.Point(38, 179);
-            this.textBox14.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(328, 29);
-            this.textBox14.TabIndex = 1;
-            // 
-            // label214
-            // 
-            this.label214.AutoSize = true;
-            this.label214.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label214.Location = new System.Drawing.Point(13, 20);
-            this.label214.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label214.Name = "label214";
-            this.label214.Size = new System.Drawing.Size(261, 25);
-            this.label214.TabIndex = 0;
-            this.label214.Text = "Add Tools And Equipment";
-            // 
-            // panel71
-            // 
-            this.panel71.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panel71.Controls.Add(this.label215);
-            this.panel71.Controls.Add(this.label216);
-            this.panel71.Location = new System.Drawing.Point(21, 296);
-            this.panel71.Margin = new System.Windows.Forms.Padding(4);
-            this.panel71.Name = "panel71";
-            this.panel71.Size = new System.Drawing.Size(595, 55);
-            this.panel71.TabIndex = 4;
-            // 
-            // label215
-            // 
-            this.label215.AutoSize = true;
-            this.label215.Location = new System.Drawing.Point(507, 20);
-            this.label215.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label215.Name = "label215";
-            this.label215.Size = new System.Drawing.Size(76, 25);
-            this.label215.TabIndex = 2;
-            this.label215.Text = "Qty: 20";
-            // 
-            // label216
-            // 
-            this.label216.AutoSize = true;
-            this.label216.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label216.Location = new System.Drawing.Point(24, 13);
-            this.label216.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label216.Name = "label216";
-            this.label216.Size = new System.Drawing.Size(160, 29);
-            this.label216.TabIndex = 0;
-            this.label216.Text = "Garbage Bins";
-            // 
-            // panel72
-            // 
-            this.panel72.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panel72.Controls.Add(this.label217);
-            this.panel72.Controls.Add(this.label218);
-            this.panel72.Location = new System.Drawing.Point(21, 226);
-            this.panel72.Margin = new System.Windows.Forms.Padding(4);
-            this.panel72.Name = "panel72";
-            this.panel72.Size = new System.Drawing.Size(595, 55);
-            this.panel72.TabIndex = 4;
-            // 
-            // label217
-            // 
-            this.label217.AutoSize = true;
-            this.label217.Location = new System.Drawing.Point(507, 21);
-            this.label217.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label217.Name = "label217";
-            this.label217.Size = new System.Drawing.Size(76, 25);
-            this.label217.TabIndex = 2;
-            this.label217.Text = "Qty: 20";
-            // 
-            // label218
-            // 
-            this.label218.AutoSize = true;
-            this.label218.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label218.Location = new System.Drawing.Point(24, 17);
-            this.label218.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label218.Name = "label218";
-            this.label218.Size = new System.Drawing.Size(97, 29);
-            this.label218.TabIndex = 0;
-            this.label218.Text = "Brooms";
-            // 
-            // panel73
-            // 
-            this.panel73.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panel73.Controls.Add(this.label219);
-            this.panel73.Controls.Add(this.label220);
-            this.panel73.Location = new System.Drawing.Point(21, 157);
-            this.panel73.Margin = new System.Windows.Forms.Padding(4);
-            this.panel73.Name = "panel73";
-            this.panel73.Size = new System.Drawing.Size(595, 55);
-            this.panel73.TabIndex = 4;
-            // 
-            // label219
-            // 
-            this.label219.AutoSize = true;
-            this.label219.Location = new System.Drawing.Point(507, 20);
-            this.label219.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label219.Name = "label219";
-            this.label219.Size = new System.Drawing.Size(76, 25);
-            this.label219.TabIndex = 2;
-            this.label219.Text = "Qty: 20";
-            // 
-            // label220
-            // 
-            this.label220.AutoSize = true;
-            this.label220.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label220.Location = new System.Drawing.Point(24, 17);
-            this.label220.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label220.Name = "label220";
-            this.label220.Size = new System.Drawing.Size(88, 29);
-            this.label220.TabIndex = 0;
-            this.label220.Text = "Gloves";
-            // 
-            // panel74
-            // 
-            this.panel74.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panel74.Controls.Add(this.label221);
-            this.panel74.Controls.Add(this.label222);
-            this.panel74.Location = new System.Drawing.Point(21, 98);
-            this.panel74.Margin = new System.Windows.Forms.Padding(4);
-            this.panel74.Name = "panel74";
-            this.panel74.Size = new System.Drawing.Size(595, 55);
-            this.panel74.TabIndex = 2;
-            // 
-            // label221
-            // 
-            this.label221.AutoSize = true;
-            this.label221.Location = new System.Drawing.Point(507, 20);
-            this.label221.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label221.Name = "label221";
-            this.label221.Size = new System.Drawing.Size(76, 25);
-            this.label221.TabIndex = 4;
-            this.label221.Text = "Qty: 25";
-            // 
-            // label222
-            // 
-            this.label222.AutoSize = true;
-            this.label222.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label222.Location = new System.Drawing.Point(24, 24);
-            this.label222.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label222.Name = "label222";
-            this.label222.Size = new System.Drawing.Size(136, 29);
-            this.label222.TabIndex = 0;
-            this.label222.Text = "Trash Bags";
-            // 
-            // label223
-            // 
-            this.label223.AutoSize = true;
-            this.label223.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label223.Location = new System.Drawing.Point(16, 45);
-            this.label223.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label223.Name = "label223";
-            this.label223.Size = new System.Drawing.Size(245, 29);
-            this.label223.TabIndex = 0;
-            this.label223.Text = "Tools And Equipment";
-            // 
-            // button59
-            // 
-            this.button59.Location = new System.Drawing.Point(424, 22);
-            this.button59.Margin = new System.Windows.Forms.Padding(6);
-            this.button59.Name = "button59";
-            this.button59.Size = new System.Drawing.Size(192, 42);
-            this.button59.TabIndex = 5;
-            this.button59.Text = "Add Team Member";
-            this.button59.UseVisualStyleBackColor = true;
-            this.button59.Click += new System.EventHandler(this.button59_Click);
-            // 
-            // panel75
-            // 
-            this.panel75.Controls.Add(this.button60);
-            this.panel75.Controls.Add(this.button61);
-            this.panel75.Controls.Add(this.label224);
-            this.panel75.Controls.Add(this.textBox15);
-            this.panel75.Controls.Add(this.label225);
-            this.panel75.Controls.Add(this.textBox16);
-            this.panel75.Controls.Add(this.label226);
-            this.panel75.Controls.Add(this.label227);
-            this.panel75.Controls.Add(this.textBox17);
-            this.panel75.Location = new System.Drawing.Point(106, 66);
-            this.panel75.Margin = new System.Windows.Forms.Padding(6);
-            this.panel75.Name = "panel75";
-            this.panel75.Size = new System.Drawing.Size(440, 377);
-            this.panel75.TabIndex = 6;
-            // 
-            // button60
-            // 
-            this.button60.Location = new System.Drawing.Point(358, 2);
-            this.button60.Margin = new System.Windows.Forms.Padding(6);
-            this.button60.Name = "button60";
-            this.button60.Size = new System.Drawing.Size(77, 42);
-            this.button60.TabIndex = 9;
-            this.button60.Text = "Close";
-            this.button60.UseVisualStyleBackColor = true;
-            this.button60.Click += new System.EventHandler(this.button60_Click);
-            // 
-            // button61
-            // 
-            this.button61.Location = new System.Drawing.Point(275, 327);
-            this.button61.Margin = new System.Windows.Forms.Padding(6);
-            this.button61.Name = "button61";
-            this.button61.Size = new System.Drawing.Size(138, 42);
-            this.button61.TabIndex = 0;
-            this.button61.Text = "Add";
-            this.button61.UseVisualStyleBackColor = true;
-            this.button61.Click += new System.EventHandler(this.button61_Click);
-            // 
-            // label224
-            // 
-            this.label224.AutoSize = true;
-            this.label224.Location = new System.Drawing.Point(24, 255);
-            this.label224.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label224.Name = "label224";
-            this.label224.Size = new System.Drawing.Size(160, 25);
-            this.label224.TabIndex = 7;
-            this.label224.Text = "Hour Contributed";
-            // 
-            // textBox15
-            // 
-            this.textBox15.Location = new System.Drawing.Point(29, 279);
-            this.textBox15.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(380, 29);
-            this.textBox15.TabIndex = 6;
-            // 
-            // label225
-            // 
-            this.label225.AutoSize = true;
-            this.label225.Location = new System.Drawing.Point(24, 186);
-            this.label225.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label225.Name = "label225";
-            this.label225.Size = new System.Drawing.Size(51, 25);
-            this.label225.TabIndex = 5;
-            this.label225.Text = "Role";
-            // 
-            // textBox16
-            // 
-            this.textBox16.Location = new System.Drawing.Point(29, 210);
-            this.textBox16.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(380, 29);
-            this.textBox16.TabIndex = 4;
-            // 
-            // label226
-            // 
-            this.label226.AutoSize = true;
-            this.label226.Location = new System.Drawing.Point(24, 116);
-            this.label226.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label226.Name = "label226";
-            this.label226.Size = new System.Drawing.Size(64, 25);
-            this.label226.TabIndex = 3;
-            this.label226.Text = "Name";
-            // 
-            // label227
-            // 
-            this.label227.AutoSize = true;
-            this.label227.Location = new System.Drawing.Point(24, 70);
-            this.label227.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label227.Name = "label227";
-            this.label227.Size = new System.Drawing.Size(356, 25);
-            this.label227.TabIndex = 2;
-            this.label227.Text = "Add a new team member to the cleanup";
-            // 
-            // textBox17
-            // 
-            this.textBox17.Location = new System.Drawing.Point(29, 140);
-            this.textBox17.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox17.Name = "textBox17";
-            this.textBox17.Size = new System.Drawing.Size(380, 29);
-            this.textBox17.TabIndex = 1;
-            // 
-            // panel76
-            // 
-            this.panel76.Controls.Add(this.label228);
-            this.panel76.Controls.Add(this.label229);
-            this.panel76.Controls.Add(this.label230);
-            this.panel76.Controls.Add(this.label231);
-            this.panel76.Location = new System.Drawing.Point(33, 517);
-            this.panel76.Margin = new System.Windows.Forms.Padding(6);
-            this.panel76.Name = "panel76";
-            this.panel76.Size = new System.Drawing.Size(578, 100);
-            this.panel76.TabIndex = 4;
-            // 
-            // label228
-            // 
-            this.label228.AutoSize = true;
-            this.label228.Location = new System.Drawing.Point(440, 52);
-            this.label228.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label228.Name = "label228";
-            this.label228.Size = new System.Drawing.Size(108, 25);
-            this.label228.TabIndex = 3;
-            this.label228.Text = "contributed";
-            // 
-            // label229
-            // 
-            this.label229.AutoSize = true;
-            this.label229.Location = new System.Drawing.Point(495, 24);
-            this.label229.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label229.Name = "label229";
-            this.label229.Size = new System.Drawing.Size(55, 25);
-            this.label229.TabIndex = 2;
-            this.label229.Text = "4 hrs";
-            // 
-            // label230
-            // 
-            this.label230.AutoSize = true;
-            this.label230.Location = new System.Drawing.Point(57, 52);
-            this.label230.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label230.Name = "label230";
-            this.label230.Size = new System.Drawing.Size(96, 25);
-            this.label230.TabIndex = 1;
-            this.label230.Text = "Volunteer";
-            // 
-            // label231
-            // 
-            this.label231.AutoSize = true;
-            this.label231.Location = new System.Drawing.Point(57, 24);
-            this.label231.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label231.Name = "label231";
-            this.label231.Size = new System.Drawing.Size(108, 25);
-            this.label231.TabIndex = 0;
-            this.label231.Text = "Ana Reyes";
-            // 
-            // panel77
-            // 
-            this.panel77.Controls.Add(this.label232);
-            this.panel77.Controls.Add(this.label233);
-            this.panel77.Controls.Add(this.label234);
-            this.panel77.Controls.Add(this.label235);
-            this.panel77.Location = new System.Drawing.Point(33, 390);
-            this.panel77.Margin = new System.Windows.Forms.Padding(6);
-            this.panel77.Name = "panel77";
-            this.panel77.Size = new System.Drawing.Size(578, 100);
-            this.panel77.TabIndex = 4;
-            // 
-            // label232
-            // 
-            this.label232.AutoSize = true;
-            this.label232.Location = new System.Drawing.Point(440, 52);
-            this.label232.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label232.Name = "label232";
-            this.label232.Size = new System.Drawing.Size(108, 25);
-            this.label232.TabIndex = 3;
-            this.label232.Text = "contributed";
-            // 
-            // label233
-            // 
-            this.label233.AutoSize = true;
-            this.label233.Location = new System.Drawing.Point(495, 24);
-            this.label233.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label233.Name = "label233";
-            this.label233.Size = new System.Drawing.Size(55, 25);
-            this.label233.TabIndex = 2;
-            this.label233.Text = "4 hrs";
-            // 
-            // label234
-            // 
-            this.label234.AutoSize = true;
-            this.label234.Location = new System.Drawing.Point(57, 52);
-            this.label234.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label234.Name = "label234";
-            this.label234.Size = new System.Drawing.Size(96, 25);
-            this.label234.TabIndex = 1;
-            this.label234.Text = "Volunteer";
-            // 
-            // label235
-            // 
-            this.label235.AutoSize = true;
-            this.label235.Location = new System.Drawing.Point(57, 24);
-            this.label235.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label235.Name = "label235";
-            this.label235.Size = new System.Drawing.Size(126, 25);
-            this.label235.TabIndex = 0;
-            this.label235.Text = "Pedro Garcia";
-            // 
-            // panel78
-            // 
-            this.panel78.Controls.Add(this.label236);
-            this.panel78.Controls.Add(this.label237);
-            this.panel78.Controls.Add(this.label238);
-            this.panel78.Controls.Add(this.label239);
-            this.panel78.Location = new System.Drawing.Point(33, 264);
-            this.panel78.Margin = new System.Windows.Forms.Padding(6);
-            this.panel78.Name = "panel78";
-            this.panel78.Size = new System.Drawing.Size(578, 100);
-            this.panel78.TabIndex = 4;
-            // 
-            // label236
-            // 
-            this.label236.AutoSize = true;
-            this.label236.Location = new System.Drawing.Point(440, 52);
-            this.label236.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label236.Name = "label236";
-            this.label236.Size = new System.Drawing.Size(108, 25);
-            this.label236.TabIndex = 3;
-            this.label236.Text = "contributed";
-            // 
-            // label237
-            // 
-            this.label237.AutoSize = true;
-            this.label237.Location = new System.Drawing.Point(495, 24);
-            this.label237.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label237.Name = "label237";
-            this.label237.Size = new System.Drawing.Size(55, 25);
-            this.label237.TabIndex = 2;
-            this.label237.Text = "4 hrs";
-            // 
-            // label238
-            // 
-            this.label238.AutoSize = true;
-            this.label238.Location = new System.Drawing.Point(57, 52);
-            this.label238.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label238.Name = "label238";
-            this.label238.Size = new System.Drawing.Size(96, 25);
-            this.label238.TabIndex = 1;
-            this.label238.Text = "Volunteer";
-            // 
-            // label239
-            // 
-            this.label239.AutoSize = true;
-            this.label239.Location = new System.Drawing.Point(57, 24);
-            this.label239.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label239.Name = "label239";
-            this.label239.Size = new System.Drawing.Size(128, 25);
-            this.label239.TabIndex = 0;
-            this.label239.Text = "Maria Santos";
-            // 
-            // panel79
-            // 
-            this.panel79.Controls.Add(this.label240);
-            this.panel79.Controls.Add(this.label241);
-            this.panel79.Controls.Add(this.label242);
-            this.panel79.Controls.Add(this.label243);
-            this.panel79.Location = new System.Drawing.Point(33, 153);
-            this.panel79.Margin = new System.Windows.Forms.Padding(6);
-            this.panel79.Name = "panel79";
-            this.panel79.Size = new System.Drawing.Size(578, 100);
-            this.panel79.TabIndex = 2;
-            // 
-            // label240
-            // 
-            this.label240.AutoSize = true;
-            this.label240.Location = new System.Drawing.Point(440, 52);
-            this.label240.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label240.Name = "label240";
-            this.label240.Size = new System.Drawing.Size(108, 25);
-            this.label240.TabIndex = 3;
-            this.label240.Text = "contributed";
-            // 
-            // label241
-            // 
-            this.label241.AutoSize = true;
-            this.label241.Location = new System.Drawing.Point(495, 24);
-            this.label241.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label241.Name = "label241";
-            this.label241.Size = new System.Drawing.Size(55, 25);
-            this.label241.TabIndex = 2;
-            this.label241.Text = "4 hrs";
-            // 
-            // label242
-            // 
-            this.label242.AutoSize = true;
-            this.label242.Location = new System.Drawing.Point(57, 52);
-            this.label242.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label242.Name = "label242";
-            this.label242.Size = new System.Drawing.Size(129, 25);
-            this.label242.TabIndex = 1;
-            this.label242.Text = "Team Leader";
-            // 
-            // label243
-            // 
-            this.label243.AutoSize = true;
-            this.label243.Location = new System.Drawing.Point(57, 24);
-            this.label243.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label243.Name = "label243";
-            this.label243.Size = new System.Drawing.Size(148, 25);
-            this.label243.TabIndex = 0;
-            this.label243.Text = "Juan Dela Cruz";
-            // 
-            // label244
-            // 
-            this.label244.AutoSize = true;
-            this.label244.Location = new System.Drawing.Point(28, 76);
-            this.label244.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label244.Name = "label244";
-            this.label244.Size = new System.Drawing.Size(424, 25);
-            this.label244.TabIndex = 1;
-            this.label244.Text = "Team members who participated in this cleanup";
-            // 
-            // label245
-            // 
-            this.label245.AutoSize = true;
-            this.label245.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label245.Location = new System.Drawing.Point(28, 46);
-            this.label245.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label245.Name = "label245";
-            this.label245.Size = new System.Drawing.Size(163, 29);
-            this.label245.TabIndex = 0;
-            this.label245.Text = "Volunteers (4)";
-            // 
-            // panel80
-            // 
-            this.panel80.Controls.Add(this.panel81);
-            this.panel80.Controls.Add(this.button62);
-            this.panel80.Controls.Add(this.label246);
-            this.panel80.Controls.Add(this.label247);
-            this.panel80.Controls.Add(this.label253);
-            this.panel80.Controls.Add(this.label254);
-            this.panel80.Controls.Add(this.label255);
-            this.panel80.Controls.Add(this.label256);
-            this.panel80.Controls.Add(this.label257);
-            this.panel80.Controls.Add(this.label258);
-            this.panel80.Controls.Add(this.label259);
-            this.panel80.Controls.Add(this.label260);
-            this.panel80.Location = new System.Drawing.Point(72, 257);
-            this.panel80.Margin = new System.Windows.Forms.Padding(6);
-            this.panel80.Name = "panel80";
-            this.panel80.Size = new System.Drawing.Size(642, 445);
-            this.panel80.TabIndex = 3;
-            // 
-            // button62
-            // 
-            this.button62.Location = new System.Drawing.Point(456, 19);
-            this.button62.Margin = new System.Windows.Forms.Padding(6);
-            this.button62.Name = "button62";
-            this.button62.Size = new System.Drawing.Size(169, 42);
-            this.button62.TabIndex = 10;
-            this.button62.Text = "Add Waste type";
-            this.button62.UseVisualStyleBackColor = true;
-            this.button62.Click += new System.EventHandler(this.button62_Click);
-            // 
-            // label246
-            // 
-            this.label246.AutoSize = true;
-            this.label246.Location = new System.Drawing.Point(468, 367);
-            this.label246.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label246.Name = "label246";
-            this.label246.Size = new System.Drawing.Size(41, 25);
-            this.label246.TabIndex = 9;
-            this.label246.Text = "5%";
-            this.label246.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label247
-            // 
-            this.label247.AutoSize = true;
-            this.label247.Location = new System.Drawing.Point(468, 299);
-            this.label247.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label247.Name = "label247";
-            this.label247.Size = new System.Drawing.Size(52, 25);
-            this.label247.TabIndex = 8;
-            this.label247.Text = "10%";
-            this.label247.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // panel81
-            // 
-            this.panel81.Controls.Add(this.label248);
-            this.panel81.Controls.Add(this.textBox18);
-            this.panel81.Controls.Add(this.button63);
-            this.panel81.Controls.Add(this.button64);
-            this.panel81.Controls.Add(this.label249);
-            this.panel81.Controls.Add(this.textBox19);
-            this.panel81.Controls.Add(this.label250);
-            this.panel81.Controls.Add(this.label251);
-            this.panel81.Controls.Add(this.textBox20);
-            this.panel81.Controls.Add(this.label252);
-            this.panel81.Location = new System.Drawing.Point(106, 66);
-            this.panel81.Margin = new System.Windows.Forms.Padding(6);
-            this.panel81.Name = "panel81";
-            this.panel81.Size = new System.Drawing.Size(440, 377);
-            this.panel81.TabIndex = 7;
-            // 
-            // label248
-            // 
-            this.label248.AutoSize = true;
-            this.label248.Location = new System.Drawing.Point(24, 253);
-            this.label248.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label248.Name = "label248";
-            this.label248.Size = new System.Drawing.Size(71, 25);
-            this.label248.TabIndex = 11;
-            this.label248.Text = "Others";
-            // 
-            // textBox18
-            // 
-            this.textBox18.Location = new System.Drawing.Point(29, 277);
-            this.textBox18.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox18.Name = "textBox18";
-            this.textBox18.Size = new System.Drawing.Size(380, 29);
-            this.textBox18.TabIndex = 10;
-            // 
-            // button63
-            // 
-            this.button63.Location = new System.Drawing.Point(358, 2);
-            this.button63.Margin = new System.Windows.Forms.Padding(6);
-            this.button63.Name = "button63";
-            this.button63.Size = new System.Drawing.Size(77, 42);
-            this.button63.TabIndex = 9;
-            this.button63.Text = "Close";
-            this.button63.UseVisualStyleBackColor = true;
-            this.button63.Click += new System.EventHandler(this.button63_Click);
-            // 
-            // button64
-            // 
-            this.button64.Location = new System.Drawing.Point(275, 327);
-            this.button64.Margin = new System.Windows.Forms.Padding(6);
-            this.button64.Name = "button64";
-            this.button64.Size = new System.Drawing.Size(138, 42);
-            this.button64.TabIndex = 0;
-            this.button64.Text = "Add";
-            this.button64.UseVisualStyleBackColor = true;
-            this.button64.Click += new System.EventHandler(this.button64_Click);
-            // 
-            // label249
-            // 
-            this.label249.AutoSize = true;
-            this.label249.Location = new System.Drawing.Point(24, 186);
-            this.label249.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label249.Name = "label249";
-            this.label249.Size = new System.Drawing.Size(157, 25);
-            this.label249.TabIndex = 5;
-            this.label249.Text = "Number Of Bags";
-            // 
-            // textBox19
-            // 
-            this.textBox19.Location = new System.Drawing.Point(29, 210);
-            this.textBox19.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(380, 29);
-            this.textBox19.TabIndex = 4;
-            // 
-            // label250
-            // 
-            this.label250.AutoSize = true;
-            this.label250.Location = new System.Drawing.Point(24, 116);
-            this.label250.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label250.Name = "label250";
-            this.label250.Size = new System.Drawing.Size(119, 25);
-            this.label250.TabIndex = 3;
-            this.label250.Text = "Waste Type";
-            // 
-            // label251
-            // 
-            this.label251.AutoSize = true;
-            this.label251.Location = new System.Drawing.Point(24, 70);
-            this.label251.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label251.Name = "label251";
-            this.label251.Size = new System.Drawing.Size(162, 50);
-            this.label251.TabIndex = 2;
-            this.label251.Text = "Add a waste type\r\n\r\n";
-            // 
-            // textBox20
-            // 
-            this.textBox20.Location = new System.Drawing.Point(29, 140);
-            this.textBox20.Margin = new System.Windows.Forms.Padding(6);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(380, 29);
-            this.textBox20.TabIndex = 1;
-            // 
-            // label252
-            // 
-            this.label252.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label252.Location = new System.Drawing.Point(24, 37);
-            this.label252.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label252.Name = "label252";
-            this.label252.Size = new System.Drawing.Size(75, 24);
-            this.label252.TabIndex = 0;
-            this.label252.Text = "Add Team Member";
-            // 
-            // label253
-            // 
-            this.label253.AutoSize = true;
-            this.label253.Location = new System.Drawing.Point(468, 229);
-            this.label253.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label253.Name = "label253";
-            this.label253.Size = new System.Drawing.Size(52, 25);
-            this.label253.TabIndex = 7;
-            this.label253.Text = "15%";
-            this.label253.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label254
-            // 
-            this.label254.AutoSize = true;
-            this.label254.Location = new System.Drawing.Point(468, 153);
-            this.label254.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label254.Name = "label254";
-            this.label254.Size = new System.Drawing.Size(52, 25);
-            this.label254.TabIndex = 6;
-            this.label254.Text = "65%";
-            this.label254.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // label255
-            // 
-            this.label255.AutoSize = true;
-            this.label255.Location = new System.Drawing.Point(38, 367);
-            this.label255.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label255.Name = "label255";
-            this.label255.Size = new System.Drawing.Size(64, 25);
-            this.label255.TabIndex = 5;
-            this.label255.Text = "Paper";
-            // 
-            // label256
-            // 
-            this.label256.AutoSize = true;
-            this.label256.Location = new System.Drawing.Point(38, 299);
-            this.label256.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label256.Name = "label256";
-            this.label256.Size = new System.Drawing.Size(62, 25);
-            this.label256.TabIndex = 4;
-            this.label256.Text = "Glass";
-            // 
-            // label257
-            // 
-            this.label257.AutoSize = true;
-            this.label257.Location = new System.Drawing.Point(38, 229);
-            this.label257.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label257.Name = "label257";
-            this.label257.Size = new System.Drawing.Size(60, 25);
-            this.label257.TabIndex = 3;
-            this.label257.Text = "Metal";
-            // 
-            // label258
-            // 
-            this.label258.AutoSize = true;
-            this.label258.Location = new System.Drawing.Point(38, 153);
-            this.label258.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label258.Name = "label258";
-            this.label258.Size = new System.Drawing.Size(69, 25);
-            this.label258.TabIndex = 2;
-            this.label258.Text = "Plastic";
-            // 
-            // label259
-            // 
-            this.label259.AutoSize = true;
-            this.label259.Location = new System.Drawing.Point(38, 76);
-            this.label259.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label259.Name = "label259";
-            this.label259.Size = new System.Drawing.Size(369, 25);
-            this.label259.TabIndex = 1;
-            this.label259.Text = "Percentage distribution of waste collected";
-            // 
-            // label260
-            // 
-            this.label260.AutoSize = true;
-            this.label260.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label260.Location = new System.Drawing.Point(38, 31);
-            this.label260.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label260.Name = "label260";
-            this.label260.Size = new System.Drawing.Size(338, 31);
-            this.label260.TabIndex = 0;
-            this.label260.Text = "Waste Breakdown by Type";
-            // 
-            // panel82
-            // 
-            this.panel82.Controls.Add(this.panel83);
-            this.panel82.Controls.Add(this.panel84);
-            this.panel82.Controls.Add(this.panel85);
-            this.panel82.Controls.Add(this.label267);
-            this.panel82.Location = new System.Drawing.Point(72, 713);
-            this.panel82.Margin = new System.Windows.Forms.Padding(6);
-            this.panel82.Name = "panel82";
-            this.panel82.Size = new System.Drawing.Size(642, 349);
-            this.panel82.TabIndex = 4;
-            // 
-            // panel83
-            // 
-            this.panel83.Controls.Add(this.label261);
-            this.panel83.Controls.Add(this.label262);
-            this.panel83.Location = new System.Drawing.Point(28, 258);
-            this.panel83.Margin = new System.Windows.Forms.Padding(6);
-            this.panel83.Name = "panel83";
-            this.panel83.Size = new System.Drawing.Size(583, 63);
-            this.panel83.TabIndex = 12;
-            // 
-            // label261
-            // 
-            this.label261.AutoSize = true;
-            this.label261.Location = new System.Drawing.Point(477, 22);
-            this.label261.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label261.Name = "label261";
-            this.label261.Size = new System.Drawing.Size(52, 25);
-            this.label261.TabIndex = 11;
-            this.label261.Text = "75%";
-            // 
-            // label262
-            // 
-            this.label262.AutoSize = true;
-            this.label262.Location = new System.Drawing.Point(11, 22);
-            this.label262.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label262.Name = "label262";
-            this.label262.Size = new System.Drawing.Size(191, 25);
-            this.label262.TabIndex = 10;
-            this.label262.Text = "Recyclable Materials";
-            // 
-            // panel84
-            // 
-            this.panel84.Controls.Add(this.label263);
-            this.panel84.Controls.Add(this.label264);
-            this.panel84.Location = new System.Drawing.Point(28, 185);
-            this.panel84.Margin = new System.Windows.Forms.Padding(6);
-            this.panel84.Name = "panel84";
-            this.panel84.Size = new System.Drawing.Size(583, 63);
-            this.panel84.TabIndex = 12;
-            // 
-            // label263
-            // 
-            this.label263.AutoSize = true;
-            this.label263.Location = new System.Drawing.Point(477, 22);
-            this.label263.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label263.Name = "label263";
-            this.label263.Size = new System.Drawing.Size(69, 25);
-            this.label263.TabIndex = 11;
-            this.label263.Text = "Plastic";
-            // 
-            // label264
-            // 
-            this.label264.AutoSize = true;
-            this.label264.Location = new System.Drawing.Point(11, 22);
-            this.label264.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label264.Name = "label264";
-            this.label264.Size = new System.Drawing.Size(167, 25);
-            this.label264.TabIndex = 10;
-            this.label264.Text = "Main Waste Type";
-            // 
-            // panel85
-            // 
-            this.panel85.Controls.Add(this.label265);
-            this.panel85.Controls.Add(this.label266);
-            this.panel85.Location = new System.Drawing.Point(28, 111);
-            this.panel85.Margin = new System.Windows.Forms.Padding(6);
-            this.panel85.Name = "panel85";
-            this.panel85.Size = new System.Drawing.Size(583, 63);
-            this.panel85.TabIndex = 4;
-            // 
-            // label265
-            // 
-            this.label265.AutoSize = true;
-            this.label265.Location = new System.Drawing.Point(477, 22);
-            this.label265.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label265.Name = "label265";
-            this.label265.Size = new System.Drawing.Size(60, 25);
-            this.label265.TabIndex = 11;
-            this.label265.Text = "3.2 m";
-            // 
-            // label266
-            // 
-            this.label266.AutoSize = true;
-            this.label266.Location = new System.Drawing.Point(11, 22);
-            this.label266.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label266.Name = "label266";
-            this.label266.Size = new System.Drawing.Size(128, 25);
-            this.label266.TabIndex = 10;
-            this.label266.Text = "Total Volume";
-            // 
-            // label267
-            // 
-            this.label267.AutoSize = true;
-            this.label267.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label267.Location = new System.Drawing.Point(38, 35);
-            this.label267.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
-            this.label267.Name = "label267";
-            this.label267.Size = new System.Drawing.Size(338, 31);
-            this.label267.TabIndex = 10;
-            this.label267.Text = "Waste Breakdown by Type";
-            // 
             // dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
@@ -5412,6 +5412,8 @@
             this.Controls.Add(this.cleanupd);
             this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "dashboard";
+            this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form8";
             this.dash.ResumeLayout(false);
             this.dash.PerformLayout();
@@ -5484,6 +5486,49 @@
             this.panel4.PerformLayout();
             this.myCleanups.ResumeLayout(false);
             this.myCleanups.PerformLayout();
+            this.panel64.ResumeLayout(false);
+            this.panel64.PerformLayout();
+            this.panel67.ResumeLayout(false);
+            this.panel80.ResumeLayout(false);
+            this.panel80.PerformLayout();
+            this.panel81.ResumeLayout(false);
+            this.panel81.PerformLayout();
+            this.panel82.ResumeLayout(false);
+            this.panel82.PerformLayout();
+            this.panel83.ResumeLayout(false);
+            this.panel83.PerformLayout();
+            this.panel84.ResumeLayout(false);
+            this.panel84.PerformLayout();
+            this.panel85.ResumeLayout(false);
+            this.panel85.PerformLayout();
+            this.panel65.ResumeLayout(false);
+            this.panel65.PerformLayout();
+            this.panel66.ResumeLayout(false);
+            this.panel66.PerformLayout();
+            this.panel68.ResumeLayout(false);
+            this.panel68.PerformLayout();
+            this.panel75.ResumeLayout(false);
+            this.panel75.PerformLayout();
+            this.panel76.ResumeLayout(false);
+            this.panel76.PerformLayout();
+            this.panel77.ResumeLayout(false);
+            this.panel77.PerformLayout();
+            this.panel78.ResumeLayout(false);
+            this.panel78.PerformLayout();
+            this.panel79.ResumeLayout(false);
+            this.panel79.PerformLayout();
+            this.panel69.ResumeLayout(false);
+            this.panel69.PerformLayout();
+            this.panel70.ResumeLayout(false);
+            this.panel70.PerformLayout();
+            this.panel71.ResumeLayout(false);
+            this.panel71.PerformLayout();
+            this.panel72.ResumeLayout(false);
+            this.panel72.PerformLayout();
+            this.panel73.ResumeLayout(false);
+            this.panel73.PerformLayout();
+            this.panel74.ResumeLayout(false);
+            this.panel74.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.panel5.ResumeLayout(false);
@@ -5522,49 +5567,6 @@
             this.panel29.ResumeLayout(false);
             this.panel32.ResumeLayout(false);
             this.panel34.ResumeLayout(false);
-            this.panel64.ResumeLayout(false);
-            this.panel64.PerformLayout();
-            this.panel65.ResumeLayout(false);
-            this.panel65.PerformLayout();
-            this.panel66.ResumeLayout(false);
-            this.panel66.PerformLayout();
-            this.panel67.ResumeLayout(false);
-            this.panel68.ResumeLayout(false);
-            this.panel68.PerformLayout();
-            this.panel69.ResumeLayout(false);
-            this.panel69.PerformLayout();
-            this.panel70.ResumeLayout(false);
-            this.panel70.PerformLayout();
-            this.panel71.ResumeLayout(false);
-            this.panel71.PerformLayout();
-            this.panel72.ResumeLayout(false);
-            this.panel72.PerformLayout();
-            this.panel73.ResumeLayout(false);
-            this.panel73.PerformLayout();
-            this.panel74.ResumeLayout(false);
-            this.panel74.PerformLayout();
-            this.panel75.ResumeLayout(false);
-            this.panel75.PerformLayout();
-            this.panel76.ResumeLayout(false);
-            this.panel76.PerformLayout();
-            this.panel77.ResumeLayout(false);
-            this.panel77.PerformLayout();
-            this.panel78.ResumeLayout(false);
-            this.panel78.PerformLayout();
-            this.panel79.ResumeLayout(false);
-            this.panel79.PerformLayout();
-            this.panel80.ResumeLayout(false);
-            this.panel80.PerformLayout();
-            this.panel81.ResumeLayout(false);
-            this.panel81.PerformLayout();
-            this.panel82.ResumeLayout(false);
-            this.panel82.PerformLayout();
-            this.panel83.ResumeLayout(false);
-            this.panel83.PerformLayout();
-            this.panel84.ResumeLayout(false);
-            this.panel84.PerformLayout();
-            this.panel85.ResumeLayout(false);
-            this.panel85.PerformLayout();
             this.ResumeLayout(false);
 
         }
