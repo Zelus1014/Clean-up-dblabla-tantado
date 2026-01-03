@@ -419,5 +419,19 @@ namespace Clean_up_dblabla_tantado
         {
             panel64.Visible=false;
         }
+
+        private void button65_Click(object sender, EventArgs e)
+        {
+            Add_New_Cleanup1 nextForm = new Add_New_Cleanup1();
+            nextForm.Show();     
+                   
+
+        }
+
+        private void dashboard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+
