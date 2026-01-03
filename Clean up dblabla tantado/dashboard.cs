@@ -432,6 +432,13 @@ namespace Clean_up_dblabla_tantado
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+            Add_New_Cleanup1 nextForm = new Add_New_Cleanup1();
+            nextForm.Show();
+        }
     }
 }
 
