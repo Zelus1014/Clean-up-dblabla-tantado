@@ -35,7 +35,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = false;
             adminm.Visible = false;
             sett.Visible = false;
-            helpsupport.Visible = false;
+            
         }
 
         private void button17_Click(object sender, EventArgs e)
@@ -47,7 +47,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = false;
             adminm.Visible = false;
             sett.Visible = false;
-            helpsupport.Visible = false;
+            
         }
 
         private void button18_Click(object sender, EventArgs e)
@@ -59,7 +59,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = false;
             adminm.Visible = false;
             sett.Visible = false;
-            helpsupport.Visible = false;
+            
         }
 
         private void button19_Click(object sender, EventArgs e)
@@ -71,7 +71,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = false;
             adminm.Visible = false;
             sett.Visible = false;
-            helpsupport.Visible = false;
+            
         }
 
         private void button20_Click(object sender, EventArgs e)
@@ -83,7 +83,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = true;
             adminm.Visible = false;
             sett.Visible = false;
-            helpsupport.Visible = false;
+            
         }
 
         private void button21_Click(object sender, EventArgs e)
@@ -95,7 +95,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = false;
             adminm.Visible = true;
             sett.Visible = false;
-            helpsupport.Visible = false;
+            
         }
 
         private void button22_Click(object sender, EventArgs e)
@@ -107,7 +107,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = false;
             adminm.Visible = false;
             sett.Visible = true;
-            helpsupport.Visible = false;
+            
         }
 
         private void button30_Click(object sender, EventArgs e)
@@ -119,7 +119,7 @@ namespace Clean_up_dblabla_tantado
             volun.Visible = false;
             adminm.Visible = false;
             sett.Visible = false;
-            helpsupport.Visible = true;
+            
         }
 
         private void label13_Click(object sender, EventArgs e)
