@@ -17,6 +17,7 @@ namespace Clean_up_dblabla_tantado
             InitializeComponent();
             panel1.Visible = false;
             panel3.Visible = false;
+            button2.Enabled = false;
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
