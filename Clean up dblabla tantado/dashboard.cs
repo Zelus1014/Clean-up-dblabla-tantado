@@ -439,6 +439,81 @@ namespace Clean_up_dblabla_tantado
             Add_New_Cleanup1 nextForm = new Add_New_Cleanup1();
             nextForm.Show();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label68_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label62_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label60_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label66_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel8_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel7_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel65_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label207_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label201_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label203_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
