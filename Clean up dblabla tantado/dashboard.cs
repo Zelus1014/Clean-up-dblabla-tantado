@@ -21,8 +21,6 @@ namespace Clean_up_dblabla_tantado
             panel75.Visible = false;
             panel69.Visible = false;
             panel70.Visible = false;
-            panel65.Visible = false;
-            panel66.Visible = false;
             panel64.Visible = false;
         }
 
@@ -261,8 +259,6 @@ namespace Clean_up_dblabla_tantado
             panel75.Visible = false;
             panel69.Visible = false;
             panel70.Visible = false;
-            panel65.Visible = false;
-            panel66.Visible = false;
         }
 
         private void button54_Click(object sender, EventArgs e)
@@ -274,8 +270,6 @@ namespace Clean_up_dblabla_tantado
             panel75.Visible = false;
             panel69.Visible = false;
             panel70.Visible = false;
-            panel65.Visible = false;
-            panel66.Visible = false;
         }
 
         private void button53_Click(object sender, EventArgs e)
@@ -287,8 +281,6 @@ namespace Clean_up_dblabla_tantado
             panel75.Visible = false;
             panel69.Visible = true;
             panel70.Visible = false;
-            panel65.Visible = false;
-            panel66.Visible = false;
         }
 
         private void button52_Click(object sender, EventArgs e)
@@ -300,8 +292,6 @@ namespace Clean_up_dblabla_tantado
             panel75.Visible = false;
             panel69.Visible = false;
             panel70.Visible = false;
-            panel65.Visible = true;
-            panel66.Visible = false;
         }
 
         private void button62_Click(object sender, EventArgs e)
@@ -321,17 +311,14 @@ namespace Clean_up_dblabla_tantado
 
         private void button50_Click(object sender, EventArgs e)
         {
-            panel66.Visible = true;
         }
 
         private void button48_Click(object sender, EventArgs e)
         {
-            panel66.Visible = false;
         }
 
         private void button49_Click(object sender, EventArgs e)
         {
-            panel66.Visible = false;
         }
 
         private void button59_Click(object sender, EventArgs e)
