@@ -229,6 +229,19 @@
             this.label53 = new System.Windows.Forms.Label();
             this.label57 = new System.Windows.Forms.Label();
             this.volun = new System.Windows.Forms.Panel();
+            this.PanelAddVol = new System.Windows.Forms.Panel();
+            this.CleanupJoined = new System.Windows.Forms.Label();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.Number = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.CloseAdd = new System.Windows.Forms.Button();
+            this.AddForVol = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.Add = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel9 = new System.Windows.Forms.Panel();
             this.label59 = new System.Windows.Forms.Label();
             this.label60 = new System.Windows.Forms.Label();
@@ -258,19 +271,6 @@
             this.label90 = new System.Windows.Forms.Label();
             this.label91 = new System.Windows.Forms.Label();
             this.label92 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.PanelAddVol = new System.Windows.Forms.Panel();
-            this.CloseAdd = new System.Windows.Forms.Button();
-            this.AddForVol = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.Add = new System.Windows.Forms.Label();
-            this.Number = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.CleanupJoined = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
             this.dash.SuspendLayout();
             this.panel25.SuspendLayout();
             this.panel24.SuspendLayout();
@@ -309,11 +309,11 @@
             this.panel7.SuspendLayout();
             this.panel8.SuspendLayout();
             this.volun.SuspendLayout();
+            this.PanelAddVol.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
             this.adminm.SuspendLayout();
             this.panel13.SuspendLayout();
-            this.PanelAddVol.SuspendLayout();
             this.SuspendLayout();
             // 
             // dash
@@ -2437,6 +2437,145 @@
             this.volun.TabIndex = 8;
             this.volun.Paint += new System.Windows.Forms.PaintEventHandler(this.volun_Paint);
             // 
+            // PanelAddVol
+            // 
+            this.PanelAddVol.Controls.Add(this.CleanupJoined);
+            this.PanelAddVol.Controls.Add(this.textBox4);
+            this.PanelAddVol.Controls.Add(this.Number);
+            this.PanelAddVol.Controls.Add(this.textBox3);
+            this.PanelAddVol.Controls.Add(this.CloseAdd);
+            this.PanelAddVol.Controls.Add(this.AddForVol);
+            this.PanelAddVol.Controls.Add(this.label3);
+            this.PanelAddVol.Controls.Add(this.textBox1);
+            this.PanelAddVol.Controls.Add(this.label4);
+            this.PanelAddVol.Controls.Add(this.textBox2);
+            this.PanelAddVol.Controls.Add(this.Add);
+            this.PanelAddVol.Location = new System.Drawing.Point(312, 77);
+            this.PanelAddVol.Margin = new System.Windows.Forms.Padding(2);
+            this.PanelAddVol.Name = "PanelAddVol";
+            this.PanelAddVol.Size = new System.Drawing.Size(226, 344);
+            this.PanelAddVol.TabIndex = 20;
+            // 
+            // CleanupJoined
+            // 
+            this.CleanupJoined.AutoSize = true;
+            this.CleanupJoined.Location = new System.Drawing.Point(20, 237);
+            this.CleanupJoined.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.CleanupJoined.Name = "CleanupJoined";
+            this.CleanupJoined.Size = new System.Drawing.Size(85, 13);
+            this.CleanupJoined.TabIndex = 13;
+            this.CleanupJoined.Text = "Cleanups Joined";
+            // 
+            // textBox4
+            // 
+            this.textBox4.BackColor = System.Drawing.Color.Ivory;
+            this.textBox4.Location = new System.Drawing.Point(23, 257);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(181, 20);
+            this.textBox4.TabIndex = 12;
+            // 
+            // Number
+            // 
+            this.Number.AutoSize = true;
+            this.Number.Location = new System.Drawing.Point(18, 185);
+            this.Number.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.Number.Name = "Number";
+            this.Number.Size = new System.Drawing.Size(44, 13);
+            this.Number.TabIndex = 11;
+            this.Number.Text = "Number";
+            // 
+            // textBox3
+            // 
+            this.textBox3.BackColor = System.Drawing.Color.Ivory;
+            this.textBox3.Location = new System.Drawing.Point(21, 205);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(181, 20);
+            this.textBox3.TabIndex = 10;
+            // 
+            // CloseAdd
+            // 
+            this.CloseAdd.BackColor = System.Drawing.Color.Beige;
+            this.CloseAdd.ForeColor = System.Drawing.Color.DarkOliveGreen;
+            this.CloseAdd.Location = new System.Drawing.Point(182, 5);
+            this.CloseAdd.Margin = new System.Windows.Forms.Padding(2);
+            this.CloseAdd.Name = "CloseAdd";
+            this.CloseAdd.Size = new System.Drawing.Size(41, 28);
+            this.CloseAdd.TabIndex = 9;
+            this.CloseAdd.Text = "Close";
+            this.CloseAdd.UseVisualStyleBackColor = false;
+            // 
+            // AddForVol
+            // 
+            this.AddForVol.BackColor = System.Drawing.Color.DarkKhaki;
+            this.AddForVol.Location = new System.Drawing.Point(81, 300);
+            this.AddForVol.Margin = new System.Windows.Forms.Padding(2);
+            this.AddForVol.Name = "AddForVol";
+            this.AddForVol.Size = new System.Drawing.Size(61, 21);
+            this.AddForVol.TabIndex = 8;
+            this.AddForVol.Text = "Add";
+            this.AddForVol.UseVisualStyleBackColor = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(18, 131);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(32, 13);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Email";
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.Ivory;
+            this.textBox1.Location = new System.Drawing.Point(21, 151);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(181, 20);
+            this.textBox1.TabIndex = 4;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(18, 74);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(57, 13);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Volunteers";
+            // 
+            // textBox2
+            // 
+            this.textBox2.BackColor = System.Drawing.Color.Ivory;
+            this.textBox2.Location = new System.Drawing.Point(21, 97);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(181, 20);
+            this.textBox2.TabIndex = 1;
+            // 
+            // Add
+            // 
+            this.Add.AutoSize = true;
+            this.Add.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Add.ForeColor = System.Drawing.Color.DarkOliveGreen;
+            this.Add.Location = new System.Drawing.Point(9, 9);
+            this.Add.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.Add.Name = "Add";
+            this.Add.Size = new System.Drawing.Size(99, 16);
+            this.Add.TabIndex = 0;
+            this.Add.Text = "Add Volunteers";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(720, 16);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(116, 32);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "Add New Volunteers";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.Color.White;
@@ -2745,145 +2884,6 @@
             this.label92.TabIndex = 0;
             this.label92.Text = "Admin Management";
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(720, 16);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(116, 32);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "Add New Volunteers";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // PanelAddVol
-            // 
-            this.PanelAddVol.Controls.Add(this.CleanupJoined);
-            this.PanelAddVol.Controls.Add(this.textBox4);
-            this.PanelAddVol.Controls.Add(this.Number);
-            this.PanelAddVol.Controls.Add(this.textBox3);
-            this.PanelAddVol.Controls.Add(this.CloseAdd);
-            this.PanelAddVol.Controls.Add(this.AddForVol);
-            this.PanelAddVol.Controls.Add(this.label3);
-            this.PanelAddVol.Controls.Add(this.textBox1);
-            this.PanelAddVol.Controls.Add(this.label4);
-            this.PanelAddVol.Controls.Add(this.textBox2);
-            this.PanelAddVol.Controls.Add(this.Add);
-            this.PanelAddVol.Location = new System.Drawing.Point(290, 48);
-            this.PanelAddVol.Margin = new System.Windows.Forms.Padding(2);
-            this.PanelAddVol.Name = "PanelAddVol";
-            this.PanelAddVol.Size = new System.Drawing.Size(226, 344);
-            this.PanelAddVol.TabIndex = 20;
-            // 
-            // CloseAdd
-            // 
-            this.CloseAdd.BackColor = System.Drawing.Color.Beige;
-            this.CloseAdd.ForeColor = System.Drawing.Color.DarkOliveGreen;
-            this.CloseAdd.Location = new System.Drawing.Point(182, 5);
-            this.CloseAdd.Margin = new System.Windows.Forms.Padding(2);
-            this.CloseAdd.Name = "CloseAdd";
-            this.CloseAdd.Size = new System.Drawing.Size(41, 28);
-            this.CloseAdd.TabIndex = 9;
-            this.CloseAdd.Text = "Close";
-            this.CloseAdd.UseVisualStyleBackColor = false;
-            // 
-            // AddForVol
-            // 
-            this.AddForVol.BackColor = System.Drawing.Color.DarkKhaki;
-            this.AddForVol.Location = new System.Drawing.Point(81, 300);
-            this.AddForVol.Margin = new System.Windows.Forms.Padding(2);
-            this.AddForVol.Name = "AddForVol";
-            this.AddForVol.Size = new System.Drawing.Size(61, 21);
-            this.AddForVol.TabIndex = 8;
-            this.AddForVol.Text = "Add";
-            this.AddForVol.UseVisualStyleBackColor = false;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(18, 131);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(32, 13);
-            this.label3.TabIndex = 5;
-            this.label3.Text = "Email";
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.Ivory;
-            this.textBox1.Location = new System.Drawing.Point(21, 151);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(181, 20);
-            this.textBox1.TabIndex = 4;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(18, 74);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(57, 13);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Volunteers";
-            // 
-            // textBox2
-            // 
-            this.textBox2.BackColor = System.Drawing.Color.Ivory;
-            this.textBox2.Location = new System.Drawing.Point(21, 97);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(181, 20);
-            this.textBox2.TabIndex = 1;
-            // 
-            // Add
-            // 
-            this.Add.AutoSize = true;
-            this.Add.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Add.ForeColor = System.Drawing.Color.DarkOliveGreen;
-            this.Add.Location = new System.Drawing.Point(9, 9);
-            this.Add.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.Add.Name = "Add";
-            this.Add.Size = new System.Drawing.Size(99, 16);
-            this.Add.TabIndex = 0;
-            this.Add.Text = "Add Volunteers";
-            // 
-            // Number
-            // 
-            this.Number.AutoSize = true;
-            this.Number.Location = new System.Drawing.Point(18, 185);
-            this.Number.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.Number.Name = "Number";
-            this.Number.Size = new System.Drawing.Size(44, 13);
-            this.Number.TabIndex = 11;
-            this.Number.Text = "Number";
-            // 
-            // textBox3
-            // 
-            this.textBox3.BackColor = System.Drawing.Color.Ivory;
-            this.textBox3.Location = new System.Drawing.Point(21, 205);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(181, 20);
-            this.textBox3.TabIndex = 10;
-            // 
-            // CleanupJoined
-            // 
-            this.CleanupJoined.AutoSize = true;
-            this.CleanupJoined.Location = new System.Drawing.Point(20, 237);
-            this.CleanupJoined.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.CleanupJoined.Name = "CleanupJoined";
-            this.CleanupJoined.Size = new System.Drawing.Size(85, 13);
-            this.CleanupJoined.TabIndex = 13;
-            this.CleanupJoined.Text = "Cleanups Joined";
-            // 
-            // textBox4
-            // 
-            this.textBox4.BackColor = System.Drawing.Color.Ivory;
-            this.textBox4.Location = new System.Drawing.Point(23, 257);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(181, 20);
-            this.textBox4.TabIndex = 12;
-            // 
             // dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2892,11 +2892,11 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1100, 621);
             this.Controls.Add(this.panel18);
-            this.Controls.Add(this.dash);
             this.Controls.Add(this.volun);
             this.Controls.Add(this.adminm);
             this.Controls.Add(this.trashtypes);
             this.Controls.Add(this.myCleanups);
+            this.Controls.Add(this.dash);
             this.Name = "dashboard";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -2976,6 +2976,8 @@
             this.panel8.PerformLayout();
             this.volun.ResumeLayout(false);
             this.volun.PerformLayout();
+            this.PanelAddVol.ResumeLayout(false);
+            this.PanelAddVol.PerformLayout();
             this.panel9.ResumeLayout(false);
             this.panel9.PerformLayout();
             this.panel10.ResumeLayout(false);
@@ -2984,8 +2986,6 @@
             this.adminm.PerformLayout();
             this.panel13.ResumeLayout(false);
             this.panel13.PerformLayout();
-            this.PanelAddVol.ResumeLayout(false);
-            this.PanelAddVol.PerformLayout();
             this.ResumeLayout(false);
 
         }
