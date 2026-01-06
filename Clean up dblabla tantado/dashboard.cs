@@ -27,7 +27,6 @@ namespace Clean_up_dblabla_tantado
         private void button6_Click(object sender, EventArgs e)
         {
             dash.Visible = true;
-            
             myCleanups.Visible = false;
             trashtypes.Visible = false;
             volun.Visible = false;
@@ -39,7 +38,6 @@ namespace Clean_up_dblabla_tantado
         private void button17_Click(object sender, EventArgs e)
         {
             dash.Visible = false;
-            
             myCleanups.Visible = false;
             trashtypes.Visible = false;
             volun.Visible = false;
@@ -51,7 +49,6 @@ namespace Clean_up_dblabla_tantado
         private void button18_Click(object sender, EventArgs e)
         {
             dash.Visible = false;
-            
             myCleanups.Visible = true;
             trashtypes.Visible = false;
             volun.Visible = false;
@@ -63,7 +60,6 @@ namespace Clean_up_dblabla_tantado
         private void button19_Click(object sender, EventArgs e)
         {
             dash.Visible = false;
-            
             myCleanups.Visible = false;
             trashtypes.Visible = true;
             volun.Visible = false;
@@ -75,7 +71,6 @@ namespace Clean_up_dblabla_tantado
         private void button20_Click(object sender, EventArgs e)
         {
             dash.Visible = false;
-            
             myCleanups.Visible = false;
             trashtypes.Visible = false;
             volun.Visible = true;
@@ -87,7 +82,6 @@ namespace Clean_up_dblabla_tantado
         private void button21_Click(object sender, EventArgs e)
         {
             dash.Visible = false;
-            
             myCleanups.Visible = false;
             trashtypes.Visible = false;
             volun.Visible = false;
@@ -99,7 +93,6 @@ namespace Clean_up_dblabla_tantado
         private void button22_Click(object sender, EventArgs e)
         {
             dash.Visible = false;
-            
             myCleanups.Visible = false;
             trashtypes.Visible = false;
             volun.Visible = false;
@@ -111,7 +104,6 @@ namespace Clean_up_dblabla_tantado
         private void button30_Click(object sender, EventArgs e)
         {
             dash.Visible = false;
-            
             myCleanups.Visible = false;
             trashtypes.Visible = false;
             volun.Visible = false;
