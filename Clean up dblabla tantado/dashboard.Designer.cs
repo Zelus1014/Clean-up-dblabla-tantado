@@ -228,7 +228,7 @@
             this.label90 = new System.Windows.Forms.Label();
             this.label91 = new System.Windows.Forms.Label();
             this.label92 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.addvolunteer = new System.Windows.Forms.Button();
             this.label223 = new System.Windows.Forms.Label();
             this.panel74 = new System.Windows.Forms.Panel();
             this.label222 = new System.Windows.Forms.Label();
@@ -2045,7 +2045,7 @@
             // volun
             // 
             this.volun.BackColor = System.Drawing.Color.Ivory;
-            this.volun.Controls.Add(this.button1);
+            this.volun.Controls.Add(this.addvolunteer);
             this.volun.Controls.Add(this.panel9);
             this.volun.Controls.Add(this.panel10);
             this.volun.Controls.Add(this.label72);
@@ -2593,19 +2593,19 @@
             this.label92.TabIndex = 0;
             this.label92.Text = "Admin Management";
             // 
-            // button1
+            // addvolunteer
             // 
-            this.button1.BackColor = System.Drawing.Color.DarkOliveGreen;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(1299, 18);
-            this.button1.Margin = new System.Windows.Forms.Padding(6);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(258, 55);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "Add New Volunteer\r\n";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.addvolunteer.BackColor = System.Drawing.Color.DarkOliveGreen;
+            this.addvolunteer.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.addvolunteer.ForeColor = System.Drawing.Color.White;
+            this.addvolunteer.Location = new System.Drawing.Point(1299, 18);
+            this.addvolunteer.Margin = new System.Windows.Forms.Padding(6);
+            this.addvolunteer.Name = "addvolunteer";
+            this.addvolunteer.Size = new System.Drawing.Size(258, 55);
+            this.addvolunteer.TabIndex = 13;
+            this.addvolunteer.Text = "Add New Volunteer\r\n";
+            this.addvolunteer.UseVisualStyleBackColor = false;
+            this.addvolunteer.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // label223
             // 
@@ -2875,11 +2875,11 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(2017, 1146);
             this.Controls.Add(this.panel18);
+            this.Controls.Add(this.myCleanups);
+            this.Controls.Add(this.dash);
             this.Controls.Add(this.volun);
             this.Controls.Add(this.adminm);
             this.Controls.Add(this.trashtypes);
-            this.Controls.Add(this.myCleanups);
-            this.Controls.Add(this.dash);
             this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "dashboard";
             this.ShowIcon = false;
@@ -3174,7 +3174,7 @@
         private System.Windows.Forms.Label label273;
         private System.Windows.Forms.Label label277;
         private System.Windows.Forms.Button Logout;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button addvolunteer;
         private System.Windows.Forms.Panel panel69;
         private System.Windows.Forms.Panel panel70;
         private System.Windows.Forms.Button button57;
