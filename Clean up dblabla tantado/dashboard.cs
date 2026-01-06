@@ -455,6 +455,26 @@ namespace Clean_up_dblabla_tantado
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            panel64.Visible = true;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            panel64.Visible = true;
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
