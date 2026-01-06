@@ -43,6 +43,7 @@
             this.label55 = new System.Windows.Forms.Label();
             this.label54 = new System.Windows.Forms.Label();
             this.panel18 = new System.Windows.Forms.Panel();
+            this.Logout = new System.Windows.Forms.Button();
             this.button21 = new System.Windows.Forms.Button();
             this.button20 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
@@ -211,7 +212,6 @@
             this.label40 = new System.Windows.Forms.Label();
             this.label41 = new System.Windows.Forms.Label();
             this.trashtypes = new System.Windows.Forms.Panel();
-            this.label57 = new System.Windows.Forms.Label();
             this.label58 = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
             this.label44 = new System.Windows.Forms.Label();
@@ -227,6 +227,7 @@
             this.label51 = new System.Windows.Forms.Label();
             this.label52 = new System.Windows.Forms.Label();
             this.label53 = new System.Windows.Forms.Label();
+            this.label57 = new System.Windows.Forms.Label();
             this.volun = new System.Windows.Forms.Panel();
             this.panel9 = new System.Windows.Forms.Panel();
             this.label59 = new System.Windows.Forms.Label();
@@ -247,23 +248,6 @@
             this.label72 = new System.Windows.Forms.Label();
             this.label71 = new System.Windows.Forms.Label();
             this.adminm = new System.Windows.Forms.Panel();
-            this.button12 = new System.Windows.Forms.Button();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.label73 = new System.Windows.Forms.Label();
-            this.label74 = new System.Windows.Forms.Label();
-            this.button13 = new System.Windows.Forms.Button();
-            this.label75 = new System.Windows.Forms.Label();
-            this.label76 = new System.Windows.Forms.Label();
-            this.label77 = new System.Windows.Forms.Label();
-            this.label78 = new System.Windows.Forms.Label();
-            this.panel12 = new System.Windows.Forms.Panel();
-            this.label79 = new System.Windows.Forms.Label();
-            this.label80 = new System.Windows.Forms.Label();
-            this.button14 = new System.Windows.Forms.Button();
-            this.label81 = new System.Windows.Forms.Label();
-            this.label82 = new System.Windows.Forms.Label();
-            this.label83 = new System.Windows.Forms.Label();
-            this.label84 = new System.Windows.Forms.Label();
             this.panel13 = new System.Windows.Forms.Panel();
             this.label85 = new System.Windows.Forms.Label();
             this.label86 = new System.Windows.Forms.Label();
@@ -274,7 +258,19 @@
             this.label90 = new System.Windows.Forms.Label();
             this.label91 = new System.Windows.Forms.Label();
             this.label92 = new System.Windows.Forms.Label();
-            this.Logout = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.PanelAddVol = new System.Windows.Forms.Panel();
+            this.CloseAdd = new System.Windows.Forms.Button();
+            this.AddForVol = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.Add = new System.Windows.Forms.Label();
+            this.Number = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.CleanupJoined = new System.Windows.Forms.Label();
+            this.textBox4 = new System.Windows.Forms.TextBox();
             this.dash.SuspendLayout();
             this.panel25.SuspendLayout();
             this.panel24.SuspendLayout();
@@ -316,9 +312,8 @@
             this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
             this.adminm.SuspendLayout();
-            this.panel11.SuspendLayout();
-            this.panel12.SuspendLayout();
             this.panel13.SuspendLayout();
+            this.PanelAddVol.SuspendLayout();
             this.SuspendLayout();
             // 
             // dash
@@ -481,6 +476,17 @@
             this.panel18.Size = new System.Drawing.Size(233, 617);
             this.panel18.TabIndex = 8;
             // 
+            // Logout
+            // 
+            this.Logout.BackColor = System.Drawing.Color.Khaki;
+            this.Logout.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Logout.Location = new System.Drawing.Point(51, 583);
+            this.Logout.Name = "Logout";
+            this.Logout.Size = new System.Drawing.Size(136, 25);
+            this.Logout.TabIndex = 7;
+            this.Logout.Text = "Logout";
+            this.Logout.UseVisualStyleBackColor = false;
+            // 
             // button21
             // 
             this.button21.BackColor = System.Drawing.Color.Khaki;
@@ -564,11 +570,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.85714F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.DarkOliveGreen;
-            this.label2.Location = new System.Drawing.Point(17, 21);
+            this.label2.Location = new System.Drawing.Point(16, 16);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(232, 52);
+            this.label2.Size = new System.Drawing.Size(211, 50);
             this.label2.TabIndex = 0;
             this.label2.Text = "Cleanup Management \r\nSystem \r\n";
             // 
@@ -2251,16 +2257,6 @@
             this.trashtypes.TabIndex = 12;
             this.trashtypes.Paint += new System.Windows.Forms.PaintEventHandler(this.trashtypes_Paint);
             // 
-            // label57
-            // 
-            this.label57.AutoSize = true;
-            this.label57.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label57.Location = new System.Drawing.Point(21, 51);
-            this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(360, 15);
-            this.label57.TabIndex = 1;
-            this.label57.Text = "Real-time Manage Manage waste categories and collection data";
-            // 
             // label58
             // 
             this.label58.AutoSize = true;
@@ -2416,9 +2412,21 @@
             this.label53.TabIndex = 0;
             this.label53.Text = "Plastic Bottles";
             // 
+            // label57
+            // 
+            this.label57.AutoSize = true;
+            this.label57.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label57.Location = new System.Drawing.Point(21, 51);
+            this.label57.Name = "label57";
+            this.label57.Size = new System.Drawing.Size(360, 15);
+            this.label57.TabIndex = 1;
+            this.label57.Text = "Real-time Manage Manage waste categories and collection data";
+            // 
             // volun
             // 
             this.volun.BackColor = System.Drawing.Color.Ivory;
+            this.volun.Controls.Add(this.PanelAddVol);
+            this.volun.Controls.Add(this.button1);
             this.volun.Controls.Add(this.panel9);
             this.volun.Controls.Add(this.panel10);
             this.volun.Controls.Add(this.label72);
@@ -2625,9 +2633,6 @@
             // adminm
             // 
             this.adminm.BackColor = System.Drawing.Color.Ivory;
-            this.adminm.Controls.Add(this.button12);
-            this.adminm.Controls.Add(this.panel11);
-            this.adminm.Controls.Add(this.panel12);
             this.adminm.Controls.Add(this.panel13);
             this.adminm.Controls.Add(this.label91);
             this.adminm.Controls.Add(this.label92);
@@ -2635,184 +2640,6 @@
             this.adminm.Name = "adminm";
             this.adminm.Size = new System.Drawing.Size(908, 617);
             this.adminm.TabIndex = 9;
-            // 
-            // button12
-            // 
-            this.button12.BackColor = System.Drawing.Color.DarkOliveGreen;
-            this.button12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button12.ForeColor = System.Drawing.Color.White;
-            this.button12.Location = new System.Drawing.Point(720, 21);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(141, 30);
-            this.button12.TabIndex = 12;
-            this.button12.Text = "Add New Admin";
-            this.button12.UseVisualStyleBackColor = false;
-            // 
-            // panel11
-            // 
-            this.panel11.BackColor = System.Drawing.Color.White;
-            this.panel11.Controls.Add(this.label73);
-            this.panel11.Controls.Add(this.label74);
-            this.panel11.Controls.Add(this.button13);
-            this.panel11.Controls.Add(this.label75);
-            this.panel11.Controls.Add(this.label76);
-            this.panel11.Controls.Add(this.label77);
-            this.panel11.Controls.Add(this.label78);
-            this.panel11.Location = new System.Drawing.Point(24, 287);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(315, 163);
-            this.panel11.TabIndex = 8;
-            // 
-            // label73
-            // 
-            this.label73.AutoSize = true;
-            this.label73.Location = new System.Drawing.Point(83, 135);
-            this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(65, 13);
-            this.label73.TabIndex = 7;
-            this.label73.Text = "11/03/2024";
-            // 
-            // label74
-            // 
-            this.label74.AutoSize = true;
-            this.label74.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.label74.Location = new System.Drawing.Point(22, 110);
-            this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(37, 13);
-            this.label74.TabIndex = 6;
-            this.label74.Text = "Status";
-            // 
-            // button13
-            // 
-            this.button13.BackColor = System.Drawing.Color.DarkKhaki;
-            this.button13.Location = new System.Drawing.Point(266, 17);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(34, 23);
-            this.button13.TabIndex = 5;
-            this.button13.Text = "Edit";
-            this.button13.UseVisualStyleBackColor = false;
-            // 
-            // label75
-            // 
-            this.label75.AutoSize = true;
-            this.label75.Location = new System.Drawing.Point(22, 135);
-            this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(55, 13);
-            this.label75.TabIndex = 3;
-            this.label75.Text = "Last login:";
-            // 
-            // label76
-            // 
-            this.label76.AutoSize = true;
-            this.label76.Location = new System.Drawing.Point(22, 88);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(105, 13);
-            this.label76.TabIndex = 2;
-            this.label76.Text = "admin@cleanup.gov";
-            // 
-            // label77
-            // 
-            this.label77.AutoSize = true;
-            this.label77.Location = new System.Drawing.Point(52, 39);
-            this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(67, 13);
-            this.label77.TabIndex = 1;
-            this.label77.Text = "Super Admin";
-            // 
-            // label78
-            // 
-            this.label78.AutoSize = true;
-            this.label78.BackColor = System.Drawing.Color.Transparent;
-            this.label78.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label78.ForeColor = System.Drawing.Color.DarkOliveGreen;
-            this.label78.Location = new System.Drawing.Point(49, 17);
-            this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(96, 18);
-            this.label78.TabIndex = 0;
-            this.label78.Text = "Maria Santos";
-            // 
-            // panel12
-            // 
-            this.panel12.BackColor = System.Drawing.Color.White;
-            this.panel12.Controls.Add(this.label79);
-            this.panel12.Controls.Add(this.label80);
-            this.panel12.Controls.Add(this.button14);
-            this.panel12.Controls.Add(this.label81);
-            this.panel12.Controls.Add(this.label82);
-            this.panel12.Controls.Add(this.label83);
-            this.panel12.Controls.Add(this.label84);
-            this.panel12.Location = new System.Drawing.Point(356, 109);
-            this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(315, 163);
-            this.panel12.TabIndex = 8;
-            // 
-            // label79
-            // 
-            this.label79.AutoSize = true;
-            this.label79.Location = new System.Drawing.Point(83, 135);
-            this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(65, 13);
-            this.label79.TabIndex = 7;
-            this.label79.Text = "11/03/2024";
-            // 
-            // label80
-            // 
-            this.label80.AutoSize = true;
-            this.label80.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.label80.Location = new System.Drawing.Point(22, 110);
-            this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(37, 13);
-            this.label80.TabIndex = 6;
-            this.label80.Text = "Status";
-            // 
-            // button14
-            // 
-            this.button14.BackColor = System.Drawing.Color.DarkKhaki;
-            this.button14.Location = new System.Drawing.Point(266, 17);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(34, 23);
-            this.button14.TabIndex = 5;
-            this.button14.Text = "Edit";
-            this.button14.UseVisualStyleBackColor = false;
-            // 
-            // label81
-            // 
-            this.label81.AutoSize = true;
-            this.label81.Location = new System.Drawing.Point(22, 135);
-            this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(55, 13);
-            this.label81.TabIndex = 3;
-            this.label81.Text = "Last login:";
-            // 
-            // label82
-            // 
-            this.label82.AutoSize = true;
-            this.label82.Location = new System.Drawing.Point(22, 88);
-            this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(105, 13);
-            this.label82.TabIndex = 2;
-            this.label82.Text = "admin@cleanup.gov";
-            // 
-            // label83
-            // 
-            this.label83.AutoSize = true;
-            this.label83.Location = new System.Drawing.Point(52, 39);
-            this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(67, 13);
-            this.label83.TabIndex = 1;
-            this.label83.Text = "Super Admin";
-            // 
-            // label84
-            // 
-            this.label84.AutoSize = true;
-            this.label84.BackColor = System.Drawing.Color.Transparent;
-            this.label84.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label84.ForeColor = System.Drawing.Color.DarkOliveGreen;
-            this.label84.Location = new System.Drawing.Point(49, 17);
-            this.label84.Name = "label84";
-            this.label84.Size = new System.Drawing.Size(96, 18);
-            this.label84.TabIndex = 0;
-            this.label84.Text = "Maria Santos";
             // 
             // panel13
             // 
@@ -2918,16 +2745,144 @@
             this.label92.TabIndex = 0;
             this.label92.Text = "Admin Management";
             // 
-            // Logout
+            // button1
             // 
-            this.Logout.BackColor = System.Drawing.Color.Khaki;
-            this.Logout.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Logout.Location = new System.Drawing.Point(51, 583);
-            this.Logout.Name = "Logout";
-            this.Logout.Size = new System.Drawing.Size(136, 25);
-            this.Logout.TabIndex = 7;
-            this.Logout.Text = "Logout";
-            this.Logout.UseVisualStyleBackColor = false;
+            this.button1.Location = new System.Drawing.Point(720, 16);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(116, 32);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "Add New Volunteers";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // PanelAddVol
+            // 
+            this.PanelAddVol.Controls.Add(this.CleanupJoined);
+            this.PanelAddVol.Controls.Add(this.textBox4);
+            this.PanelAddVol.Controls.Add(this.Number);
+            this.PanelAddVol.Controls.Add(this.textBox3);
+            this.PanelAddVol.Controls.Add(this.CloseAdd);
+            this.PanelAddVol.Controls.Add(this.AddForVol);
+            this.PanelAddVol.Controls.Add(this.label3);
+            this.PanelAddVol.Controls.Add(this.textBox1);
+            this.PanelAddVol.Controls.Add(this.label4);
+            this.PanelAddVol.Controls.Add(this.textBox2);
+            this.PanelAddVol.Controls.Add(this.Add);
+            this.PanelAddVol.Location = new System.Drawing.Point(290, 48);
+            this.PanelAddVol.Margin = new System.Windows.Forms.Padding(2);
+            this.PanelAddVol.Name = "PanelAddVol";
+            this.PanelAddVol.Size = new System.Drawing.Size(226, 344);
+            this.PanelAddVol.TabIndex = 20;
+            // 
+            // CloseAdd
+            // 
+            this.CloseAdd.BackColor = System.Drawing.Color.Beige;
+            this.CloseAdd.ForeColor = System.Drawing.Color.DarkOliveGreen;
+            this.CloseAdd.Location = new System.Drawing.Point(182, 5);
+            this.CloseAdd.Margin = new System.Windows.Forms.Padding(2);
+            this.CloseAdd.Name = "CloseAdd";
+            this.CloseAdd.Size = new System.Drawing.Size(41, 28);
+            this.CloseAdd.TabIndex = 9;
+            this.CloseAdd.Text = "Close";
+            this.CloseAdd.UseVisualStyleBackColor = false;
+            // 
+            // AddForVol
+            // 
+            this.AddForVol.BackColor = System.Drawing.Color.DarkKhaki;
+            this.AddForVol.Location = new System.Drawing.Point(81, 300);
+            this.AddForVol.Margin = new System.Windows.Forms.Padding(2);
+            this.AddForVol.Name = "AddForVol";
+            this.AddForVol.Size = new System.Drawing.Size(61, 21);
+            this.AddForVol.TabIndex = 8;
+            this.AddForVol.Text = "Add";
+            this.AddForVol.UseVisualStyleBackColor = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(18, 131);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(32, 13);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Email";
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.Ivory;
+            this.textBox1.Location = new System.Drawing.Point(21, 151);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(181, 20);
+            this.textBox1.TabIndex = 4;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(18, 74);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(57, 13);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Volunteers";
+            // 
+            // textBox2
+            // 
+            this.textBox2.BackColor = System.Drawing.Color.Ivory;
+            this.textBox2.Location = new System.Drawing.Point(21, 97);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(181, 20);
+            this.textBox2.TabIndex = 1;
+            // 
+            // Add
+            // 
+            this.Add.AutoSize = true;
+            this.Add.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Add.ForeColor = System.Drawing.Color.DarkOliveGreen;
+            this.Add.Location = new System.Drawing.Point(9, 9);
+            this.Add.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.Add.Name = "Add";
+            this.Add.Size = new System.Drawing.Size(99, 16);
+            this.Add.TabIndex = 0;
+            this.Add.Text = "Add Volunteers";
+            // 
+            // Number
+            // 
+            this.Number.AutoSize = true;
+            this.Number.Location = new System.Drawing.Point(18, 185);
+            this.Number.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.Number.Name = "Number";
+            this.Number.Size = new System.Drawing.Size(44, 13);
+            this.Number.TabIndex = 11;
+            this.Number.Text = "Number";
+            // 
+            // textBox3
+            // 
+            this.textBox3.BackColor = System.Drawing.Color.Ivory;
+            this.textBox3.Location = new System.Drawing.Point(21, 205);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(181, 20);
+            this.textBox3.TabIndex = 10;
+            // 
+            // CleanupJoined
+            // 
+            this.CleanupJoined.AutoSize = true;
+            this.CleanupJoined.Location = new System.Drawing.Point(20, 237);
+            this.CleanupJoined.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.CleanupJoined.Name = "CleanupJoined";
+            this.CleanupJoined.Size = new System.Drawing.Size(85, 13);
+            this.CleanupJoined.TabIndex = 13;
+            this.CleanupJoined.Text = "Cleanups Joined";
+            // 
+            // textBox4
+            // 
+            this.textBox4.BackColor = System.Drawing.Color.Ivory;
+            this.textBox4.Location = new System.Drawing.Point(23, 257);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(181, 20);
+            this.textBox4.TabIndex = 12;
             // 
             // dashboard
             // 
@@ -3027,12 +2982,10 @@
             this.panel10.PerformLayout();
             this.adminm.ResumeLayout(false);
             this.adminm.PerformLayout();
-            this.panel11.ResumeLayout(false);
-            this.panel11.PerformLayout();
-            this.panel12.ResumeLayout(false);
-            this.panel12.PerformLayout();
             this.panel13.ResumeLayout(false);
             this.panel13.PerformLayout();
+            this.PanelAddVol.ResumeLayout(false);
+            this.PanelAddVol.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -3131,23 +3084,6 @@
         private System.Windows.Forms.Label label71;
         private System.Windows.Forms.Label label72;
         private System.Windows.Forms.Panel adminm;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Panel panel11;
-        private System.Windows.Forms.Label label73;
-        private System.Windows.Forms.Label label74;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Label label75;
-        private System.Windows.Forms.Label label76;
-        private System.Windows.Forms.Label label77;
-        private System.Windows.Forms.Label label78;
-        private System.Windows.Forms.Panel panel12;
-        private System.Windows.Forms.Label label79;
-        private System.Windows.Forms.Label label80;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Label label81;
-        private System.Windows.Forms.Label label82;
-        private System.Windows.Forms.Label label83;
-        private System.Windows.Forms.Label label84;
         private System.Windows.Forms.Panel panel13;
         private System.Windows.Forms.Label label85;
         private System.Windows.Forms.Label label86;
@@ -3286,5 +3222,18 @@
         private System.Windows.Forms.Label label273;
         private System.Windows.Forms.Label label277;
         private System.Windows.Forms.Button Logout;
+        private System.Windows.Forms.Panel PanelAddVol;
+        private System.Windows.Forms.Button CloseAdd;
+        private System.Windows.Forms.Button AddForVol;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label Add;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label CleanupJoined;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Label Number;
+        private System.Windows.Forms.TextBox textBox3;
     }
 }
